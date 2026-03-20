@@ -25109,6 +25109,3006 @@ const RECIPES_DATA = [
       text: "Assemblez au dernier moment pour que le granola reste croustillant et que les fruits gardent leur fraîcheur."
     }
   ]
+},
+
+{
+  id: "rillettes-sardines-citron",
+  category: "apero-partage",
+  title: "Rillettes de sardines au citron",
+  image: "rillettes-sardines-citron",
+  time: 10,
+  difficulty: "Facile",
+  servings: 4,
+  tags: ["sans cuisson", "protéiné", "express", "oméga-3"],
+  ingredients: [
+    { id: "sardines_conserve", label: "Sardines en conserve", quantity: 200, unit: "g", role: "protein", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "fromage_blanc_0", label: "Fromage blanc 0%", quantity: 100, unit: "g", role: "protein", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "citron_jus", label: "Jus de citron", quantity: 15, unit: "ml", role: "neutral", scalable: false, sliderMin: 50, sliderMax: 150 },
+    { id: "moutarde", label: "Moutarde", quantity: 10, unit: "g", role: "neutral", scalable: false, sliderMin: 50, sliderMax: 150 },
+    { id: "oignon", label: "Oignon rouge", quantity: 30, unit: "g", role: "neutral", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "coriandre", label: "Coriandre fraîche", quantity: 5, unit: "g", role: "neutral", scalable: false, sliderMin: 50, sliderMax: 150 }
+  ],
+  steps: [
+    { title: "Écraser les sardines", text: "Égouttez les sardines et écrasez-les à la fourchette dans un bol." },
+    { title: "Mélanger", text: "Ajoutez le fromage blanc, la moutarde et le jus de citron. Mélangez bien." },
+    { title: "Assaisonner", text: "Émincez finement l'oignon rouge et la coriandre. Incorporez au mélange. Salez, poivrez." },
+    { title: "Servir", text: "Servez sur des toasts de pain complet ou des bâtonnets de légumes crus." }
+  ],
+  tips: [
+    { type: "green", title: "Boost oméga-3", text: "Les sardines en conserve sont une excellente source d'oméga-3 et de calcium grâce aux arêtes." },
+    { type: "red", title: "Conservation", text: "Ne préparez pas trop à l'avance, le fromage blanc peut rendre le mélange trop liquide après 24h." }
+  ]
+},
+{
+  id: "verrines-crevettes-avocat-mangue",
+  category: "apero-partage",
+  title: "Verrines crevettes avocat mangue",
+  image: "verrines-crevettes-avocat-mangue",
+  time: 15,
+  difficulty: "Facile",
+  servings: 6,
+  tags: ["sans cuisson", "frais", "coloré", "protéiné"],
+  ingredients: [
+    { id: "crevettes", label: "Crevettes décortiquées", quantity: 250, unit: "g", role: "protein", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "avocat", label: "Avocat", quantity: 150, unit: "g", role: "fat", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "mangue", label: "Mangue", quantity: 150, unit: "g", role: "carb", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "citron_vert", label: "Citron vert", quantity: 20, unit: "ml", role: "neutral", scalable: false, sliderMin: 50, sliderMax: 150 },
+    { id: "coriandre", label: "Coriandre fraîche", quantity: 5, unit: "g", role: "neutral", scalable: false, sliderMin: 50, sliderMax: 150 },
+    { id: "sauce_sriracha", label: "Sauce sriracha", quantity: 5, unit: "ml", role: "neutral", scalable: false, sliderMin: 50, sliderMax: 150 }
+  ],
+  steps: [
+    { title: "Préparer l'avocat", text: "Coupez l'avocat en petits dés. Arrosez de la moitié du citron vert pour éviter l'oxydation." },
+    { title: "Couper la mangue", text: "Détaillez la mangue en petits dés de taille similaire à l'avocat." },
+    { title: "Assembler les verrines", text: "Déposez une couche d'avocat au fond de chaque verrine, puis la mangue, puis les crevettes." },
+    { title: "Assaisonner et servir", text: "Arrosez du reste de citron vert, ajoutez une pointe de sriracha et décorez de coriandre fraîche." }
+  ],
+  tips: [
+    { type: "green", title: "Présentation", text: "Utilisez des verrines transparentes pour mettre en valeur les différentes couches de couleurs." },
+    { type: "red", title: "Timing", text: "Assemblez les verrines au dernier moment pour éviter que l'avocat ne noircisse." }
+  ]
+},
+{
+  id: "houmous-betterave-feta",
+  category: "apero-partage",
+  title: "Houmous de betterave et feta émiettée",
+  image: "houmous-betterave-feta",
+  time: 10,
+  difficulty: "Facile",
+  servings: 6,
+  tags: ["végétarien", "sans cuisson", "coloré", "protéiné"],
+  ingredients: [
+    { id: "pois_chiches_cuits", label: "Pois chiches cuits", quantity: 250, unit: "g", role: "carb", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "betterave_cuite", label: "Betterave cuite", quantity: 150, unit: "g", role: "neutral", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "feta", label: "Feta émiettée", quantity: 60, unit: "g", role: "protein", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "sauce_tahini", label: "Tahini", quantity: 20, unit: "g", role: "fat", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "citron_jus", label: "Jus de citron", quantity: 15, unit: "ml", role: "neutral", scalable: false, sliderMin: 50, sliderMax: 150 },
+    { id: "ail", label: "Gousse d'ail", quantity: 5, unit: "g", role: "neutral", scalable: false, sliderMin: 50, sliderMax: 150 },
+    { id: "huile_olive", label: "Huile d'olive", quantity: 10, unit: "ml", role: "fat", scalable: false, sliderMin: 50, sliderMax: 150 }
+  ],
+  steps: [
+    { title: "Mixer la base", text: "Mixez les pois chiches, la betterave, le tahini, l'ail et le jus de citron jusqu'à obtenir une texture lisse." },
+    { title: "Assaisonner", text: "Salez, poivrez et ajustez la texture avec un peu d'eau si nécessaire." },
+    { title: "Dresser", text: "Versez le houmous dans un bol, créez un puits au centre, ajoutez un filet d'huile d'olive." },
+    { title: "Garnir", text: "Émiettez la feta par-dessus et servez avec des crudités ou du pain pita." }
+  ],
+  tips: [
+    { type: "green", title: "Couleur intense", text: "La betterave donne une magnifique couleur rose vif qui impressionne toujours les invités." },
+    { type: "red", title: "Texture", text: "Ne mixez pas trop longtemps la feta, elle doit rester en morceaux pour le contraste." }
+  ]
+},
+{
+  id: "mini-brochettes-yakitori-poulet",
+  category: "apero-partage",
+  title: "Mini brochettes yakitori au poulet",
+  image: "mini-brochettes-yakitori-poulet",
+  time: 25,
+  difficulty: "Facile",
+  servings: 6,
+  tags: ["asiatique", "protéiné", "grillé", "convivial"],
+  ingredients: [
+    { id: "poulet", label: "Filet de poulet", quantity: 400, unit: "g", role: "protein", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "sauce_soja", label: "Sauce soja", quantity: 30, unit: "ml", role: "neutral", scalable: false, sliderMin: 50, sliderMax: 150 },
+    { id: "miel", label: "Miel", quantity: 20, unit: "g", role: "neutral", scalable: false, sliderMin: 50, sliderMax: 150 },
+    { id: "gingembre", label: "Gingembre frais râpé", quantity: 10, unit: "g", role: "neutral", scalable: false, sliderMin: 50, sliderMax: 150 },
+    { id: "ail", label: "Ail émincé", quantity: 5, unit: "g", role: "neutral", scalable: false, sliderMin: 50, sliderMax: 150 },
+    { id: "huile_sesame", label: "Huile de sésame", quantity: 5, unit: "ml", role: "fat", scalable: false, sliderMin: 50, sliderMax: 150 }
+  ],
+  steps: [
+    { title: "Préparer la sauce", text: "Mélangez la sauce soja, le miel, le gingembre râpé, l'ail émincé et l'huile de sésame dans un bol." },
+    { title: "Découper le poulet", text: "Coupez le poulet en cubes de 2 cm et enfilez-les sur des pics en bois préalablement trempés dans l'eau." },
+    { title: "Mariner", text: "Badigeonnez les brochettes de sauce yakitori et laissez mariner 10 minutes minimum." },
+    { title: "Cuire", text: "Faites griller les brochettes à la poêle ou au four (grill) pendant 8-10 min en les retournant et en les badigeonnant régulièrement de sauce." }
+  ],
+  tips: [
+    { type: "green", title: "Caramélisation", text: "Le miel va caraméliser à la cuisson pour donner un enrobage laqué irrésistible." },
+    { type: "red", title: "Cuisson", text: "Ne laissez pas brûler le miel. Surveillez bien et baissez le feu si la sauce noircit." }
+  ]
+},
+{
+  id: "falafels-pois-chiches-herbes",
+  category: "apero-partage",
+  title: "Falafels croustillants aux herbes",
+  image: "falafels-pois-chiches-herbes",
+  time: 30,
+  difficulty: "Moyen",
+  servings: 6,
+  tags: ["végétarien", "protéiné", "croustillant", "healthy"],
+  ingredients: [
+    { id: "pois_chiches_cuits", label: "Pois chiches cuits", quantity: 400, unit: "g", role: "carb", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "oignon", label: "Oignon", quantity: 60, unit: "g", role: "neutral", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "ail", label: "Ail", quantity: 10, unit: "g", role: "neutral", scalable: false, sliderMin: 50, sliderMax: 150 },
+    { id: "coriandre", label: "Coriandre fraîche", quantity: 15, unit: "g", role: "neutral", scalable: false, sliderMin: 50, sliderMax: 150 },
+    { id: "farine_complete", label: "Farine complète", quantity: 30, unit: "g", role: "carb", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "huile_olive", label: "Huile d'olive", quantity: 15, unit: "ml", role: "fat", scalable: false, sliderMin: 50, sliderMax: 150 },
+    { id: "citron_jus", label: "Jus de citron", quantity: 10, unit: "ml", role: "neutral", scalable: false, sliderMin: 50, sliderMax: 150 }
+  ],
+  steps: [
+    { title: "Mixer les pois chiches", text: "Mixez grossièrement les pois chiches avec l'oignon, l'ail et la coriandre. La texture doit rester granuleuse, pas lisse." },
+    { title: "Former la pâte", text: "Ajoutez la farine complète, le jus de citron, du sel et du cumin. Mélangez bien et réfrigérez 15 min." },
+    { title: "Façonner", text: "Formez des petites boulettes aplaties de la taille d'une noix avec les mains légèrement huilées." },
+    { title: "Cuire au four", text: "Disposez sur une plaque huilée et enfournez à 200°C pendant 20 min en retournant à mi-cuisson, jusqu'à ce qu'ils soient dorés." }
+  ],
+  tips: [
+    { type: "green", title: "Cuisson au four", text: "La cuisson au four donne des falafels croustillants avec beaucoup moins de matières grasses que la friture." },
+    { type: "red", title: "Texture", text: "Ne mixez pas trop finement, les falafels doivent garder de la texture pour rester croustillants." }
+  ]
+},
+{
+  id: "tartare-thon-sesame-soja",
+  category: "apero-partage",
+  title: "Tartare de thon sésame et soja",
+  image: "tartare-thon-sesame-soja",
+  time: 15,
+  difficulty: "Facile",
+  servings: 4,
+  tags: ["sans cuisson", "asiatique", "protéiné", "frais"],
+  ingredients: [
+    { id: "thon", label: "Thon frais (sushi grade)", quantity: 300, unit: "g", role: "protein", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "avocat", label: "Avocat", quantity: 100, unit: "g", role: "fat", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "sauce_soja", label: "Sauce soja", quantity: 20, unit: "ml", role: "neutral", scalable: false, sliderMin: 50, sliderMax: 150 },
+    { id: "huile_sesame", label: "Huile de sésame", quantity: 10, unit: "ml", role: "fat", scalable: false, sliderMin: 50, sliderMax: 150 },
+    { id: "citron_vert", label: "Jus de citron vert", quantity: 15, unit: "ml", role: "neutral", scalable: false, sliderMin: 50, sliderMax: 150 },
+    { id: "gingembre", label: "Gingembre frais râpé", quantity: 5, unit: "g", role: "neutral", scalable: false, sliderMin: 50, sliderMax: 150 },
+    { id: "coriandre", label: "Coriandre fraîche", quantity: 5, unit: "g", role: "neutral", scalable: false, sliderMin: 50, sliderMax: 150 }
+  ],
+  steps: [
+    { title: "Couper le thon", text: "Coupez le thon en petits dés réguliers d'environ 1 cm. Placez au frais." },
+    { title: "Préparer la marinade", text: "Mélangez la sauce soja, l'huile de sésame, le citron vert et le gingembre râpé." },
+    { title: "Assembler", text: "Coupez l'avocat en dés. Mélangez délicatement le thon, l'avocat et la marinade." },
+    { title: "Dresser", text: "Dressez à l'aide d'un cercle, parsemez de coriandre ciselée et servez frais avec des chips de riz." }
+  ],
+  tips: [
+    { type: "green", title: "Fraîcheur", text: "Utilisez du poisson très frais de qualité sushi pour un résultat optimal et sans risque." },
+    { type: "red", title: "Assaisonnement", text: "N'ajoutez pas de sel supplémentaire, la sauce soja est déjà très salée." }
+  ]
+},
+{
+  id: "chips-patate-douce-paprika",
+  category: "apero-partage",
+  title: "Chips de patate douce au paprika",
+  image: "chips-patate-douce-paprika",
+  time: 35,
+  difficulty: "Facile",
+  servings: 4,
+  tags: ["vegan", "sans gluten", "croustillant", "healthy"],
+  ingredients: [
+    { id: "patate_douce", label: "Patate douce", quantity: 400, unit: "g", role: "carb", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "huile_olive", label: "Huile d'olive", quantity: 15, unit: "ml", role: "fat", scalable: false, sliderMin: 50, sliderMax: 150 }
+  ],
+  steps: [
+    { title: "Trancher finement", text: "Coupez la patate douce en tranches très fines (2 mm max) à l'aide d'une mandoline." },
+    { title: "Assaisonner", text: "Mélangez les tranches avec l'huile d'olive, le paprika, le sel et le poivre dans un grand bol." },
+    { title: "Disposer", text: "Étalez les tranches en une seule couche sur une plaque recouverte de papier cuisson, sans les superposer." },
+    { title: "Cuire", text: "Enfournez à 180°C pendant 20-25 min en retournant à mi-cuisson. Les chips doivent être dorées et croustillantes." }
+  ],
+  tips: [
+    { type: "green", title: "Croustillant", text: "Plus les tranches sont fines, plus les chips seront croustillantes. Une mandoline est indispensable." },
+    { type: "red", title: "Surveillance", text: "Les chips passent très vite du doré au brûlé. Surveillez les dernières minutes de cuisson." }
+  ]
+},
+{
+  id: "roules-courgette-ricotta-saumon",
+  category: "apero-partage",
+  title: "Roulés de courgette ricotta saumon",
+  image: "roules-courgette-ricotta-saumon",
+  time: 25,
+  difficulty: "Moyen",
+  servings: 6,
+  tags: ["sans gluten", "protéiné", "élégant", "frais"],
+  ingredients: [
+    { id: "courgette", label: "Courgettes", quantity: 300, unit: "g", role: "neutral", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "saumon", label: "Saumon fumé", quantity: 150, unit: "g", role: "protein", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "ricotta", label: "Ricotta", quantity: 120, unit: "g", role: "protein", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "citron_jus", label: "Jus de citron", quantity: 10, unit: "ml", role: "neutral", scalable: false, sliderMin: 50, sliderMax: 150 },
+    { id: "huile_olive", label: "Huile d'olive", quantity: 10, unit: "ml", role: "fat", scalable: false, sliderMin: 50, sliderMax: 150 }
+  ],
+  steps: [
+    { title: "Trancher les courgettes", text: "Coupez les courgettes en fines lamelles dans la longueur à l'aide d'une mandoline ou d'un éplucheur." },
+    { title: "Griller les lamelles", text: "Faites griller les lamelles de courgette sur une poêle grill ou au four avec un filet d'huile d'olive, 2 min par face." },
+    { title: "Préparer la garniture", text: "Mélangez la ricotta avec le jus de citron, du sel et du poivre. Ajoutez des herbes fraîches si désiré." },
+    { title: "Rouler", text: "Sur chaque lamelle de courgette, déposez une tranche de saumon fumé, une cuillère de ricotta citronnée, puis roulez serré. Maintenez avec un pic si nécessaire." }
+  ],
+  tips: [
+    { type: "green", title: "Préparation à l'avance", text: "Ces roulés se préparent très bien la veille et se conservent au réfrigérateur couverts d'un film." },
+    { type: "red", title: "Épaisseur", text: "Des lamelles trop épaisses seront difficiles à rouler. Visez 2-3 mm d'épaisseur maximum." }
+  ]
+},
+{
+  id: "bouchees-concombre-thon-cottage",
+  category: "apero-partage",
+  title: "Bouchées de concombre au thon et cottage cheese",
+  image: "bouchees-concombre-thon-cottage",
+  time: 10,
+  difficulty: "Facile",
+  servings: 4,
+  tags: ["sans cuisson", "express", "protéiné", "léger"],
+  ingredients: [
+    { id: "concombre", label: "Concombre", quantity: 300, unit: "g", role: "neutral", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "thon_conserve", label: "Thon en conserve", quantity: 160, unit: "g", role: "protein", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "cottage_cheese", label: "Cottage cheese", quantity: 100, unit: "g", role: "protein", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "citron_jus", label: "Jus de citron", quantity: 10, unit: "ml", role: "neutral", scalable: false, sliderMin: 50, sliderMax: 150 },
+    { id: "coriandre", label: "Ciboulette", quantity: 5, unit: "g", role: "neutral", scalable: false, sliderMin: 50, sliderMax: 150 }
+  ],
+  steps: [
+    { title: "Préparer le concombre", text: "Coupez le concombre en rondelles épaisses de 2 cm. Évidez légèrement le centre avec une petite cuillère pour créer un creux." },
+    { title: "Préparer la garniture", text: "Égouttez le thon, mélangez-le avec le cottage cheese et le jus de citron. Salez, poivrez." },
+    { title: "Garnir", text: "Déposez une cuillère généreuse de garniture dans chaque rondelle de concombre." },
+    { title: "Décorer", text: "Parsemez de ciboulette ciselée et servez immédiatement bien frais." }
+  ],
+  tips: [
+    { type: "green", title: "Ultra-protéiné", text: "Avec le thon et le cottage cheese combinés, chaque bouchée est un concentré de protéines." },
+    { type: "red", title: "Excès d'eau", text: "Égouttez bien le thon et séchez les rondelles de concombre pour éviter que l'eau ne détrempe la garniture." }
+  ]
+},
+{
+  id: "champignons-farcis-dinde-ail",
+  category: "apero-partage",
+  title: "Champignons farcis à la dinde et à l'ail",
+  image: "champignons-farcis-dinde-ail",
+  time: 30,
+  difficulty: "Facile",
+  servings: 6,
+  tags: ["protéiné", "sans gluten", "gratiné", "convivial"],
+  ingredients: [
+    { id: "champignon", label: "Gros champignons de Paris", quantity: 400, unit: "g", role: "neutral", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "dinde", label: "Haché de dinde", quantity: 200, unit: "g", role: "protein", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "ail", label: "Ail émincé", quantity: 10, unit: "g", role: "neutral", scalable: false, sliderMin: 50, sliderMax: 150 },
+    { id: "parmesan", label: "Parmesan râpé", quantity: 30, unit: "g", role: "protein", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "fromage_blanc_0", label: "Fromage blanc 0%", quantity: 40, unit: "g", role: "protein", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "huile_olive", label: "Huile d'olive", quantity: 10, unit: "ml", role: "fat", scalable: false, sliderMin: 50, sliderMax: 150 }
+  ],
+  steps: [
+    { title: "Préparer les champignons", text: "Lavez les champignons, retirez les pieds et hachez-les finement. Creusez légèrement les chapeaux." },
+    { title: "Cuire la farce", text: "Faites revenir le haché de dinde avec les pieds hachés, l'ail et l'huile d'olive pendant 5 min." },
+    { title: "Assembler", text: "Hors du feu, ajoutez le fromage blanc et la moitié du parmesan. Salez, poivrez. Garnissez chaque chapeau." },
+    { title: "Gratiner", text: "Parsemez du reste de parmesan et enfournez à 200°C pendant 15-18 min jusqu'à ce qu'ils soient dorés." }
+  ],
+  tips: [
+    { type: "green", title: "Choix des champignons", text: "Choisissez les plus gros champignons possible pour faciliter le farcissage et avoir une belle bouchée." },
+    { type: "red", title: "Excès d'eau", text: "Ne lavez pas les champignons trop longtemps sous l'eau, ils s'en gorgent. Préférez un essuyage rapide." }
+  ]
+},
+{
+  id: "mini-galettes-sarrasin-chevre-miel",
+  category: "apero-partage",
+  title: "Mini galettes sarrasin chèvre miel",
+  image: "mini-galettes-sarrasin-chevre-miel",
+  time: 20,
+  difficulty: "Facile",
+  servings: 6,
+  tags: ["végétarien", "sucré-salé", "convivial", "croustillant"],
+  ingredients: [
+    { id: "galette_sarrasin", label: "Galettes de sarrasin", quantity: 4, unit: "pièces", role: "neutral", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "chevre_frais", label: "Chèvre frais", quantity: 120, unit: "g", role: "protein", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "miel", label: "Miel", quantity: 20, unit: "g", role: "neutral", scalable: false, sliderMin: 50, sliderMax: 150 },
+    { id: "noix", label: "Cerneaux de noix", quantity: 30, unit: "g", role: "fat", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "salade_verte", label: "Roquette", quantity: 30, unit: "g", role: "neutral", scalable: true, sliderMin: 50, sliderMax: 200 }
+  ],
+  steps: [
+    { title: "Découper les galettes", text: "Coupez chaque galette en 4 triangles ou utilisez un emporte-pièce pour faire des disques." },
+    { title: "Garnir", text: "Tartinez chaque mini galette de chèvre frais. Ajoutez quelques feuilles de roquette." },
+    { title: "Topper", text: "Déposez un morceau de noix concassée et un filet de miel sur chaque bouchée." },
+    { title: "Passer au four (optionnel)", text: "Pour un résultat tiède et fondant, passez 5 min au four à 180°C avant d'ajouter la roquette et le miel." }
+  ],
+  tips: [
+    { type: "green", title: "Sucré-salé", text: "Le mélange chèvre-miel-noix est un classique français indémodable qui plaît à tous." },
+    { type: "red", title: "Miel", text: "Ajoutez le miel au dernier moment pour qu'il ne soit pas absorbé par la galette." }
+  ]
+},
+{
+  id: "dip-cottage-cheese-herbes-ail",
+  category: "apero-partage",
+  title: "Dip protéiné cottage cheese et herbes",
+  image: "dip-cottage-cheese-herbes-ail",
+  time: 5,
+  difficulty: "Facile",
+  servings: 4,
+  tags: ["express", "protéiné", "végétarien", "sans cuisson"],
+  ingredients: [
+    { id: "cottage_cheese", label: "Cottage cheese", quantity: 250, unit: "g", role: "protein", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "ail", label: "Ail pressé", quantity: 5, unit: "g", role: "neutral", scalable: false, sliderMin: 50, sliderMax: 150 },
+    { id: "citron_jus", label: "Jus de citron", quantity: 10, unit: "ml", role: "neutral", scalable: false, sliderMin: 50, sliderMax: 150 },
+    { id: "huile_olive", label: "Huile d'olive", quantity: 10, unit: "ml", role: "fat", scalable: false, sliderMin: 50, sliderMax: 150 },
+    { id: "concombre", label: "Concombre (pour dipper)", quantity: 200, unit: "g", role: "neutral", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "carotte", label: "Carottes (pour dipper)", quantity: 150, unit: "g", role: "neutral", scalable: true, sliderMin: 50, sliderMax: 200 }
+  ],
+  steps: [
+    { title: "Mixer le cottage cheese", text: "Mixez légèrement le cottage cheese pour lisser la texture tout en gardant quelques morceaux." },
+    { title: "Assaisonner", text: "Ajoutez l'ail pressé, le jus de citron, l'huile d'olive, du sel et du poivre. Mélangez avec des herbes fraîches (persil, ciboulette, aneth)." },
+    { title: "Préparer les dippers", text: "Coupez le concombre et les carottes en bâtonnets réguliers." },
+    { title: "Servir", text: "Présentez le dip dans un bol au centre d'un plateau entouré des bâtonnets de légumes." }
+  ],
+  tips: [
+    { type: "green", title: "Protéines ++", text: "Le cottage cheese apporte beaucoup plus de protéines qu'un dip classique à base de crème." },
+    { type: "red", title: "Goût ail", text: "L'ail cru peut être fort. Commencez par une petite quantité et ajustez à votre goût." }
+  ]
+},
+{
+  id: "bruschetta-tomate-pesto-mozzarella",
+  category: "apero-partage",
+  title: "Bruschetta tomate pesto mozzarella",
+  image: "bruschetta-tomate-pesto-mozzarella",
+  time: 15,
+  difficulty: "Facile",
+  servings: 6,
+  tags: ["italien", "végétarien", "convivial", "classique"],
+  ingredients: [
+    { id: "pain_complet", label: "Pain complet tranché", quantity: 200, unit: "g", role: "neutral", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "tomate", label: "Tomates mûres", quantity: 250, unit: "g", role: "neutral", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "mozzarella", label: "Mozzarella", quantity: 125, unit: "g", role: "protein", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "pesto", label: "Pesto", quantity: 30, unit: "g", role: "neutral", scalable: false, sliderMin: 50, sliderMax: 150 },
+    { id: "vinaigre_balsamique", label: "Vinaigre balsamique", quantity: 10, unit: "ml", role: "neutral", scalable: false, sliderMin: 50, sliderMax: 150 },
+    { id: "huile_olive", label: "Huile d'olive", quantity: 10, unit: "ml", role: "fat", scalable: false, sliderMin: 50, sliderMax: 150 }
+  ],
+  steps: [
+    { title: "Toaster le pain", text: "Coupez le pain en tranches et faites-les griller au four ou au grille-pain jusqu'à ce qu'elles soient croustillantes." },
+    { title: "Préparer les tomates", text: "Coupez les tomates en petits dés. Assaisonnez de sel, poivre et un filet d'huile d'olive." },
+    { title: "Assembler", text: "Tartinez chaque toast de pesto, ajoutez les dés de tomate et une tranche de mozzarella." },
+    { title: "Finir", text: "Arrosez d'un filet de vinaigre balsamique et servez immédiatement." }
+  ],
+  tips: [
+    { type: "green", title: "Tomates de saison", text: "Le goût de cette bruschetta dépend entièrement de la qualité des tomates. Privilégiez les tomates de saison bien mûres." },
+    { type: "red", title: "Timing", text: "Assemblez au dernier moment pour que le pain reste croustillant et ne ramollisse pas." }
+  ]
+},
+{
+  id: "baba-ganoush-aubergine-grillee",
+  category: "apero-partage",
+  title: "Baba ganoush à l'aubergine grillée",
+  image: "baba-ganoush-aubergine-grillee",
+  time: 40,
+  difficulty: "Facile",
+  servings: 6,
+  tags: ["vegan", "méditerranéen", "fumé", "healthy"],
+  ingredients: [
+    { id: "aubergine", label: "Aubergines", quantity: 400, unit: "g", role: "neutral", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "sauce_tahini", label: "Tahini", quantity: 30, unit: "g", role: "fat", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "ail", label: "Gousse d'ail", quantity: 5, unit: "g", role: "neutral", scalable: false, sliderMin: 50, sliderMax: 150 },
+    { id: "citron_jus", label: "Jus de citron", quantity: 20, unit: "ml", role: "neutral", scalable: false, sliderMin: 50, sliderMax: 150 },
+    { id: "huile_olive", label: "Huile d'olive", quantity: 15, unit: "ml", role: "fat", scalable: false, sliderMin: 50, sliderMax: 150 },
+    { id: "pain_pita", label: "Pain pita", quantity: 200, unit: "g", role: "neutral", scalable: true, sliderMin: 50, sliderMax: 200 }
+  ],
+  steps: [
+    { title: "Griller les aubergines", text: "Piquez les aubergines à la fourchette et faites-les griller entières au four à 220°C pendant 30 min jusqu'à ce que la peau soit noircie et la chair tendre." },
+    { title: "Récupérer la chair", text: "Laissez refroidir, puis coupez en deux et récupérez la chair à la cuillère. Égouttez l'excès d'eau." },
+    { title: "Mixer", text: "Mixez la chair d'aubergine avec le tahini, l'ail, le jus de citron et l'huile d'olive. Salez et poivrez." },
+    { title: "Servir", text: "Dressez dans un bol, créez un puits, ajoutez un filet d'huile d'olive et servez avec du pain pita coupé en triangles." }
+  ],
+  tips: [
+    { type: "green", title: "Saveur fumée", text: "Pour un goût encore plus fumé, grillez les aubergines directement sur la flamme du gaz pendant quelques minutes." },
+    { type: "red", title: "Amertume", text: "Bien égoutter la chair d'aubergine est essentiel pour éviter l'amertume et la texture aqueuse." }
+  ]
+},
+{
+  id: "samossas-poulet-curry-four",
+  category: "apero-partage",
+  title: "Samossas poulet curry au four",
+  image: "samossas-poulet-curry-four",
+  time: 35,
+  difficulty: "Moyen",
+  servings: 6,
+  tags: ["protéiné", "croustillant", "épicé", "indien"],
+  ingredients: [
+    { id: "poulet", label: "Filet de poulet", quantity: 250, unit: "g", role: "protein", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "tortilla_ble", label: "Tortillas de blé (feuilles)", quantity: 4, unit: "pièces", role: "neutral", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "oignon", label: "Oignon", quantity: 60, unit: "g", role: "neutral", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "pate_curry", label: "Pâte de curry", quantity: 15, unit: "g", role: "neutral", scalable: false, sliderMin: 50, sliderMax: 150 },
+    { id: "petits_pois", label: "Petits pois", quantity: 80, unit: "g", role: "neutral", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "huile_olive", label: "Huile d'olive", quantity: 10, unit: "ml", role: "fat", scalable: false, sliderMin: 50, sliderMax: 150 }
+  ],
+  steps: [
+    { title: "Préparer la farce", text: "Hachez finement le poulet. Faites revenir l'oignon émincé, ajoutez le poulet et la pâte de curry. Cuisez 8 min." },
+    { title: "Ajouter les petits pois", text: "Incorporez les petits pois, salez, poivrez et laissez refroidir légèrement la farce." },
+    { title: "Former les samossas", text: "Coupez chaque tortilla en 3 bandes. Déposez de la farce à une extrémité et pliez en triangle successif pour former le samossa." },
+    { title: "Cuire au four", text: "Badigeonnez d'un peu d'huile d'olive et enfournez à 200°C pendant 12-15 min jusqu'à ce qu'ils soient dorés et croustillants." }
+  ],
+  tips: [
+    { type: "green", title: "Version light", text: "Les tortillas de blé permettent de faire des samossas croustillants au four, sans friture." },
+    { type: "red", title: "Pliage", text: "Veillez à bien sceller les bords des samossas pour éviter que la farce ne s'échappe à la cuisson." }
+  ]
+},
+{
+  id: "tzatziki-concombre-aneth",
+  category: "apero-partage",
+  title: "Tzatziki au concombre et aneth",
+  image: "tzatziki-concombre-aneth",
+  time: 10,
+  difficulty: "Facile",
+  servings: 6,
+  tags: ["végétarien", "grec", "frais", "protéiné"],
+  ingredients: [
+    { id: "yaourt_grec", label: "Yaourt grec", quantity: 250, unit: "g", role: "protein", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "concombre", label: "Concombre", quantity: 200, unit: "g", role: "neutral", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "ail", label: "Ail pressé", quantity: 5, unit: "g", role: "neutral", scalable: false, sliderMin: 50, sliderMax: 150 },
+    { id: "citron_jus", label: "Jus de citron", quantity: 15, unit: "ml", role: "neutral", scalable: false, sliderMin: 50, sliderMax: 150 },
+    { id: "huile_olive", label: "Huile d'olive", quantity: 10, unit: "ml", role: "fat", scalable: false, sliderMin: 50, sliderMax: 150 },
+    { id: "pain_pita", label: "Pain pita", quantity: 150, unit: "g", role: "neutral", scalable: true, sliderMin: 50, sliderMax: 200 }
+  ],
+  steps: [
+    { title: "Râper le concombre", text: "Râpez le concombre et pressez-le fortement dans un torchon propre pour extraire un maximum d'eau." },
+    { title: "Mélanger", text: "Dans un bol, mélangez le yaourt grec, le concombre pressé, l'ail, le jus de citron et l'huile d'olive." },
+    { title: "Assaisonner", text: "Salez, poivrez et ajoutez de l'aneth frais ciselé. Mélangez et placez au réfrigérateur 30 min." },
+    { title: "Servir", text: "Servez bien frais avec du pain pita grillé coupé en triangles et des bâtonnets de crudités." }
+  ],
+  tips: [
+    { type: "green", title: "Égouttage", text: "Bien presser le concombre est la clé d'un tzatziki épais et savoureux, pas liquide." },
+    { type: "red", title: "Ail cru", text: "L'ail cru est puissant dans le tzatziki. Commencez petit et goûtez avant d'en rajouter." }
+  ]
+},
+{
+  id: "houmous-poivron-grille-harissa",
+  category: "apero-partage",
+  title: "Houmous au poivron grillé et harissa",
+  image: "houmous-poivron-grille-harissa",
+  time: 15,
+  difficulty: "Facile",
+  servings: 6,
+  tags: ["vegan", "épicé", "méditerranéen", "protéiné"],
+  ingredients: [
+    { id: "pois_chiches_cuits", label: "Pois chiches cuits", quantity: 300, unit: "g", role: "carb", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "poivron_rouge", label: "Poivron rouge grillé", quantity: 120, unit: "g", role: "neutral", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "harissa", label: "Harissa", quantity: 10, unit: "g", role: "neutral", scalable: false, sliderMin: 50, sliderMax: 150 },
+    { id: "sauce_tahini", label: "Tahini", quantity: 25, unit: "g", role: "fat", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "citron_jus", label: "Jus de citron", quantity: 15, unit: "ml", role: "neutral", scalable: false, sliderMin: 50, sliderMax: 150 },
+    { id: "ail", label: "Gousse d'ail", quantity: 5, unit: "g", role: "neutral", scalable: false, sliderMin: 50, sliderMax: 150 },
+    { id: "huile_olive", label: "Huile d'olive", quantity: 10, unit: "ml", role: "fat", scalable: false, sliderMin: 50, sliderMax: 150 }
+  ],
+  steps: [
+    { title: "Griller le poivron", text: "Si le poivron n'est pas déjà grillé, passez-le au four à 220°C pendant 20 min, puis pelez-le." },
+    { title: "Mixer", text: "Mixez les pois chiches, le poivron grillé, le tahini, l'ail, le citron et la harissa jusqu'à obtenir une texture lisse." },
+    { title: "Ajuster", text: "Goûtez et ajustez la harissa selon votre tolérance au piment. Ajoutez de l'eau si trop épais." },
+    { title: "Servir", text: "Dressez dans un bol, créez un puits, ajoutez un filet d'huile d'olive et une pointe de harissa pour la déco." }
+  ],
+  tips: [
+    { type: "green", title: "Saveur fumée", text: "Le poivron grillé apporte une douceur fumée qui équilibre parfaitement le piquant de la harissa." },
+    { type: "red", title: "Dosage harissa", text: "La harissa est très variable en intensité selon les marques. Goûtez toujours avant d'en ajouter plus." }
+  ]
+},
+{
+  id: "blinis-saumon-ricotta-citron",
+  category: "apero-partage",
+  title: "Blinis au saumon fumé et ricotta citronnée",
+  image: "blinis-saumon-ricotta-citron",
+  time: 20,
+  difficulty: "Facile",
+  servings: 6,
+  tags: ["classique", "élégant", "protéiné", "fête"],
+  ingredients: [
+    { id: "farine_complete", label: "Farine complète", quantity: 100, unit: "g", role: "carb", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "oeuf", label: "Œuf", quantity: 1, unit: "pièce", role: "protein", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "lait", label: "Lait", quantity: 100, unit: "ml", role: "neutral", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "saumon", label: "Saumon fumé", quantity: 150, unit: "g", role: "protein", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "ricotta", label: "Ricotta", quantity: 100, unit: "g", role: "protein", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "citron_jus", label: "Jus de citron", quantity: 10, unit: "ml", role: "neutral", scalable: false, sliderMin: 50, sliderMax: 150 }
+  ],
+  steps: [
+    { title: "Préparer la pâte à blinis", text: "Mélangez la farine, l'œuf et le lait jusqu'à obtenir une pâte lisse. Salez légèrement." },
+    { title: "Cuire les blinis", text: "Faites chauffer une poêle antiadhésive. Déposez des petites cuillerées de pâte et cuisez 2 min par face." },
+    { title: "Préparer le topping", text: "Mélangez la ricotta avec le jus de citron, du sel et du poivre. Coupez le saumon en lanières." },
+    { title: "Assembler", text: "Sur chaque blini tiède, déposez une cuillère de ricotta citronnée et une rosace de saumon fumé." }
+  ],
+  tips: [
+    { type: "green", title: "Blinis maison", text: "Les blinis maison à la farine complète sont bien plus nutritifs et savoureux que les versions industrielles." },
+    { type: "red", title: "Taille", text: "Faites de petits blinis (5 cm de diamètre) pour une bouchée facile à manger debout." }
+  ]
+},
+{
+  id: "edamame-grilles-sesame-soja",
+  category: "apero-partage",
+  title: "Edamame grillés au sésame et soja",
+  image: "edamame-grilles-sesame-soja",
+  time: 15,
+  difficulty: "Facile",
+  servings: 4,
+  tags: ["vegan", "asiatique", "express", "protéiné"],
+  ingredients: [
+    { id: "edamame", label: "Edamame surgelés", quantity: 400, unit: "g", role: "protein", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "sauce_soja", label: "Sauce soja", quantity: 15, unit: "ml", role: "neutral", scalable: false, sliderMin: 50, sliderMax: 150 },
+    { id: "huile_sesame", label: "Huile de sésame", quantity: 10, unit: "ml", role: "fat", scalable: false, sliderMin: 50, sliderMax: 150 },
+    { id: "ail", label: "Ail émincé", quantity: 5, unit: "g", role: "neutral", scalable: false, sliderMin: 50, sliderMax: 150 },
+    { id: "gingembre", label: "Gingembre frais", quantity: 5, unit: "g", role: "neutral", scalable: false, sliderMin: 50, sliderMax: 150 }
+  ],
+  steps: [
+    { title: "Cuire les edamame", text: "Faites bouillir les edamame 3 minutes dans de l'eau salée. Égouttez bien." },
+    { title: "Préparer la sauce", text: "Mélangez la sauce soja, l'huile de sésame, l'ail émincé et le gingembre râpé." },
+    { title: "Griller", text: "Dans une poêle bien chaude, faites sauter les edamame 3-4 min pour les faire légèrement griller." },
+    { title: "Assaisonner et servir", text: "Versez la sauce sur les edamame chauds, mélangez bien. Servez tièdes dans un bol." }
+  ],
+  tips: [
+    { type: "green", title: "Protéines végétales", text: "Les edamame sont l'un des snacks apéro les plus riches en protéines végétales complètes." },
+    { type: "red", title: "Sel", text: "Attention au sel : entre l'eau de cuisson et la sauce soja, il est facile de trop saler." }
+  ]
+},
+{
+  id: "crostini-chevre-miel-noix-figues",
+  category: "apero-partage",
+  title: "Crostini chèvre miel et noix",
+  image: "crostini-chevre-miel-noix-figues",
+  time: 15,
+  difficulty: "Facile",
+  servings: 6,
+  tags: ["végétarien", "sucré-salé", "élégant", "rapide"],
+  ingredients: [
+    { id: "pain_complet", label: "Baguette de pain complet", quantity: 200, unit: "g", role: "neutral", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "chevre_frais", label: "Chèvre frais", quantity: 150, unit: "g", role: "protein", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "miel", label: "Miel", quantity: 25, unit: "g", role: "neutral", scalable: false, sliderMin: 50, sliderMax: 150 },
+    { id: "noix", label: "Cerneaux de noix", quantity: 40, unit: "g", role: "fat", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "huile_olive", label: "Huile d'olive", quantity: 10, unit: "ml", role: "fat", scalable: false, sliderMin: 50, sliderMax: 150 }
+  ],
+  steps: [
+    { title: "Toaster le pain", text: "Coupez la baguette en tranches de 1 cm d'épaisseur. Badigeonnez d'huile d'olive et grillez au four à 200°C pendant 5 min." },
+    { title: "Concasser les noix", text: "Concassez grossièrement les noix. Faites-les torréfier à sec dans une poêle 2-3 min pour développer les arômes." },
+    { title: "Garnir", text: "Tartinez généreusement chaque crostini de chèvre frais." },
+    { title: "Finaliser", text: "Répartissez les noix torréfiées sur le chèvre et terminez par un filet de miel. Servez immédiatement." }
+  ],
+  tips: [
+    { type: "green", title: "Torréfaction", text: "Les noix torréfiées à sec développent un arôme beaucoup plus intense que crues." },
+    { type: "red", title: "Pain rassis", text: "Le pain ne doit pas être trop grillé sinon il sera trop dur et cassera quand on mord dedans." }
+  ]
+},
+
+{
+  id: "dhal-lentilles-epinards-coco",
+  category: "dejeuner",
+  title: "Dhal de Lentilles aux Épinards et Lait de Coco",
+  image: "dhal-lentilles-epinards-coco",
+  time: 35,
+  difficulty: "Facile",
+  tags: ["Végétarien", "Indien", "Réconfortant", "Meal prep"],
+  ingredients: [
+    { id: "lentilles", label: "Lentilles corail (poids sec)", quantity: 80, unit: "g", role: "carb", scalable: true, rawRatio: 2 },
+    { id: "epinards", label: "Épinards frais", quantity: 100, unit: "g", role: "neutral", scalable: true },
+    { id: "lait_coco", label: "Lait de coco", quantity: 80, unit: "ml", role: "fat", scalable: true },
+    { id: "oignon", label: "Oignon", quantity: 60, unit: "g", role: "neutral", scalable: true },
+    { id: "tomate", label: "Tomate concassée", quantity: 100, unit: "g", role: "neutral", scalable: true },
+    { id: "ail", label: "Ail", quantity: 5, unit: "g", role: "neutral", scalable: false },
+    { id: "gingembre", label: "Gingembre frais", quantity: 5, unit: "g", role: "neutral", scalable: false },
+    { id: "pate_curry", label: "Pâte de curry", quantity: 10, unit: "g", role: "neutral", scalable: false },
+    { id: "citron_jus", label: "Jus de citron", quantity: 10, unit: "ml", role: "neutral", scalable: false },
+    { id: "coriandre", label: "Coriandre fraîche", quantity: 5, unit: "g", role: "neutral", scalable: false }
+  ],
+  steps: [
+    { title: "Faire revenir", text: "Faire revenir l'oignon émincé avec l'ail et le gingembre dans un filet d'huile pendant 3 minutes." },
+    { title: "Ajouter les épices", text: "Incorporer la pâte de curry et mélanger 1 minute pour libérer les arômes." },
+    { title: "Cuire les lentilles", text: "Ajouter les lentilles corail, la tomate concassée et 300 ml d'eau. Laisser mijoter 20 minutes à feu doux en remuant régulièrement." },
+    { title: "Finaliser", text: "Verser le lait de coco, ajouter les épinards et cuire 5 minutes supplémentaires. Presser le citron et parsemer de coriandre." }
+  ],
+  tips: [
+    { type: "green", title: "Meal prep", text: "Ce dhal se conserve 4 jours au frigo et se congèle très bien. Préparez une grande quantité pour la semaine." },
+    { type: "red", title: "Attention", text: "Les lentilles corail cuisent vite et peuvent attacher au fond, remuez souvent." }
+  ],
+  sliderMin: 80,
+  sliderMax: 150
+},
+{
+  id: "bo-bun-boeuf-menthe",
+  category: "dejeuner",
+  title: "Bo Bun Vietnamien au Bœuf",
+  image: "bo-bun-boeuf-menthe",
+  time: 25,
+  difficulty: "Moyen",
+  tags: ["Asiatique", "Vietnamien", "Frais", "Été"],
+  ingredients: [
+    { id: "boeuf", label: "Bœuf émincé", quantity: 130, unit: "g", role: "protein", scalable: true },
+    { id: "vermicelles_riz", label: "Vermicelles de riz (poids cuit)", quantity: 120, unit: "g", role: "carb", scalable: true },
+    { id: "carotte", label: "Carotte râpée", quantity: 60, unit: "g", role: "neutral", scalable: true },
+    { id: "concombre", label: "Concombre", quantity: 60, unit: "g", role: "neutral", scalable: true },
+    { id: "salade_verte", label: "Salade verte", quantity: 40, unit: "g", role: "neutral", scalable: true },
+    { id: "cacahuetes", label: "Cacahuètes concassées", quantity: 10, unit: "g", role: "fat", scalable: false },
+    { id: "coriandre", label: "Coriandre et menthe", quantity: 5, unit: "g", role: "neutral", scalable: false },
+    { id: "sauce_nuoc_mam", label: "Nuoc mam", quantity: 15, unit: "ml", role: "neutral", scalable: false },
+    { id: "citron_vert", label: "Citron vert", quantity: 15, unit: "ml", role: "neutral", scalable: false },
+    { id: "sauce_sriracha", label: "Sauce Sriracha", quantity: 5, unit: "ml", role: "neutral", scalable: false },
+    { id: "huile_sesame", label: "Huile de sésame", quantity: 5, unit: "ml", role: "fat", scalable: false }
+  ],
+  steps: [
+    { title: "Préparer la sauce", text: "Mélanger le nuoc mam, le jus de citron vert, la sriracha et l'huile de sésame dans un bol." },
+    { title: "Cuire les vermicelles", text: "Plonger les vermicelles de riz dans de l'eau bouillante 3 minutes, égoutter et rincer à l'eau froide." },
+    { title: "Saisir le bœuf", text: "Saisir le bœuf émincé à feu très vif dans une poêle chaude pendant 2 minutes. Réserver." },
+    { title: "Dresser le bo bun", text: "Disposer la salade, les vermicelles froids, la carotte, le concombre, le bœuf et les herbes. Napper de sauce et parsemer de cacahuètes." }
+  ],
+  tips: [
+    { type: "green", title: "Fraîcheur", text: "Plus les herbes sont fraîches et abondantes, meilleur sera le bo bun. N'hésitez pas à ajouter de la menthe." },
+    { type: "red", title: "Cuisson du bœuf", text: "Saisissez le bœuf à feu très vif pour qu'il reste tendre. Trop de cuisson le rendra sec." }
+  ],
+  sliderMin: 80,
+  sliderMax: 160
+},
+{
+  id: "paella-poulet-crevettes-light",
+  category: "dejeuner",
+  title: "Paella Poulet & Crevettes Light",
+  image: "paella-poulet-crevettes-light",
+  time: 45,
+  difficulty: "Avancé",
+  tags: ["Espagnol", "Complet", "Convivial", "Riz"],
+  ingredients: [
+    { id: "poulet", label: "Blancs de poulet émincés", quantity: 100, unit: "g", role: "protein", scalable: true },
+    { id: "crevettes", label: "Crevettes décortiquées", quantity: 60, unit: "g", role: "protein", scalable: true },
+    { id: "riz", label: "Riz (poids sec)", quantity: 70, unit: "g", role: "carb", scalable: true, rawRatio: 2.25 },
+    { id: "poivron_rouge", label: "Poivron rouge", quantity: 60, unit: "g", role: "neutral", scalable: true },
+    { id: "petits_pois", label: "Petits pois", quantity: 50, unit: "g", role: "neutral", scalable: true },
+    { id: "tomate", label: "Tomate", quantity: 80, unit: "g", role: "neutral", scalable: true },
+    { id: "oignon", label: "Oignon", quantity: 50, unit: "g", role: "neutral", scalable: true },
+    { id: "ail", label: "Ail", quantity: 5, unit: "g", role: "neutral", scalable: false },
+    { id: "huile_olive", label: "Huile d'olive", quantity: 8, unit: "ml", role: "fat", scalable: false },
+    { id: "citron_jus", label: "Jus de citron", quantity: 10, unit: "ml", role: "neutral", scalable: false }
+  ],
+  steps: [
+    { title: "Saisir les protéines", text: "Faire dorer le poulet émincé dans l'huile d'olive 4 minutes. Réserver. Saisir les crevettes 2 minutes de chaque côté. Réserver." },
+    { title: "Préparer la base", text: "Faire revenir l'oignon et l'ail 3 minutes, ajouter le poivron et la tomate coupée. Cuire 5 minutes." },
+    { title: "Cuire le riz", text: "Ajouter le riz sec et mélanger 1 minute. Verser 200 ml d'eau chaude et cuire à feu doux 18 minutes sans remuer." },
+    { title: "Assembler", text: "Ajouter le poulet, les crevettes et les petits pois sur le riz. Couvrir 5 minutes. Servir avec un filet de citron." }
+  ],
+  tips: [
+    { type: "green", title: "Socarrat", text: "Le secret d'une bonne paella, c'est la croûte de riz au fond : ne remuez jamais le riz pendant la cuisson." },
+    { type: "red", title: "Eau", text: "N'ajoutez pas trop d'eau d'un coup, le riz doit absorber progressivement le bouillon." }
+  ],
+  sliderMin: 70,
+  sliderMax: 160
+},
+{
+  id: "moussaka-legere-aubergine",
+  category: "dejeuner",
+  title: "Moussaka Légère à l'Aubergine",
+  image: "moussaka-legere-aubergine",
+  time: 50,
+  difficulty: "Avancé",
+  tags: ["Grec", "Gratin", "Réconfortant", "Meal prep"],
+  ingredients: [
+    { id: "boeuf_hache_5", label: "Bœuf haché 5%", quantity: 130, unit: "g", role: "protein", scalable: true },
+    { id: "aubergine", label: "Aubergine", quantity: 200, unit: "g", role: "neutral", scalable: true },
+    { id: "pomme_de_terre", label: "Pomme de terre", quantity: 100, unit: "g", role: "carb", scalable: true, rawRatio: 1 },
+    { id: "sauce_tomate", label: "Sauce tomate", quantity: 80, unit: "g", role: "neutral", scalable: true },
+    { id: "oignon", label: "Oignon", quantity: 50, unit: "g", role: "neutral", scalable: true },
+    { id: "fromage_rape", label: "Fromage râpé", quantity: 15, unit: "g", role: "fat", scalable: false },
+    { id: "yaourt_grec", label: "Yaourt grec (béchamel légère)", quantity: 40, unit: "g", role: "neutral", scalable: false },
+    { id: "ail", label: "Ail", quantity: 5, unit: "g", role: "neutral", scalable: false },
+    { id: "huile_olive", label: "Huile d'olive", quantity: 5, unit: "ml", role: "fat", scalable: false }
+  ],
+  steps: [
+    { title: "Griller les aubergines", text: "Couper les aubergines en tranches de 1 cm, badigeonner légèrement d'huile d'olive et griller au four à 200°C pendant 15 minutes." },
+    { title: "Préparer la viande", text: "Faire revenir l'oignon et l'ail, ajouter le bœuf haché et cuire 5 minutes. Incorporer la sauce tomate et laisser mijoter 10 minutes." },
+    { title: "Monter la moussaka", text: "Alterner dans un plat : pommes de terre tranchées finement, viande, aubergines grillées. Répéter les couches." },
+    { title: "Gratiner", text: "Napper de yaourt grec, saupoudrer de fromage râpé et enfourner 20 minutes à 180°C jusqu'à coloration dorée." }
+  ],
+  tips: [
+    { type: "green", title: "Béchamel légère", text: "Le yaourt grec remplace la béchamel classique : moins gras mais tout aussi crémeux après cuisson." },
+    { type: "red", title: "Aubergines", text: "Ne sautez pas l'étape du four pour les aubergines, sinon elles absorberont trop de graisse à la poêle." }
+  ],
+  sliderMin: 70,
+  sliderMax: 150
+},
+{
+  id: "gratin-pates-poulet-brocoli-v2",
+  category: "dejeuner",
+  title: "Gratin de Pâtes au Poulet et Brocoli",
+  image: "gratin-pates-poulet-brocoli-v2",
+  time: 35,
+  difficulty: "Facile",
+  tags: ["Gratin", "Réconfortant", "Complet", "Famille"],
+  ingredients: [
+    { id: "poulet", label: "Poulet émincé", quantity: 130, unit: "g", role: "protein", scalable: true },
+    { id: "pates", label: "Pâtes (poids sec)", quantity: 70, unit: "g", role: "carb", scalable: true, rawRatio: 2.5 },
+    { id: "brocoli", label: "Brocoli en fleurettes", quantity: 120, unit: "g", role: "neutral", scalable: true },
+    { id: "creme_legere", label: "Crème légère", quantity: 40, unit: "ml", role: "fat", scalable: true },
+    { id: "fromage_rape", label: "Fromage râpé", quantity: 20, unit: "g", role: "fat", scalable: false },
+    { id: "moutarde", label: "Moutarde de Dijon", quantity: 8, unit: "g", role: "neutral", scalable: false },
+    { id: "ail", label: "Ail", quantity: 3, unit: "g", role: "neutral", scalable: false }
+  ],
+  steps: [
+    { title: "Cuire les pâtes", text: "Cuire les pâtes al dente selon les instructions. Ajouter le brocoli dans l'eau les 3 dernières minutes de cuisson. Égoutter." },
+    { title: "Préparer la sauce", text: "Faire revenir le poulet émincé avec l'ail. Ajouter la crème légère et la moutarde. Bien mélanger." },
+    { title: "Assembler", text: "Mélanger pâtes, brocoli et sauce poulet dans un plat à gratin. Saupoudrer de fromage râpé." },
+    { title: "Gratiner", text: "Enfourner 12 minutes à 200°C jusqu'à ce que le dessus soit bien doré et croustillant." }
+  ],
+  tips: [
+    { type: "green", title: "Gain de temps", text: "Cuire le brocoli directement dans l'eau des pâtes permet de gagner du temps et de salir moins de vaisselle." },
+    { type: "red", title: "Cuisson des pâtes", text: "Cuisez les pâtes très al dente car elles continueront de cuire au four." }
+  ],
+  sliderMin: 70,
+  sliderMax: 160
+},
+{
+  id: "poulet-roti-legumes-herbes",
+  category: "dejeuner",
+  title: "Poulet Rôti aux Légumes et Herbes",
+  image: "poulet-roti-legumes-herbes",
+  time: 40,
+  difficulty: "Facile",
+  tags: ["Classique", "Français", "Réconfortant", "Meal prep"],
+  ingredients: [
+    { id: "poulet", label: "Haut de cuisse de poulet", quantity: 150, unit: "g", role: "protein", scalable: true },
+    { id: "pomme_de_terre", label: "Pommes de terre", quantity: 120, unit: "g", role: "carb", scalable: true, rawRatio: 1 },
+    { id: "carotte", label: "Carottes", quantity: 80, unit: "g", role: "neutral", scalable: true },
+    { id: "courgette", label: "Courgette", quantity: 80, unit: "g", role: "neutral", scalable: true },
+    { id: "oignon", label: "Oignon", quantity: 50, unit: "g", role: "neutral", scalable: true },
+    { id: "huile_olive", label: "Huile d'olive", quantity: 8, unit: "ml", role: "fat", scalable: false },
+    { id: "ail", label: "Ail", quantity: 5, unit: "g", role: "neutral", scalable: false },
+    { id: "moutarde", label: "Moutarde", quantity: 10, unit: "g", role: "neutral", scalable: false },
+    { id: "citron_jus", label: "Jus de citron", quantity: 10, unit: "ml", role: "neutral", scalable: false }
+  ],
+  steps: [
+    { title: "Mariner le poulet", text: "Badigeonner le poulet de moutarde, jus de citron, ail haché et huile d'olive. Laisser mariner 10 minutes." },
+    { title: "Préparer les légumes", text: "Couper les pommes de terre, carottes, courgette et oignon en morceaux. Disposer dans un plat allant au four." },
+    { title: "Rôtir", text: "Poser le poulet sur les légumes. Enfourner à 200°C pendant 30 minutes en retournant les légumes à mi-cuisson." },
+    { title: "Servir", text: "Vérifier la cuisson du poulet (le jus doit être clair). Servir directement dans le plat." }
+  ],
+  tips: [
+    { type: "green", title: "One-pan", text: "Le jus du poulet arrose les légumes pendant la cuisson pour un maximum de saveur." },
+    { type: "red", title: "Taille des légumes", text: "Coupez les pommes de terre plus finement que les courgettes car elles mettent plus longtemps à cuire." }
+  ],
+  sliderMin: 70,
+  sliderMax: 160
+},
+{
+  id: "saumon-gravlax-bowl-avocat",
+  category: "dejeuner",
+  title: "Saumon Gravlax Bowl à l'Avocat",
+  image: "saumon-gravlax-bowl-avocat",
+  time: 15,
+  difficulty: "Facile",
+  tags: ["Scandinave", "Bowl", "Healthy", "Sans cuisson"],
+  ingredients: [
+    { id: "saumon", label: "Saumon frais (gravlax ou fumé)", quantity: 120, unit: "g", role: "protein", scalable: true },
+    { id: "riz", label: "Riz (poids sec)", quantity: 65, unit: "g", role: "carb", scalable: true, rawRatio: 2.25 },
+    { id: "avocat", label: "Avocat", quantity: 50, unit: "g", role: "fat", scalable: true },
+    { id: "concombre", label: "Concombre", quantity: 60, unit: "g", role: "neutral", scalable: true },
+    { id: "edamame", label: "Edamame", quantity: 40, unit: "g", role: "neutral", scalable: true },
+    { id: "radis", label: "Radis", quantity: 30, unit: "g", role: "neutral", scalable: true },
+    { id: "sauce_soja", label: "Sauce soja", quantity: 10, unit: "ml", role: "neutral", scalable: false },
+    { id: "huile_sesame", label: "Huile de sésame", quantity: 3, unit: "ml", role: "fat", scalable: false },
+    { id: "citron_jus", label: "Jus de citron", quantity: 10, unit: "ml", role: "neutral", scalable: false },
+    { id: "gingembre", label: "Gingembre frais râpé", quantity: 3, unit: "g", role: "neutral", scalable: false }
+  ],
+  steps: [
+    { title: "Cuire le riz", text: "Cuire le riz selon les instructions et le laisser refroidir légèrement. Assaisonner d'un filet de jus de citron." },
+    { title: "Préparer les garnitures", text: "Trancher finement le saumon, le concombre et les radis. Couper l'avocat en lamelles." },
+    { title: "Préparer la sauce", text: "Mélanger la sauce soja, l'huile de sésame, le gingembre râpé et le reste du citron." },
+    { title: "Dresser le bowl", text: "Disposer le riz dans un bol, ajouter harmonieusement le saumon, l'avocat, le concombre, les edamame et les radis. Napper de sauce." }
+  ],
+  tips: [
+    { type: "green", title: "Variante", text: "Si vous n'avez pas de saumon gravlax, du saumon fumé ou du saumon cru frais fonctionne très bien." },
+    { type: "red", title: "Avocat", text: "Coupez l'avocat au dernier moment pour éviter qu'il ne noircisse." }
+  ],
+  sliderMin: 70,
+  sliderMax: 150
+},
+{
+  id: "tofu-general-tao-riz",
+  category: "dejeuner",
+  title: "Tofu Général Tao et Riz",
+  image: "tofu-general-tao-riz",
+  time: 30,
+  difficulty: "Moyen",
+  tags: ["Asiatique", "Végétarien", "Sucré-salé", "Croustillant"],
+  ingredients: [
+    { id: "tofu", label: "Tofu ferme", quantity: 180, unit: "g", role: "protein", scalable: true },
+    { id: "riz", label: "Riz (poids sec)", quantity: 65, unit: "g", role: "carb", scalable: true, rawRatio: 2.25 },
+    { id: "brocoli", label: "Brocoli", quantity: 100, unit: "g", role: "neutral", scalable: true },
+    { id: "farine", label: "Farine (pour enrober)", quantity: 15, unit: "g", role: "neutral", scalable: false },
+    { id: "sauce_soja", label: "Sauce soja", quantity: 15, unit: "ml", role: "neutral", scalable: false },
+    { id: "miel", label: "Miel", quantity: 10, unit: "g", role: "neutral", scalable: false },
+    { id: "vinaigre_balsamique", label: "Vinaigre", quantity: 8, unit: "ml", role: "neutral", scalable: false },
+    { id: "sauce_sriracha", label: "Sriracha", quantity: 5, unit: "ml", role: "neutral", scalable: false },
+    { id: "ail", label: "Ail", quantity: 5, unit: "g", role: "neutral", scalable: false },
+    { id: "gingembre", label: "Gingembre", quantity: 5, unit: "g", role: "neutral", scalable: false },
+    { id: "huile_sesame", label: "Huile de sésame", quantity: 5, unit: "ml", role: "fat", scalable: false }
+  ],
+  steps: [
+    { title: "Préparer le tofu", text: "Couper le tofu en cubes, bien le presser dans du papier absorbant. L'enrober légèrement de farine." },
+    { title: "Saisir le tofu", text: "Faire dorer les cubes de tofu dans l'huile de sésame à feu vif 5-6 minutes en retournant régulièrement jusqu'à coloration." },
+    { title: "Préparer la sauce", text: "Mélanger sauce soja, miel, vinaigre, sriracha, ail et gingembre. Verser sur le tofu et cuire 2 minutes jusqu'à épaississement." },
+    { title: "Servir", text: "Cuire le riz et le brocoli à la vapeur. Servir le tofu glacé sur le riz avec le brocoli." }
+  ],
+  tips: [
+    { type: "green", title: "Tofu croustillant", text: "Bien presser le tofu pour retirer l'eau est essentiel pour obtenir une texture croustillante." },
+    { type: "red", title: "Sauce", text: "Surveillez la sauce de près, le miel peut brûler rapidement à feu trop vif." }
+  ],
+  sliderMin: 70,
+  sliderMax: 160
+},
+{
+  id: "poke-bowl-thon-sesame-frais",
+  category: "dejeuner",
+  title: "Poke Bowl au Thon Frais et Sésame",
+  image: "poke-bowl-thon-sesame-frais",
+  time: 15,
+  difficulty: "Facile",
+  tags: ["Hawaïen", "Bowl", "Frais", "Healthy"],
+  ingredients: [
+    { id: "thon", label: "Thon frais (qualité sashimi)", quantity: 130, unit: "g", role: "protein", scalable: true },
+    { id: "riz", label: "Riz (poids sec)", quantity: 65, unit: "g", role: "carb", scalable: true, rawRatio: 2.25 },
+    { id: "avocat", label: "Avocat", quantity: 40, unit: "g", role: "fat", scalable: true },
+    { id: "concombre", label: "Concombre", quantity: 60, unit: "g", role: "neutral", scalable: true },
+    { id: "edamame", label: "Edamame", quantity: 40, unit: "g", role: "neutral", scalable: true },
+    { id: "carotte", label: "Carotte râpée", quantity: 40, unit: "g", role: "neutral", scalable: true },
+    { id: "sauce_soja", label: "Sauce soja", quantity: 12, unit: "ml", role: "neutral", scalable: false },
+    { id: "huile_sesame", label: "Huile de sésame", quantity: 5, unit: "ml", role: "fat", scalable: false },
+    { id: "citron_vert", label: "Jus de citron vert", quantity: 10, unit: "ml", role: "neutral", scalable: false },
+    { id: "gingembre", label: "Gingembre râpé", quantity: 3, unit: "g", role: "neutral", scalable: false }
+  ],
+  steps: [
+    { title: "Mariner le thon", text: "Couper le thon en cubes de 2 cm. Le mélanger avec la sauce soja, l'huile de sésame, le citron vert et le gingembre. Laisser mariner 10 minutes au frais." },
+    { title: "Préparer le riz", text: "Cuire le riz et le laisser tiédir. Assaisonner d'un filet de vinaigre de riz si disponible." },
+    { title: "Préparer les garnitures", text: "Trancher le concombre, couper l'avocat, râper la carotte et décongeler les edamame." },
+    { title: "Dresser", text: "Disposer le riz dans un bol, ajouter les garnitures en sections et le thon mariné au centre." }
+  ],
+  tips: [
+    { type: "green", title: "Qualité du thon", text: "Utilisez du thon qualité sashimi pour un poke bowl parfait. Demandez à votre poissonnier." },
+    { type: "red", title: "Température", text: "Gardez le thon au frais jusqu'au moment de servir pour préserver sa fraîcheur." }
+  ],
+  sliderMin: 70,
+  sliderMax: 150
+},
+{
+  id: "chana-masala-pois-chiches",
+  category: "dejeuner",
+  title: "Chana Masala aux Pois Chiches",
+  image: "chana-masala-pois-chiches",
+  time: 30,
+  difficulty: "Facile",
+  tags: ["Indien", "Végétarien", "Épicé", "Meal prep"],
+  ingredients: [
+    { id: "pois_chiches_cuits", label: "Pois chiches cuits", quantity: 200, unit: "g", role: "protein", scalable: true },
+    { id: "riz", label: "Riz (poids sec)", quantity: 60, unit: "g", role: "carb", scalable: true, rawRatio: 2.25 },
+    { id: "tomate", label: "Tomate concassée", quantity: 150, unit: "g", role: "neutral", scalable: true },
+    { id: "oignon", label: "Oignon", quantity: 60, unit: "g", role: "neutral", scalable: true },
+    { id: "ail", label: "Ail", quantity: 5, unit: "g", role: "neutral", scalable: false },
+    { id: "gingembre", label: "Gingembre frais", quantity: 5, unit: "g", role: "neutral", scalable: false },
+    { id: "pate_curry", label: "Pâte de curry", quantity: 10, unit: "g", role: "neutral", scalable: false },
+    { id: "huile_olive", label: "Huile d'olive", quantity: 5, unit: "ml", role: "fat", scalable: false },
+    { id: "citron_jus", label: "Jus de citron", quantity: 10, unit: "ml", role: "neutral", scalable: false },
+    { id: "coriandre", label: "Coriandre fraîche", quantity: 5, unit: "g", role: "neutral", scalable: false }
+  ],
+  steps: [
+    { title: "Faire revenir les aromats", text: "Chauffer l'huile, faire revenir l'oignon 3 minutes, ajouter l'ail, le gingembre et la pâte de curry. Cuire 1 minute." },
+    { title: "Ajouter la tomate", text: "Verser la tomate concassée et laisser réduire 5 minutes à feu moyen." },
+    { title: "Cuire les pois chiches", text: "Ajouter les pois chiches égouttés, 50 ml d'eau et laisser mijoter 15 minutes. Écraser légèrement quelques pois chiches pour épaissir la sauce." },
+    { title: "Finaliser", text: "Presser le jus de citron, parsemer de coriandre et servir avec le riz cuit à part." }
+  ],
+  tips: [
+    { type: "green", title: "Texture", text: "Écraser quelques pois chiches à la fourchette épaissit la sauce et la rend plus onctueuse." },
+    { type: "red", title: "Sel", text: "Goûtez avant de saler, la pâte de curry est souvent déjà bien assaisonnée." }
+  ],
+  sliderMin: 70,
+  sliderMax: 160
+},
+{
+  id: "pasta-pesto-poulet-tomates",
+  category: "dejeuner",
+  title: "Pasta al Pesto, Poulet et Tomates Cerises",
+  image: "pasta-pesto-poulet-tomates",
+  time: 20,
+  difficulty: "Facile",
+  tags: ["Italien", "Rapide", "Pâtes", "Classique"],
+  ingredients: [
+    { id: "poulet_grille", label: "Poulet grillé", quantity: 130, unit: "g", role: "protein", scalable: true },
+    { id: "pates", label: "Pâtes (poids sec)", quantity: 75, unit: "g", role: "carb", scalable: true, rawRatio: 2.5 },
+    { id: "pesto", label: "Pesto", quantity: 20, unit: "g", role: "neutral", scalable: false },
+    { id: "tomate", label: "Tomates cerises", quantity: 80, unit: "g", role: "neutral", scalable: true },
+    { id: "epinards", label: "Pousses d'épinards", quantity: 40, unit: "g", role: "neutral", scalable: true },
+    { id: "parmesan", label: "Parmesan râpé", quantity: 10, unit: "g", role: "fat", scalable: false },
+    { id: "ail", label: "Ail", quantity: 3, unit: "g", role: "neutral", scalable: false },
+    { id: "citron_jus", label: "Jus de citron", quantity: 5, unit: "ml", role: "neutral", scalable: false }
+  ],
+  steps: [
+    { title: "Cuire les pâtes", text: "Cuire les pâtes al dente, égoutter en réservant 2 cuillères à soupe d'eau de cuisson." },
+    { title: "Saisir le poulet", text: "Émincer le poulet grillé. Si non précuit, saisir dans une poêle chaude 5 minutes de chaque côté." },
+    { title: "Assembler", text: "Mélanger les pâtes chaudes avec le pesto, un peu d'eau de cuisson, les tomates coupées en deux et les épinards. Les épinards vont flétrir avec la chaleur." },
+    { title: "Servir", text: "Ajouter le poulet émincé, saupoudrer de parmesan et terminer par un filet de citron." }
+  ],
+  tips: [
+    { type: "green", title: "Eau de cuisson", text: "L'eau de cuisson des pâtes, riche en amidon, émulsionne le pesto et crée une sauce plus onctueuse." },
+    { type: "red", title: "Pesto", text: "N'ajoutez jamais le pesto sur feu vif, il perdrait ses arômes. Mélangez-le hors du feu." }
+  ],
+  sliderMin: 70,
+  sliderMax: 150
+},
+{
+  id: "boeuf-bourguignon-express",
+  category: "dejeuner",
+  title: "Bœuf Bourguignon Express Light",
+  image: "boeuf-bourguignon-express",
+  time: 50,
+  difficulty: "Avancé",
+  tags: ["Français", "Classique", "Mijoté", "Réconfortant"],
+  ingredients: [
+    { id: "boeuf", label: "Bœuf à braiser émincé fin", quantity: 150, unit: "g", role: "protein", scalable: true },
+    { id: "pomme_de_terre", label: "Pommes de terre", quantity: 120, unit: "g", role: "carb", scalable: true, rawRatio: 1 },
+    { id: "carotte", label: "Carottes", quantity: 80, unit: "g", role: "neutral", scalable: true },
+    { id: "champignon", label: "Champignons de Paris", quantity: 80, unit: "g", role: "neutral", scalable: true },
+    { id: "oignon", label: "Oignon", quantity: 50, unit: "g", role: "neutral", scalable: true },
+    { id: "concentre_tomate", label: "Concentré de tomate", quantity: 15, unit: "g", role: "neutral", scalable: false },
+    { id: "ail", label: "Ail", quantity: 5, unit: "g", role: "neutral", scalable: false },
+    { id: "huile_olive", label: "Huile d'olive", quantity: 5, unit: "ml", role: "fat", scalable: false },
+    { id: "moutarde", label: "Moutarde de Dijon", quantity: 5, unit: "g", role: "neutral", scalable: false }
+  ],
+  steps: [
+    { title: "Saisir le bœuf", text: "Saisir les morceaux de bœuf émincés fins dans l'huile d'olive à feu vif pour bien les colorer. Réserver." },
+    { title: "Faire revenir les légumes", text: "Faire revenir l'oignon, les carottes en rondelles et les champignons émincés pendant 5 minutes." },
+    { title: "Mijoter", text: "Remettre le bœuf, ajouter le concentré de tomate, la moutarde et 200 ml d'eau chaude. Ajouter les pommes de terre en cubes. Couvrir et laisser mijoter 35 minutes à feu doux." },
+    { title: "Servir", text: "Rectifier l'assaisonnement. La sauce doit être épaisse et nappante. Servir bien chaud." }
+  ],
+  tips: [
+    { type: "green", title: "Version express", text: "Émincer le bœuf finement permet de réduire le temps de cuisson d'un bourguignon classique de plusieurs heures." },
+    { type: "red", title: "Coloration", text: "Ne surchargez pas la poêle lors du saisissement : le bœuf doit dorer, pas bouillir." }
+  ],
+  sliderMin: 70,
+  sliderMax: 150
+},
+{
+  id: "burrito-bowl-poulet-haricots",
+  category: "dejeuner",
+  title: "Burrito Bowl Poulet et Haricots Noirs",
+  image: "burrito-bowl-poulet-haricots",
+  time: 25,
+  difficulty: "Facile",
+  tags: ["Mexicain", "Bowl", "Complet", "Épicé"],
+  ingredients: [
+    { id: "poulet_grille", label: "Poulet grillé", quantity: 120, unit: "g", role: "protein", scalable: true },
+    { id: "riz", label: "Riz (poids sec)", quantity: 60, unit: "g", role: "carb", scalable: true, rawRatio: 2.25 },
+    { id: "haricots_noirs", label: "Haricots noirs", quantity: 60, unit: "g", role: "carb", scalable: true },
+    { id: "poivron_rouge", label: "Poivron rouge", quantity: 60, unit: "g", role: "neutral", scalable: true },
+    { id: "mais_conserve", label: "Maïs", quantity: 40, unit: "g", role: "neutral", scalable: true },
+    { id: "tomate", label: "Tomate en dés", quantity: 60, unit: "g", role: "neutral", scalable: true },
+    { id: "salade_verte", label: "Salade verte", quantity: 30, unit: "g", role: "neutral", scalable: true },
+    { id: "avocat", label: "Avocat", quantity: 30, unit: "g", role: "fat", scalable: true },
+    { id: "citron_vert", label: "Citron vert", quantity: 10, unit: "ml", role: "neutral", scalable: false },
+    { id: "sauce_sriracha", label: "Sauce sriracha", quantity: 5, unit: "ml", role: "neutral", scalable: false }
+  ],
+  steps: [
+    { title: "Cuire le riz", text: "Cuire le riz et l'assaisonner avec le jus de citron vert une fois cuit." },
+    { title: "Préparer le poulet", text: "Émincer le poulet grillé. Si non précuit, assaisonner et griller 5 minutes de chaque côté." },
+    { title: "Réchauffer les haricots", text: "Réchauffer les haricots noirs égouttés dans une casserole avec un peu d'eau." },
+    { title: "Assembler le bowl", text: "Disposer le riz, le poulet, les haricots noirs, le poivron émincé, le maïs, la tomate, la salade et l'avocat. Arroser de sriracha." }
+  ],
+  tips: [
+    { type: "green", title: "Meal prep", text: "Préparez tous les composants à l'avance et assemblez au moment du repas pour un déjeuner express." },
+    { type: "red", title: "Haricots", text: "Rincez bien les haricots en conserve pour retirer l'excès de sel et le liquide visqueux." }
+  ],
+  sliderMin: 70,
+  sliderMax: 160
+},
+{
+  id: "chicken-parmesan-light",
+  category: "dejeuner",
+  title: "Chicken Parmesan Light",
+  image: "chicken-parmesan-light",
+  time: 35,
+  difficulty: "Moyen",
+  tags: ["Italien", "Américain", "Gratiné", "Croustillant"],
+  ingredients: [
+    { id: "poulet", label: "Escalope de poulet", quantity: 150, unit: "g", role: "protein", scalable: true },
+    { id: "pates", label: "Pâtes (poids sec)", quantity: 65, unit: "g", role: "carb", scalable: true, rawRatio: 2.5 },
+    { id: "sauce_tomate", label: "Sauce tomate", quantity: 80, unit: "g", role: "neutral", scalable: true },
+    { id: "mozzarella", label: "Mozzarella", quantity: 30, unit: "g", role: "fat", scalable: false },
+    { id: "parmesan", label: "Parmesan râpé", quantity: 10, unit: "g", role: "fat", scalable: false },
+    { id: "flocons_avoine", label: "Flocons d'avoine (panure)", quantity: 15, unit: "g", role: "neutral", scalable: false },
+    { id: "oeuf", label: "Œuf (pour panure)", quantity: 1, unit: "unité", role: "neutral", scalable: false },
+    { id: "ail", label: "Ail", quantity: 3, unit: "g", role: "neutral", scalable: false }
+  ],
+  steps: [
+    { title: "Préparer la panure", text: "Mixer les flocons d'avoine avec le parmesan pour obtenir une panure. Tremper l'escalope dans l'œuf battu puis dans la panure." },
+    { title: "Cuire le poulet", text: "Cuire l'escalope panée au four à 200°C pendant 15 minutes sur une plaque recouverte de papier sulfurisé." },
+    { title: "Gratiner", text: "Napper le poulet de sauce tomate, ajouter la mozzarella en tranches et remettre au four 5 minutes pour faire fondre le fromage." },
+    { title: "Servir", text: "Cuire les pâtes al dente. Servir le chicken parmesan sur les pâtes avec le reste de sauce." }
+  ],
+  tips: [
+    { type: "green", title: "Panure healthy", text: "Les flocons d'avoine mixés remplacent la chapelure classique pour une panure riche en fibres et en protéines." },
+    { type: "red", title: "Cuisson au four", text: "Cuire au four plutôt qu'en friture : même croustillant, beaucoup moins de matières grasses." }
+  ],
+  sliderMin: 70,
+  sliderMax: 150
+},
+{
+  id: "crevettes-ail-spaghetti-citron",
+  category: "dejeuner",
+  title: "Crevettes à l'Ail, Spaghetti et Citron",
+  image: "crevettes-ail-spaghetti-citron",
+  time: 20,
+  difficulty: "Facile",
+  tags: ["Italien", "Rapide", "Fruits de mer", "Léger"],
+  ingredients: [
+    { id: "crevettes", label: "Crevettes décortiquées", quantity: 150, unit: "g", role: "protein", scalable: true },
+    { id: "pates", label: "Spaghetti (poids sec)", quantity: 75, unit: "g", role: "carb", scalable: true, rawRatio: 2.5 },
+    { id: "courgette", label: "Courgette en rubans", quantity: 80, unit: "g", role: "neutral", scalable: true },
+    { id: "tomate", label: "Tomates cerises", quantity: 60, unit: "g", role: "neutral", scalable: true },
+    { id: "ail", label: "Ail", quantity: 8, unit: "g", role: "neutral", scalable: false },
+    { id: "huile_olive", label: "Huile d'olive", quantity: 8, unit: "ml", role: "fat", scalable: false },
+    { id: "citron_jus", label: "Jus de citron", quantity: 15, unit: "ml", role: "neutral", scalable: false },
+    { id: "pesto", label: "Pesto (optionnel)", quantity: 5, unit: "g", role: "neutral", scalable: false }
+  ],
+  steps: [
+    { title: "Cuire les spaghetti", text: "Cuire les spaghetti al dente dans l'eau bouillante salée. Réserver un peu d'eau de cuisson." },
+    { title: "Saisir les crevettes", text: "Chauffer l'huile d'olive, faire dorer l'ail émincé 30 secondes puis ajouter les crevettes. Saisir 2 minutes de chaque côté." },
+    { title: "Ajouter les légumes", text: "Ajouter les tomates cerises coupées en deux et les rubans de courgette. Cuire 2 minutes." },
+    { title: "Assembler", text: "Mélanger les spaghetti avec les crevettes et les légumes. Ajouter un peu d'eau de cuisson, le jus de citron et le pesto. Servir immédiatement." }
+  ],
+  tips: [
+    { type: "green", title: "Ail", text: "L'ail doit être doré, jamais brûlé. Retirez la poêle du feu si l'ail colore trop vite." },
+    { type: "red", title: "Crevettes", text: "Ne surcuisez pas les crevettes, elles deviennent caoutchouteuses en quelques secondes de trop." }
+  ],
+  sliderMin: 70,
+  sliderMax: 160
+},
+{
+  id: "fish-chips-cabillaud-light",
+  category: "dejeuner",
+  title: "Fish and Chips Light au Cabillaud",
+  image: "fish-chips-cabillaud-light",
+  time: 35,
+  difficulty: "Moyen",
+  tags: ["Anglais", "Croustillant", "Poisson", "Four"],
+  ingredients: [
+    { id: "cabillaud", label: "Filet de cabillaud", quantity: 150, unit: "g", role: "protein", scalable: true },
+    { id: "pomme_de_terre", label: "Pommes de terre (frites maison)", quantity: 150, unit: "g", role: "carb", scalable: true, rawRatio: 1 },
+    { id: "flocons_avoine", label: "Flocons d'avoine (panure)", quantity: 20, unit: "g", role: "neutral", scalable: false },
+    { id: "oeuf", label: "Œuf (pour panure)", quantity: 1, unit: "unité", role: "neutral", scalable: false },
+    { id: "petits_pois", label: "Petits pois (mushy peas)", quantity: 60, unit: "g", role: "neutral", scalable: true },
+    { id: "citron_jus", label: "Jus de citron", quantity: 10, unit: "ml", role: "neutral", scalable: false },
+    { id: "huile_olive", label: "Huile d'olive", quantity: 8, unit: "ml", role: "fat", scalable: false },
+    { id: "moutarde", label: "Moutarde", quantity: 5, unit: "g", role: "neutral", scalable: false }
+  ],
+  steps: [
+    { title: "Préparer les frites", text: "Couper les pommes de terre en bâtonnets, les enrober d'un filet d'huile d'olive et enfourner à 220°C pendant 25 minutes en retournant à mi-cuisson." },
+    { title: "Paner le poisson", text: "Tremper le cabillaud dans l'œuf battu mélangé à la moutarde, puis dans les flocons d'avoine mixés grossièrement." },
+    { title: "Cuire le poisson", text: "Placer le poisson pané sur une plaque et enfourner 15 minutes à 200°C jusqu'à ce que la panure soit dorée." },
+    { title: "Préparer les petits pois", text: "Cuire les petits pois, les écraser grossièrement à la fourchette avec un filet de citron pour des mushy peas maison. Servir le tout ensemble." }
+  ],
+  tips: [
+    { type: "green", title: "Frites croustillantes", text: "Faites tremper les bâtonnets de pommes de terre dans l'eau froide 15 minutes avant cuisson pour retirer l'amidon." },
+    { type: "red", title: "Température", text: "Le four doit être bien chaud pour que les frites et le poisson croustillent sans excès de matières grasses." }
+  ],
+  sliderMin: 70,
+  sliderMax: 160
+},
+{
+  id: "nouilles-soba-froides-tofu-sesame",
+  category: "dejeuner",
+  title: "Nouilles Soba Froides au Tofu et Sésame",
+  image: "nouilles-soba-froides-tofu-sesame",
+  time: 15,
+  difficulty: "Facile",
+  tags: ["Japonais", "Froid", "Végétarien", "Été"],
+  ingredients: [
+    { id: "tofu", label: "Tofu ferme", quantity: 150, unit: "g", role: "protein", scalable: true },
+    { id: "nouilles_soba_cuites", label: "Nouilles soba cuites", quantity: 160, unit: "g", role: "carb", scalable: true },
+    { id: "concombre", label: "Concombre", quantity: 60, unit: "g", role: "neutral", scalable: true },
+    { id: "carotte", label: "Carotte râpée", quantity: 50, unit: "g", role: "neutral", scalable: true },
+    { id: "edamame", label: "Edamame", quantity: 40, unit: "g", role: "neutral", scalable: true },
+    { id: "sauce_soja", label: "Sauce soja", quantity: 15, unit: "ml", role: "neutral", scalable: false },
+    { id: "sauce_tahini", label: "Sauce tahini", quantity: 10, unit: "g", role: "neutral", scalable: false },
+    { id: "huile_sesame", label: "Huile de sésame", quantity: 5, unit: "ml", role: "fat", scalable: false },
+    { id: "citron_vert", label: "Citron vert", quantity: 10, unit: "ml", role: "neutral", scalable: false },
+    { id: "gingembre", label: "Gingembre râpé", quantity: 3, unit: "g", role: "neutral", scalable: false }
+  ],
+  steps: [
+    { title: "Préparer les soba", text: "Rincer les nouilles soba cuites à l'eau froide pour stopper la cuisson et les rendre bien froides." },
+    { title: "Préparer la sauce", text: "Mélanger sauce soja, tahini, huile de sésame, citron vert et gingembre râpé jusqu'à obtenir une sauce homogène." },
+    { title: "Préparer le tofu", text: "Couper le tofu en dés et le faire dorer à sec dans une poêle antiadhésive 4 minutes." },
+    { title: "Assembler", text: "Mélanger les soba avec la sauce, disposer dans un bol avec le tofu, le concombre tranché, la carotte râpée et les edamame." }
+  ],
+  tips: [
+    { type: "green", title: "Repas froid", text: "Ce plat est parfait pour les journées chaudes et peut se préparer la veille pour un déjeuner à emporter." },
+    { type: "red", title: "Soba", text: "Rincez bien les nouilles soba à l'eau froide pour éviter qu'elles ne collent entre elles." }
+  ],
+  sliderMin: 70,
+  sliderMax: 150
+},
+{
+  id: "riz-poulet-one-pot-legumes",
+  category: "dejeuner",
+  title: "Riz au Poulet One-Pot aux Légumes",
+  image: "riz-poulet-one-pot-legumes",
+  time: 30,
+  difficulty: "Facile",
+  tags: ["One-pot", "Complet", "Rapide", "Famille"],
+  ingredients: [
+    { id: "poulet", label: "Blancs de poulet", quantity: 140, unit: "g", role: "protein", scalable: true },
+    { id: "riz", label: "Riz (poids sec)", quantity: 70, unit: "g", role: "carb", scalable: true, rawRatio: 2.25 },
+    { id: "poivron_rouge", label: "Poivron rouge", quantity: 60, unit: "g", role: "neutral", scalable: true },
+    { id: "courgette", label: "Courgette", quantity: 80, unit: "g", role: "neutral", scalable: true },
+    { id: "petits_pois", label: "Petits pois", quantity: 50, unit: "g", role: "neutral", scalable: true },
+    { id: "oignon", label: "Oignon", quantity: 40, unit: "g", role: "neutral", scalable: true },
+    { id: "concentre_tomate", label: "Concentré de tomate", quantity: 15, unit: "g", role: "neutral", scalable: false },
+    { id: "ail", label: "Ail", quantity: 5, unit: "g", role: "neutral", scalable: false },
+    { id: "huile_olive", label: "Huile d'olive", quantity: 5, unit: "ml", role: "fat", scalable: false },
+    { id: "citron_jus", label: "Jus de citron", quantity: 5, unit: "ml", role: "neutral", scalable: false }
+  ],
+  steps: [
+    { title: "Saisir le poulet", text: "Couper le poulet en morceaux et le faire dorer dans l'huile d'olive 5 minutes. Réserver." },
+    { title: "Faire revenir les légumes", text: "Dans la même casserole, faire revenir l'oignon, le poivron et la courgette 3 minutes avec l'ail." },
+    { title: "Cuire le riz", text: "Ajouter le riz sec, le concentré de tomate, le poulet et 180 ml d'eau. Couvrir et cuire à feu doux 18 minutes." },
+    { title: "Finaliser", text: "Ajouter les petits pois les 3 dernières minutes de cuisson. Égrener le riz à la fourchette et ajouter un filet de citron." }
+  ],
+  tips: [
+    { type: "green", title: "One-pot", text: "Un seul ustensile à laver et un repas complet. Idéal pour les soirs de flemme." },
+    { type: "red", title: "Eau", text: "Respectez le ratio eau/riz pour éviter un résultat trop collant ou pas assez cuit." }
+  ],
+  sliderMin: 70,
+  sliderMax: 160
+},
+{
+  id: "salade-cesar-poulet-parmesan",
+  category: "dejeuner",
+  title: "Salade César Poulet et Parmesan",
+  image: "salade-cesar-poulet-parmesan",
+  time: 20,
+  difficulty: "Facile",
+  tags: ["Salade", "Classique", "Américain", "Léger"],
+  ingredients: [
+    { id: "poulet_grille", label: "Poulet grillé", quantity: 140, unit: "g", role: "protein", scalable: true },
+    { id: "salade", label: "Laitue romaine", quantity: 100, unit: "g", role: "neutral", scalable: true },
+    { id: "pain_complet", label: "Pain complet (croûtons)", quantity: 30, unit: "g", role: "carb", scalable: true },
+    { id: "parmesan", label: "Parmesan en copeaux", quantity: 15, unit: "g", role: "fat", scalable: false },
+    { id: "yaourt_grec", label: "Yaourt grec (base sauce)", quantity: 30, unit: "g", role: "neutral", scalable: false },
+    { id: "moutarde", label: "Moutarde de Dijon", quantity: 5, unit: "g", role: "neutral", scalable: false },
+    { id: "citron_jus", label: "Jus de citron", quantity: 10, unit: "ml", role: "neutral", scalable: false },
+    { id: "ail", label: "Ail", quantity: 2, unit: "g", role: "neutral", scalable: false },
+    { id: "huile_olive", label: "Huile d'olive", quantity: 5, unit: "ml", role: "fat", scalable: false }
+  ],
+  steps: [
+    { title: "Préparer les croûtons", text: "Couper le pain en cubes, les badigeonner d'un filet d'huile d'olive et les toaster au four à 180°C pendant 8 minutes." },
+    { title: "Préparer la sauce César light", text: "Mélanger le yaourt grec, la moutarde, le jus de citron, l'ail écrasé et un filet d'huile d'olive jusqu'à obtenir une sauce lisse." },
+    { title: "Préparer la salade", text: "Couper la laitue romaine en morceaux, émincer le poulet grillé." },
+    { title: "Assembler", text: "Disposer la salade, le poulet, les croûtons, napper de sauce César et parsemer de copeaux de parmesan." }
+  ],
+  tips: [
+    { type: "green", title: "Sauce light", text: "Le yaourt grec remplace la mayonnaise de la recette classique pour une version bien plus légère et riche en protéines." },
+    { type: "red", title: "Croûtons", text: "Surveillez les croûtons au four, ils passent de dorés à brûlés très rapidement." }
+  ],
+  sliderMin: 60,
+  sliderMax: 150
+},
+{
+  id: "wrap-mediterraneen-houmous-poulet",
+  category: "dejeuner",
+  title: "Wrap Méditerranéen Houmous et Poulet",
+  image: "wrap-mediterraneen-houmous-poulet",
+  time: 15,
+  difficulty: "Facile",
+  tags: ["Méditerranéen", "Wrap", "Rapide", "À emporter"],
+  ingredients: [
+    { id: "poulet_grille", label: "Poulet grillé", quantity: 120, unit: "g", role: "protein", scalable: true },
+    { id: "tortilla_ble", label: "Tortilla de blé", quantity: 1, unit: "unité", role: "carb", scalable: true },
+    { id: "pois_chiches_cuits", label: "Houmous (pois chiches écrasés)", quantity: 40, unit: "g", role: "carb", scalable: false },
+    { id: "sauce_tahini", label: "Tahini", quantity: 8, unit: "g", role: "neutral", scalable: false },
+    { id: "tomate", label: "Tomate", quantity: 50, unit: "g", role: "neutral", scalable: true },
+    { id: "concombre", label: "Concombre", quantity: 50, unit: "g", role: "neutral", scalable: true },
+    { id: "salade_verte", label: "Salade verte", quantity: 20, unit: "g", role: "neutral", scalable: true },
+    { id: "oignon", label: "Oignon rouge", quantity: 20, unit: "g", role: "neutral", scalable: false },
+    { id: "citron_jus", label: "Jus de citron", quantity: 10, unit: "ml", role: "neutral", scalable: false },
+    { id: "feta", label: "Feta émiettée", quantity: 15, unit: "g", role: "fat", scalable: false }
+  ],
+  steps: [
+    { title: "Préparer le houmous express", text: "Écraser les pois chiches à la fourchette avec le tahini, le jus de citron et une pincée de sel pour un houmous express." },
+    { title: "Préparer les crudités", text: "Émincer la tomate, le concombre et l'oignon rouge en fines rondelles." },
+    { title: "Garnir le wrap", text: "Étaler le houmous sur la tortilla, ajouter la salade, le poulet émincé, les crudités et la feta émiettée." },
+    { title: "Rouler et servir", text: "Replier les côtés puis rouler le wrap bien serré. Couper en deux en diagonale pour le service." }
+  ],
+  tips: [
+    { type: "green", title: "À emporter", text: "Enveloppez le wrap dans du papier aluminium pour le transporter facilement au bureau." },
+    { type: "red", title: "Humidité", text: "Ne mettez pas trop de tomate ou de concombre pour éviter que le wrap ne détrempe." }
+  ],
+  sliderMin: 70,
+  sliderMax: 150
+},
+
+{
+    id: "soupe-butternut-crevettes",
+    name: "Soupe de Butternut aux Crevettes",
+    subtitle: "Velouté onctueux et protéiné",
+    emoji: "🥣",
+    category: "diner",
+    difficulty: "Facile",
+    time: "30 min",
+    sliderMin: 50,
+    sliderMax: 200,
+    tags: ["comfort-food", "high-protein"],
+    ingredients: [
+        { id: "crevettes", name: "Crevettes", qty: 150, unit: "g", role: "protein" },
+        { id: "patate_douce_cuite", name: "Patate douce cuite", qty: 200, unit: "g", role: "carb" },
+        { id: "lait_coco", name: "Lait de coco", qty: 50, unit: "ml", role: "fat" },
+        { id: "oignon", name: "Oignon", qty: 50, unit: "g", role: "neutral" },
+        { id: "gingembre", name: "Gingembre frais", qty: 5, unit: "g", role: "neutral" },
+        { id: "huile_olive", name: "Huile d'olive", qty: 5, unit: "ml", role: "fat" }
+    ],
+    options: [
+        { label: "Version végé", swaps: [{ from: "crevettes", to: "tofu", toName: "Tofu", ratio: 1.2 }] }
+    ],
+    steps: [
+        { title: "Préparation", text: "Émincer l'oignon et râper le gingembre." },
+        { title: "Cuisson du velouté", text: "Faire revenir l'oignon dans l'huile d'olive, ajouter la patate douce et couvrir d'eau. Cuire 15 min puis mixer avec le lait de coco." },
+        { title: "Cuisson des crevettes", text: "Saisir les crevettes 2 min de chaque côté dans une poêle chaude." },
+        { title: "Dressage", text: "Verser le velouté dans un bol et disposer les crevettes par-dessus." }
+    ],
+    tips: ["Ajoutez une pincée de curry pour plus de saveur."]
+},
+{
+    id: "tajine-agneau-legumes-v2",
+    name: "Tajine d'Agneau aux Légumes",
+    subtitle: "Plat mijoté aux saveurs orientales",
+    emoji: "🍲",
+    category: "diner",
+    difficulty: "Moyen",
+    time: "45 min",
+    sliderMin: 50,
+    sliderMax: 200,
+    tags: ["comfort-food", "mijoté"],
+    ingredients: [
+        { id: "agneau_gigot", name: "Gigot d'agneau", qty: 150, unit: "g", role: "protein" },
+        { id: "couscous_cuit", name: "Couscous cuit", qty: 150, unit: "g", role: "carb", rawRatio: 2.5 },
+        { id: "courgette", name: "Courgette", qty: 100, unit: "g", role: "neutral" },
+        { id: "carotte", name: "Carotte", qty: 80, unit: "g", role: "neutral" },
+        { id: "tomate", name: "Tomate", qty: 100, unit: "g", role: "neutral" },
+        { id: "oignon", name: "Oignon", qty: 50, unit: "g", role: "neutral" },
+        { id: "huile_olive", name: "Huile d'olive", qty: 5, unit: "ml", role: "fat" }
+    ],
+    options: [
+        { label: "Version poulet", swaps: [{ from: "agneau_gigot", to: "poulet_grille", toName: "Poulet grillé", ratio: 1.1 }] }
+    ],
+    steps: [
+        { title: "Préparation", text: "Couper l'agneau en cubes et les légumes en morceaux." },
+        { title: "Saisie", text: "Faire dorer l'agneau dans l'huile d'olive avec l'oignon émincé." },
+        { title: "Mijotage", text: "Ajouter les légumes, la tomate et un peu d'eau. Laisser mijoter 30 min à feu doux." },
+        { title: "Service", text: "Servir avec le couscous cuit à part." }
+    ],
+    tips: ["Ajoutez du cumin et de la cannelle pour un goût authentique."]
+},
+{
+    id: "lasagnes-legumes-ricotta",
+    name: "Lasagnes Légumes et Ricotta",
+    subtitle: "Lasagnes light aux légumes du soleil",
+    emoji: "🧀",
+    category: "diner",
+    difficulty: "Moyen",
+    time: "50 min",
+    sliderMin: 50,
+    sliderMax: 200,
+    tags: ["comfort-food", "végétarien"],
+    ingredients: [
+        { id: "ricotta", name: "Ricotta", qty: 100, unit: "g", role: "protein" },
+        { id: "feuilles_lasagne", name: "Feuilles de lasagne", qty: 80, unit: "g", role: "carb" },
+        { id: "courgette", name: "Courgette", qty: 120, unit: "g", role: "neutral" },
+        { id: "aubergine", name: "Aubergine", qty: 100, unit: "g", role: "neutral" },
+        { id: "sauce_tomate", name: "Sauce tomate", qty: 100, unit: "g", role: "neutral" },
+        { id: "mozzarella", name: "Mozzarella", qty: 40, unit: "g", role: "fat" },
+        { id: "epinards", name: "Épinards", qty: 50, unit: "g", role: "neutral" }
+    ],
+    options: [
+        { label: "Plus protéiné", swaps: [{ from: "ricotta", to: "cottage_cheese", toName: "Cottage cheese", ratio: 1.2 }] }
+    ],
+    steps: [
+        { title: "Préparation des légumes", text: "Trancher les courgettes et aubergines en fines lamelles et les griller à la poêle." },
+        { title: "Montage", text: "Alterner les couches de feuilles de lasagne, sauce tomate, légumes grillés, épinards et ricotta." },
+        { title: "Gratinage", text: "Terminer par la mozzarella râpée et enfourner 25 min à 200°C." },
+        { title: "Repos", text: "Laisser reposer 5 min avant de servir." }
+    ],
+    tips: ["Précuisez les feuilles de lasagne 3 min dans l'eau bouillante pour un résultat plus fondant."]
+},
+{
+    id: "pavé-cabillaud-lentilles",
+    name: "Pavé de Cabillaud sur Lit de Lentilles",
+    subtitle: "Poisson blanc et lentilles fondantes",
+    emoji: "🐟",
+    category: "diner",
+    difficulty: "Facile",
+    time: "30 min",
+    sliderMin: 50,
+    sliderMax: 200,
+    tags: ["high-protein", "oméga-3"],
+    ingredients: [
+        { id: "cabillaud", name: "Cabillaud", qty: 160, unit: "g", role: "protein" },
+        { id: "lentilles_cuites", name: "Lentilles cuites", qty: 150, unit: "g", role: "carb", rawRatio: 2 },
+        { id: "carotte", name: "Carotte", qty: 60, unit: "g", role: "neutral" },
+        { id: "oignon", name: "Oignon", qty: 40, unit: "g", role: "neutral" },
+        { id: "huile_olive", name: "Huile d'olive", qty: 5, unit: "ml", role: "fat" },
+        { id: "moutarde", name: "Moutarde", qty: 10, unit: "g", role: "neutral" }
+    ],
+    options: [
+        { label: "Version saumon", swaps: [{ from: "cabillaud", to: "saumon", toName: "Saumon", ratio: 0.9 }] }
+    ],
+    steps: [
+        { title: "Préparation", text: "Émincer l'oignon et couper la carotte en petits dés." },
+        { title: "Cuisson des lentilles", text: "Faire revenir oignon et carotte dans l'huile, ajouter les lentilles et un filet de moutarde. Réchauffer 5 min." },
+        { title: "Cuisson du poisson", text: "Cuire le cabillaud à la poêle 4 min de chaque côté." },
+        { title: "Dressage", text: "Déposer le pavé de cabillaud sur le lit de lentilles." }
+    ],
+    tips: ["Un filet de vinaigre balsamique sur les lentilles apporte une touche acidulée."]
+},
+{
+    id: "dinde-farcie-epinards-feta",
+    name: "Escalope de Dinde Farcie Épinards-Feta",
+    subtitle: "Escalope roulée façon méditerranéenne",
+    emoji: "🌿",
+    category: "diner",
+    difficulty: "Moyen",
+    time: "35 min",
+    sliderMin: 50,
+    sliderMax: 200,
+    tags: ["high-protein", "méditerranéen"],
+    ingredients: [
+        { id: "dinde", name: "Escalope de dinde", qty: 170, unit: "g", role: "protein" },
+        { id: "epinards", name: "Épinards", qty: 80, unit: "g", role: "neutral" },
+        { id: "feta", name: "Feta", qty: 30, unit: "g", role: "fat" },
+        { id: "riz_complet_cuit", name: "Riz complet cuit", qty: 150, unit: "g", role: "carb", rawRatio: 2.25 },
+        { id: "tomate", name: "Tomate", qty: 80, unit: "g", role: "neutral" },
+        { id: "huile_olive", name: "Huile d'olive", qty: 5, unit: "ml", role: "fat" }
+    ],
+    options: [
+        { label: "Version poulet", swaps: [{ from: "dinde", to: "poulet_grille", toName: "Poulet grillé", ratio: 1.0 }] }
+    ],
+    steps: [
+        { title: "Farce", text: "Faire tomber les épinards à la poêle, émietter la feta et mélanger." },
+        { title: "Montage", text: "Aplatir l'escalope, déposer la farce au centre, rouler et fixer avec un cure-dent." },
+        { title: "Cuisson", text: "Saisir le roulé dans l'huile d'olive puis enfourner 20 min à 180°C." },
+        { title: "Service", text: "Trancher le roulé et servir avec le riz complet et la tomate en salade." }
+    ],
+    tips: ["Vous pouvez ajouter des tomates séchées à la farce pour plus de goût."]
+},
+{
+    id: "chili-veggie-haricots",
+    name: "Chili Veggie aux Haricots",
+    subtitle: "Chili végétarien riche en fibres",
+    emoji: "🌶️",
+    category: "diner",
+    difficulty: "Facile",
+    time: "35 min",
+    sliderMin: 50,
+    sliderMax: 200,
+    tags: ["végétarien", "high-fiber"],
+    ingredients: [
+        { id: "haricots_rouges", name: "Haricots rouges", qty: 120, unit: "g", role: "protein" },
+        { id: "haricots_noirs", name: "Haricots noirs", qty: 80, unit: "g", role: "protein" },
+        { id: "riz_basmati_cuit", name: "Riz basmati", qty: 140, unit: "g", role: "carb", rawRatio: 2.25 },
+        { id: "tomate", name: "Tomate", qty: 100, unit: "g", role: "neutral" },
+        { id: "poivron_rouge", name: "Poivron rouge", qty: 80, unit: "g", role: "neutral" },
+        { id: "mais_conserve", name: "Maïs en conserve", qty: 50, unit: "g", role: "carb" },
+        { id: "oignon", name: "Oignon", qty: 50, unit: "g", role: "neutral" },
+        { id: "huile_olive", name: "Huile d'olive", qty: 5, unit: "ml", role: "fat" }
+    ],
+    options: [
+        { label: "Version bœuf", swaps: [{ from: "haricots_noirs", to: "boeuf_hache_5", toName: "Bœuf haché 5%", ratio: 1.0 }] }
+    ],
+    steps: [
+        { title: "Préparation", text: "Émincer l'oignon et couper le poivron en dés." },
+        { title: "Cuisson", text: "Faire revenir l'oignon et le poivron dans l'huile, ajouter les tomates concassées, les haricots et le maïs." },
+        { title: "Mijotage", text: "Laisser mijoter 20 min à feu moyen en remuant régulièrement." },
+        { title: "Service", text: "Servir le chili sur le riz basmati." }
+    ],
+    tips: ["Une pointe de cacao en poudre apporte de la profondeur au chili."]
+},
+{
+    id: "filet-porc-miel-sesame",
+    name: "Filet de Porc Miel-Sésame",
+    subtitle: "Porc caramélisé à l'asiatique",
+    emoji: "🍯",
+    category: "diner",
+    difficulty: "Facile",
+    time: "25 min",
+    sliderMin: 50,
+    sliderMax: 200,
+    tags: ["rapide", "asiatique"],
+    ingredients: [
+        { id: "porc_filet", name: "Filet de porc", qty: 160, unit: "g", role: "protein" },
+        { id: "nouilles_soba_cuites", name: "Nouilles soba cuites", qty: 150, unit: "g", role: "carb", rawRatio: 1.8 },
+        { id: "miel", name: "Miel", qty: 10, unit: "g", role: "neutral" },
+        { id: "sauce_soja", name: "Sauce soja", qty: 15, unit: "ml", role: "neutral" },
+        { id: "huile_sesame", name: "Huile de sésame", qty: 5, unit: "ml", role: "fat" },
+        { id: "brocoli", name: "Brocoli", qty: 100, unit: "g", role: "neutral" },
+        { id: "gingembre", name: "Gingembre", qty: 5, unit: "g", role: "neutral" }
+    ],
+    options: [
+        { label: "Version poulet", swaps: [{ from: "porc_filet", to: "poulet_grille", toName: "Poulet grillé", ratio: 1.0 }] }
+    ],
+    steps: [
+        { title: "Marinade", text: "Mélanger sauce soja, miel, gingembre râpé et huile de sésame." },
+        { title: "Cuisson du porc", text: "Trancher le filet de porc et le saisir à feu vif, ajouter la marinade et caraméliser 2 min." },
+        { title: "Légumes", text: "Cuire le brocoli à la vapeur 5 min." },
+        { title: "Assemblage", text: "Servir le porc caramélisé sur les nouilles soba avec le brocoli." }
+    ],
+    tips: ["Parsemez de graines de sésame pour la déco et le croquant."]
+},
+{
+    id: "omelette-forestiere",
+    name: "Omelette Forestière",
+    subtitle: "Omelette aux champignons et fines herbes",
+    emoji: "🍳",
+    category: "diner",
+    difficulty: "Facile",
+    time: "15 min",
+    sliderMin: 50,
+    sliderMax: 200,
+    tags: ["rapide", "low-carb"],
+    ingredients: [
+        { id: "oeuf", name: "Œufs entiers", qty: 3, unit: "pièce(s)", role: "protein" },
+        { id: "blanc_oeuf", name: "Blancs d'œuf", qty: 60, unit: "g", role: "protein" },
+        { id: "champignon", name: "Champignons", qty: 120, unit: "g", role: "neutral" },
+        { id: "fromage_rape", name: "Fromage râpé", qty: 20, unit: "g", role: "fat" },
+        { id: "pain_complet", name: "Pain complet", qty: 40, unit: "g", role: "carb" },
+        { id: "huile_olive", name: "Huile d'olive", qty: 5, unit: "ml", role: "fat" },
+        { id: "oignon", name: "Oignon", qty: 30, unit: "g", role: "neutral" }
+    ],
+    options: [
+        { label: "Version végane", swaps: [{ from: "oeuf", to: "tofu", toName: "Tofu brouillé", ratio: 2.5 }] }
+    ],
+    steps: [
+        { title: "Préparation", text: "Émincer les champignons et l'oignon finement." },
+        { title: "Poêlée", text: "Faire revenir champignons et oignon dans l'huile d'olive jusqu'à coloration." },
+        { title: "Omelette", text: "Battre les œufs et blancs, verser sur les champignons, cuire 3-4 min à feu moyen." },
+        { title: "Finition", text: "Parsemer de fromage râpé, plier et servir avec le pain complet." }
+    ],
+    tips: ["Mélangez différentes variétés de champignons pour plus de saveurs."]
+},
+{
+    id: "risotto-gambas-courgettes",
+    name: "Risotto Gambas et Courgettes",
+    subtitle: "Risotto crémeux aux gambas",
+    emoji: "🦐",
+    category: "diner",
+    difficulty: "Moyen",
+    time: "35 min",
+    sliderMin: 50,
+    sliderMax: 200,
+    tags: ["comfort-food", "high-protein"],
+    ingredients: [
+        { id: "gambas", name: "Gambas", qty: 140, unit: "g", role: "protein" },
+        { id: "riz_basmati_cuit", name: "Riz basmati cuit", qty: 180, unit: "g", role: "carb", rawRatio: 2.25 },
+        { id: "courgette", name: "Courgette", qty: 100, unit: "g", role: "neutral" },
+        { id: "parmesan", name: "Parmesan", qty: 15, unit: "g", role: "fat" },
+        { id: "oignon", name: "Oignon", qty: 40, unit: "g", role: "neutral" },
+        { id: "huile_olive", name: "Huile d'olive", qty: 5, unit: "ml", role: "fat" },
+        { id: "citron_jus", name: "Jus de citron", qty: 10, unit: "ml", role: "neutral" }
+    ],
+    options: [
+        { label: "Version poulet", swaps: [{ from: "gambas", to: "poulet_grille", toName: "Poulet grillé", ratio: 1.1 }] }
+    ],
+    steps: [
+        { title: "Base", text: "Faire revenir l'oignon émincé dans l'huile d'olive, ajouter les dés de courgette." },
+        { title: "Riz", text: "Incorporer le riz et mouiller progressivement avec de l'eau chaude en remuant souvent pendant 15 min." },
+        { title: "Gambas", text: "Saisir les gambas à part 2 min de chaque côté." },
+        { title: "Finition", text: "Hors du feu, ajouter le parmesan râpé et le jus de citron. Déposer les gambas dessus." }
+    ],
+    tips: ["Gardez les carapaces pour faire un bouillon maison encore plus savoureux."]
+},
+{
+    id: "tofu-general-tao-v2",
+    name: "Tofu Général Tao",
+    subtitle: "Tofu croustillant sauce sucrée-épicée",
+    emoji: "🥡",
+    category: "diner",
+    difficulty: "Moyen",
+    time: "30 min",
+    sliderMin: 50,
+    sliderMax: 200,
+    tags: ["végétarien", "asiatique"],
+    ingredients: [
+        { id: "tofu", name: "Tofu ferme", qty: 200, unit: "g", role: "protein" },
+        { id: "riz_basmati_cuit", name: "Riz basmati cuit", qty: 160, unit: "g", role: "carb", rawRatio: 2.25 },
+        { id: "sauce_soja", name: "Sauce soja", qty: 15, unit: "ml", role: "neutral" },
+        { id: "miel", name: "Miel", qty: 10, unit: "g", role: "neutral" },
+        { id: "sauce_sriracha", name: "Sauce sriracha", qty: 5, unit: "ml", role: "neutral" },
+        { id: "farine_complete", name: "Farine complète", qty: 15, unit: "g", role: "carb" },
+        { id: "brocoli", name: "Brocoli", qty: 100, unit: "g", role: "neutral" },
+        { id: "huile_sesame", name: "Huile de sésame", qty: 5, unit: "ml", role: "fat" }
+    ],
+    options: [
+        { label: "Version poulet", swaps: [{ from: "tofu", to: "poulet_grille", toName: "Poulet grillé", ratio: 0.8 }] }
+    ],
+    steps: [
+        { title: "Préparation du tofu", text: "Couper le tofu en cubes, enrober de farine complète." },
+        { title: "Cuisson", text: "Saisir les cubes de tofu dans l'huile de sésame jusqu'à obtenir une croûte dorée." },
+        { title: "Sauce", text: "Mélanger sauce soja, miel et sriracha, verser sur le tofu et enrober." },
+        { title: "Service", text: "Servir avec le riz basmati et le brocoli vapeur." }
+    ],
+    tips: ["Pressez bien le tofu avant cuisson pour un maximum de croustillant."]
+},
+{
+    id: "sardines-grillees-boulgour",
+    name: "Sardines Grillées et Boulgour",
+    subtitle: "Assiette méditerranéenne aux sardines",
+    emoji: "🐠",
+    category: "diner",
+    difficulty: "Facile",
+    time: "20 min",
+    sliderMin: 50,
+    sliderMax: 200,
+    tags: ["oméga-3", "rapide"],
+    ingredients: [
+        { id: "sardines_conserve", name: "Sardines en conserve", qty: 120, unit: "g", role: "protein" },
+        { id: "boulgour_cuit", name: "Boulgour cuit", qty: 150, unit: "g", role: "carb", rawRatio: 2.2 },
+        { id: "tomate", name: "Tomate", qty: 100, unit: "g", role: "neutral" },
+        { id: "concombre", name: "Concombre", qty: 80, unit: "g", role: "neutral" },
+        { id: "citron_jus", name: "Jus de citron", qty: 15, unit: "ml", role: "neutral" },
+        { id: "huile_olive", name: "Huile d'olive", qty: 5, unit: "ml", role: "fat" },
+        { id: "oignon", name: "Oignon rouge", qty: 30, unit: "g", role: "neutral" }
+    ],
+    options: [
+        { label: "Version thon", swaps: [{ from: "sardines_conserve", to: "thon_conserve", toName: "Thon en conserve", ratio: 1.0 }] }
+    ],
+    steps: [
+        { title: "Boulgour", text: "Préparer le boulgour selon les instructions et laisser refroidir." },
+        { title: "Salade", text: "Couper tomate, concombre et oignon en dés, mélanger avec le boulgour." },
+        { title: "Assaisonnement", text: "Ajouter le jus de citron et l'huile d'olive." },
+        { title: "Dressage", text: "Disposer les sardines égouttées sur le boulgour en salade." }
+    ],
+    tips: ["Ajoutez de la menthe fraîche pour une touche de fraîcheur."]
+},
+{
+    id: "tempeh-teriyaki-edamame",
+    name: "Tempeh Teriyaki aux Edamame",
+    subtitle: "Assiette végétale sauce teriyaki maison",
+    emoji: "🌱",
+    category: "diner",
+    difficulty: "Facile",
+    time: "25 min",
+    sliderMin: 50,
+    sliderMax: 200,
+    tags: ["végétarien", "asiatique"],
+    ingredients: [
+        { id: "tempeh", name: "Tempeh", qty: 150, unit: "g", role: "protein" },
+        { id: "riz_complet_cuit", name: "Riz complet cuit", qty: 150, unit: "g", role: "carb", rawRatio: 2.25 },
+        { id: "edamame", name: "Edamame", qty: 60, unit: "g", role: "protein" },
+        { id: "sauce_soja", name: "Sauce soja", qty: 15, unit: "ml", role: "neutral" },
+        { id: "miel", name: "Miel", qty: 8, unit: "g", role: "neutral" },
+        { id: "huile_sesame", name: "Huile de sésame", qty: 5, unit: "ml", role: "fat" },
+        { id: "gingembre", name: "Gingembre", qty: 5, unit: "g", role: "neutral" }
+    ],
+    options: [
+        { label: "Version poulet", swaps: [{ from: "tempeh", to: "poulet_grille", toName: "Poulet grillé", ratio: 1.0 }] }
+    ],
+    steps: [
+        { title: "Sauce teriyaki", text: "Mélanger sauce soja, miel, gingembre râpé et huile de sésame." },
+        { title: "Cuisson du tempeh", text: "Trancher le tempeh et le saisir à la poêle, napper de sauce teriyaki." },
+        { title: "Edamame", text: "Cuire les edamame 3 min à l'eau bouillante salée." },
+        { title: "Assemblage", text: "Servir le tempeh caramélisé sur le riz complet avec les edamame." }
+    ],
+    tips: ["Marinez le tempeh 30 min à l'avance pour plus de saveur."]
+},
+{
+    id: "veloute-brocoli-chevre",
+    name: "Velouté de Brocoli au Chèvre",
+    subtitle: "Soupe onctueuse et protéinée",
+    emoji: "🥦",
+    category: "diner",
+    difficulty: "Facile",
+    time: "25 min",
+    sliderMin: 50,
+    sliderMax: 200,
+    tags: ["comfort-food", "végétarien"],
+    ingredients: [
+        { id: "brocoli", name: "Brocoli", qty: 250, unit: "g", role: "neutral" },
+        { id: "chevre_frais", name: "Chèvre frais", qty: 40, unit: "g", role: "fat" },
+        { id: "pomme_de_terre", name: "Pomme de terre", qty: 100, unit: "g", role: "carb", rawRatio: 1 },
+        { id: "oeuf", name: "Œuf dur", qty: 2, unit: "pièce(s)", role: "protein" },
+        { id: "oignon", name: "Oignon", qty: 40, unit: "g", role: "neutral" },
+        { id: "huile_olive", name: "Huile d'olive", qty: 5, unit: "ml", role: "fat" }
+    ],
+    options: [
+        { label: "Version jambon", swaps: [{ from: "oeuf", to: "jambon_blanc", toName: "Jambon blanc", ratio: 1.5 }] }
+    ],
+    steps: [
+        { title: "Préparation", text: "Couper le brocoli en fleurettes, la pomme de terre et l'oignon en morceaux." },
+        { title: "Cuisson", text: "Faire revenir l'oignon dans l'huile, ajouter brocoli et pomme de terre, couvrir d'eau et cuire 15 min." },
+        { title: "Mixage", text: "Mixer le tout avec le chèvre frais jusqu'à obtenir un velouté lisse." },
+        { title: "Service", text: "Servir avec l'œuf dur coupé en quartiers." }
+    ],
+    tips: ["Quelques croûtons de pain complet ajoutent du croquant."]
+},
+{
+    id: "calamar-plancha-quinoa",
+    name: "Calamar à la Plancha et Quinoa",
+    subtitle: "Fruits de mer grillés et quinoa parfumé",
+    emoji: "🦑",
+    category: "diner",
+    difficulty: "Moyen",
+    time: "25 min",
+    sliderMin: 50,
+    sliderMax: 200,
+    tags: ["high-protein", "méditerranéen"],
+    ingredients: [
+        { id: "calamar", name: "Calamar", qty: 160, unit: "g", role: "protein" },
+        { id: "quinoa_cuit", name: "Quinoa cuit", qty: 150, unit: "g", role: "carb", rawRatio: 1.8 },
+        { id: "poivron_rouge", name: "Poivron rouge", qty: 80, unit: "g", role: "neutral" },
+        { id: "citron_jus", name: "Jus de citron", qty: 15, unit: "ml", role: "neutral" },
+        { id: "huile_olive", name: "Huile d'olive", qty: 8, unit: "ml", role: "fat" },
+        { id: "ail", name: "Ail", qty: 5, unit: "g", role: "neutral" }
+    ],
+    options: [
+        { label: "Version crevettes", swaps: [{ from: "calamar", to: "crevettes", toName: "Crevettes", ratio: 1.0 }] }
+    ],
+    steps: [
+        { title: "Préparation", text: "Nettoyer et couper les calamars en anneaux. Émincer le poivron." },
+        { title: "Quinoa", text: "Mélanger le quinoa cuit avec le poivron grillé et le jus de citron." },
+        { title: "Cuisson", text: "Saisir les calamars à feu très vif avec l'ail émincé et l'huile d'olive pendant 2-3 min." },
+        { title: "Dressage", text: "Disposer les calamars sur le quinoa et arroser du jus de cuisson." }
+    ],
+    tips: ["Ne surcuisez pas le calamar, il deviendrait caoutchouteux."]
+},
+{
+    id: "one-pot-dinde-patate-douce",
+    name: "One-Pot Dinde et Patate Douce",
+    subtitle: "Tout-en-un réconfortant et simple",
+    emoji: "🍠",
+    category: "diner",
+    difficulty: "Facile",
+    time: "30 min",
+    sliderMin: 50,
+    sliderMax: 200,
+    tags: ["one-pot", "meal-prep"],
+    ingredients: [
+        { id: "dinde", name: "Dinde", qty: 160, unit: "g", role: "protein" },
+        { id: "patate_douce_cuite", name: "Patate douce cuite", qty: 180, unit: "g", role: "carb" },
+        { id: "haricots_verts", name: "Haricots verts", qty: 100, unit: "g", role: "neutral" },
+        { id: "oignon", name: "Oignon", qty: 50, unit: "g", role: "neutral" },
+        { id: "sauce_tomate", name: "Sauce tomate", qty: 80, unit: "g", role: "neutral" },
+        { id: "huile_olive", name: "Huile d'olive", qty: 5, unit: "ml", role: "fat" }
+    ],
+    options: [
+        { label: "Version bœuf", swaps: [{ from: "dinde", to: "boeuf_hache_5", toName: "Bœuf haché 5%", ratio: 1.0 }] }
+    ],
+    steps: [
+        { title: "Préparation", text: "Couper la dinde en dés, l'oignon en lamelles et la patate douce en cubes." },
+        { title: "Saisie", text: "Faire revenir la dinde et l'oignon dans l'huile d'olive." },
+        { title: "Mijotage", text: "Ajouter patate douce, haricots verts et sauce tomate. Couvrir et cuire 20 min." },
+        { title: "Service", text: "Servir directement depuis la cocotte." }
+    ],
+    tips: ["Parfait pour le meal-prep : se conserve 3 jours au réfrigérateur."]
+},
+{
+    id: "seitan-stroganoff",
+    name: "Seitan Stroganoff",
+    subtitle: "Version végétale du classique russe",
+    emoji: "🍄",
+    category: "diner",
+    difficulty: "Moyen",
+    time: "30 min",
+    sliderMin: 50,
+    sliderMax: 200,
+    tags: ["végétarien", "high-protein"],
+    ingredients: [
+        { id: "seitan", name: "Seitan", qty: 160, unit: "g", role: "protein" },
+        { id: "pates_cuites", name: "Pâtes cuites", qty: 160, unit: "g", role: "carb", rawRatio: 2.5 },
+        { id: "champignon", name: "Champignons", qty: 120, unit: "g", role: "neutral" },
+        { id: "creme_fraiche_legere", name: "Crème fraîche légère", qty: 30, unit: "g", role: "fat" },
+        { id: "oignon", name: "Oignon", qty: 50, unit: "g", role: "neutral" },
+        { id: "moutarde", name: "Moutarde", qty: 10, unit: "g", role: "neutral" },
+        { id: "huile_olive", name: "Huile d'olive", qty: 5, unit: "ml", role: "fat" }
+    ],
+    options: [
+        { label: "Version bœuf", swaps: [{ from: "seitan", to: "boeuf_hache_5", toName: "Bœuf haché 5%", ratio: 1.0 }] }
+    ],
+    steps: [
+        { title: "Préparation", text: "Émincer le seitan, les champignons et l'oignon." },
+        { title: "Cuisson", text: "Faire revenir le seitan dans l'huile, réserver. Cuire oignon et champignons." },
+        { title: "Sauce", text: "Ajouter crème fraîche et moutarde, remettre le seitan et mélanger." },
+        { title: "Service", text: "Servir sur les pâtes cuites." }
+    ],
+    tips: ["Le paprika fumé apporte une note authentique au stroganoff."]
+},
+{
+    id: "truite-amandes-haricots-verts-v2",
+    name: "Truite aux Amandes et Haricots Verts",
+    subtitle: "Classique français allégé",
+    emoji: "🐟",
+    category: "diner",
+    difficulty: "Facile",
+    time: "20 min",
+    sliderMin: 50,
+    sliderMax: 200,
+    tags: ["rapide", "classique"],
+    ingredients: [
+        { id: "truite", name: "Truite", qty: 160, unit: "g", role: "protein" },
+        { id: "amandes", name: "Amandes effilées", qty: 15, unit: "g", role: "fat" },
+        { id: "haricots_verts", name: "Haricots verts", qty: 150, unit: "g", role: "neutral" },
+        { id: "pomme_de_terre", name: "Pomme de terre", qty: 150, unit: "g", role: "carb", rawRatio: 1 },
+        { id: "citron_jus", name: "Jus de citron", qty: 10, unit: "ml", role: "neutral" },
+        { id: "huile_olive", name: "Huile d'olive", qty: 5, unit: "ml", role: "fat" }
+    ],
+    options: [
+        { label: "Version cabillaud", swaps: [{ from: "truite", to: "cabillaud", toName: "Cabillaud", ratio: 1.1 }] }
+    ],
+    steps: [
+        { title: "Pommes de terre", text: "Cuire les pommes de terre à l'eau 15 min." },
+        { title: "Haricots verts", text: "Cuire les haricots verts à la vapeur 8 min." },
+        { title: "Truite", text: "Cuire la truite à la poêle dans l'huile d'olive 3 min par côté. Ajouter les amandes effilées en fin de cuisson." },
+        { title: "Dressage", text: "Disposer le tout dans l'assiette et arroser d'un filet de citron." }
+    ],
+    tips: ["Faites griller les amandes à sec avant pour un maximum de saveur."]
+},
+{
+    id: "poke-thon-mangue",
+    name: "Poké Thon et Mangue",
+    subtitle: "Poké bowl frais façon hawaïenne",
+    emoji: "🥢",
+    category: "diner",
+    difficulty: "Facile",
+    time: "15 min",
+    sliderMin: 50,
+    sliderMax: 200,
+    tags: ["rapide", "no-cook"],
+    ingredients: [
+        { id: "thon_conserve", name: "Thon en conserve", qty: 130, unit: "g", role: "protein" },
+        { id: "riz_basmati_cuit", name: "Riz basmati cuit", qty: 160, unit: "g", role: "carb", rawRatio: 2.25 },
+        { id: "mangue", name: "Mangue", qty: 60, unit: "g", role: "carb" },
+        { id: "concombre", name: "Concombre", qty: 80, unit: "g", role: "neutral" },
+        { id: "avocat", name: "Avocat", qty: 40, unit: "g", role: "fat" },
+        { id: "sauce_soja", name: "Sauce soja", qty: 10, unit: "ml", role: "neutral" },
+        { id: "huile_sesame", name: "Huile de sésame", qty: 3, unit: "ml", role: "fat" }
+    ],
+    options: [
+        { label: "Version saumon", swaps: [{ from: "thon_conserve", to: "saumon", toName: "Saumon", ratio: 1.1 }] }
+    ],
+    steps: [
+        { title: "Préparation", text: "Couper la mangue, le concombre et l'avocat en dés." },
+        { title: "Assaisonnement", text: "Mélanger le thon émietté avec sauce soja et huile de sésame." },
+        { title: "Montage", text: "Déposer le riz dans un bol, disposer le thon et les garnitures par-dessus." }
+    ],
+    tips: ["Ajoutez des graines de sésame et de la ciboulette pour la finition."]
+},
+{
+    id: "moules-curry-vert",
+    name: "Moules au Curry Vert",
+    subtitle: "Moules parfumées au lait de coco et curry",
+    emoji: "🐚",
+    category: "diner",
+    difficulty: "Moyen",
+    time: "25 min",
+    sliderMin: 50,
+    sliderMax: 200,
+    tags: ["asiatique", "high-protein"],
+    ingredients: [
+        { id: "moules", name: "Moules", qty: 250, unit: "g", role: "protein" },
+        { id: "riz_basmati_cuit", name: "Riz basmati cuit", qty: 150, unit: "g", role: "carb", rawRatio: 2.25 },
+        { id: "lait_coco", name: "Lait de coco", qty: 80, unit: "ml", role: "fat" },
+        { id: "pate_curry", name: "Pâte de curry", qty: 10, unit: "g", role: "neutral" },
+        { id: "oignon", name: "Oignon", qty: 40, unit: "g", role: "neutral" },
+        { id: "coriandre", name: "Coriandre", qty: 5, unit: "g", role: "neutral" },
+        { id: "citron_vert", name: "Citron vert", qty: 10, unit: "ml", role: "neutral" }
+    ],
+    options: [
+        { label: "Version crevettes", swaps: [{ from: "moules", to: "crevettes", toName: "Crevettes", ratio: 0.7 }] }
+    ],
+    steps: [
+        { title: "Base aromatique", text: "Faire revenir l'oignon émincé, ajouter la pâte de curry et le lait de coco." },
+        { title: "Cuisson des moules", text: "Ajouter les moules nettoyées, couvrir et cuire 5 min jusqu'à ouverture." },
+        { title: "Finition", text: "Ajouter la coriandre et le jus de citron vert." },
+        { title: "Service", text: "Servir les moules et leur sauce avec le riz basmati." }
+    ],
+    tips: ["Jetez les moules qui ne se sont pas ouvertes après cuisson."]
+},
+{
+    id: "canard-orange-puree",
+    name: "Canard à l'Orange et Purée",
+    subtitle: "Classique revisité version fitness",
+    emoji: "🦆",
+    category: "diner",
+    difficulty: "Moyen",
+    time: "35 min",
+    sliderMin: 50,
+    sliderMax: 200,
+    tags: ["classique", "high-protein"],
+    ingredients: [
+        { id: "canard_filet", name: "Filet de canard", qty: 140, unit: "g", role: "protein" },
+        { id: "pomme_de_terre", name: "Pomme de terre", qty: 180, unit: "g", role: "carb", rawRatio: 1 },
+        { id: "orange", name: "Orange (jus)", qty: 80, unit: "ml", role: "neutral" },
+        { id: "haricots_verts", name: "Haricots verts", qty: 100, unit: "g", role: "neutral" },
+        { id: "miel", name: "Miel", qty: 8, unit: "g", role: "neutral" },
+        { id: "lait_demi", name: "Lait demi-écrémé", qty: 30, unit: "ml", role: "neutral" }
+    ],
+    options: [
+        { label: "Version dinde", swaps: [{ from: "canard_filet", to: "dinde", toName: "Dinde", ratio: 1.2 }] }
+    ],
+    steps: [
+        { title: "Purée", text: "Cuire les pommes de terre, écraser avec le lait pour une purée lisse." },
+        { title: "Canard", text: "Saisir le filet côté peau 5 min, retourner et cuire 5 min." },
+        { title: "Sauce orange", text: "Dans la poêle, déglacer avec le jus d'orange et le miel, réduire 3 min." },
+        { title: "Service", text: "Trancher le canard et napper de sauce orange, servir avec purée et haricots verts." }
+    ],
+    tips: ["Incisez la peau du canard en quadrillage pour un rendu croustillant."]
+},
+{
+    id: "pois-chiches-rotis-harissa",
+    name: "Pois Chiches Rôtis à la Harissa",
+    subtitle: "Assiette végétale épicée et croquante",
+    emoji: "🔥",
+    category: "diner",
+    difficulty: "Facile",
+    time: "30 min",
+    sliderMin: 50,
+    sliderMax: 200,
+    tags: ["végétarien", "high-fiber"],
+    ingredients: [
+        { id: "pois_chiches_cuits", name: "Pois chiches cuits", qty: 180, unit: "g", role: "protein" },
+        { id: "quinoa_cuit", name: "Quinoa cuit", qty: 140, unit: "g", role: "carb", rawRatio: 1.8 },
+        { id: "harissa", name: "Harissa", qty: 8, unit: "g", role: "neutral" },
+        { id: "courgette", name: "Courgette", qty: 100, unit: "g", role: "neutral" },
+        { id: "sauce_tahini", name: "Sauce tahini", qty: 15, unit: "g", role: "fat" },
+        { id: "citron_jus", name: "Jus de citron", qty: 10, unit: "ml", role: "neutral" },
+        { id: "huile_olive", name: "Huile d'olive", qty: 5, unit: "ml", role: "fat" }
+    ],
+    options: [
+        { label: "Version poulet", swaps: [{ from: "pois_chiches_cuits", to: "poulet_grille", toName: "Poulet grillé", ratio: 0.8 }] }
+    ],
+    steps: [
+        { title: "Pois chiches", text: "Mélanger les pois chiches égouttés avec harissa et huile d'olive. Rôtir au four 20 min à 200°C." },
+        { title: "Courgette", text: "Pendant ce temps, griller les tranches de courgette à la poêle." },
+        { title: "Sauce", text: "Mélanger le tahini avec le jus de citron et un filet d'eau." },
+        { title: "Assemblage", text: "Servir le quinoa avec les pois chiches rôtis, la courgette et la sauce tahini." }
+    ],
+    tips: ["Les pois chiches sont encore meilleurs si vous les séchez bien avant de les rôtir."]
+},
+{
+    id: "galettes-sarrasin-complete-diner",
+    name: "Galettes Sarrasin Complètes",
+    subtitle: "Galettes bretonnes façon dîner",
+    emoji: "🥞",
+    category: "diner",
+    difficulty: "Facile",
+    time: "20 min",
+    sliderMin: 50,
+    sliderMax: 200,
+    tags: ["rapide", "français"],
+    ingredients: [
+        { id: "galette_sarrasin", name: "Galettes de sarrasin", qty: 2, unit: "pièce(s)", role: "carb" },
+        { id: "oeuf", name: "Œuf", qty: 2, unit: "pièce(s)", role: "protein" },
+        { id: "jambon_blanc", name: "Jambon blanc", qty: 60, unit: "g", role: "protein" },
+        { id: "fromage_rape", name: "Fromage râpé", qty: 25, unit: "g", role: "fat" },
+        { id: "champignon", name: "Champignons", qty: 80, unit: "g", role: "neutral" },
+        { id: "epinards", name: "Épinards", qty: 50, unit: "g", role: "neutral" }
+    ],
+    options: [
+        { label: "Version végé", swaps: [{ from: "jambon_blanc", to: "chevre_frais", toName: "Chèvre frais", ratio: 0.5 }] }
+    ],
+    steps: [
+        { title: "Garniture", text: "Faire revenir champignons émincés et épinards à la poêle." },
+        { title: "Galettes", text: "Chauffer chaque galette, déposer jambon, garniture et casser un œuf au centre." },
+        { title: "Cuisson", text: "Rabattre les bords, parsemer de fromage et cuire jusqu'à ce que l'œuf soit pris." }
+    ],
+    tips: ["Un filet de crème fraîche légère apporte de l'onctuosité."]
+},
+{
+    id: "soupe-miso-saumon",
+    name: "Soupe Miso au Saumon",
+    subtitle: "Soupe japonaise enrichie en protéines",
+    emoji: "🍜",
+    category: "diner",
+    difficulty: "Facile",
+    time: "20 min",
+    sliderMin: 50,
+    sliderMax: 200,
+    tags: ["asiatique", "léger"],
+    ingredients: [
+        { id: "saumon", name: "Saumon", qty: 140, unit: "g", role: "protein" },
+        { id: "nouilles_soba_cuites", name: "Nouilles soba cuites", qty: 120, unit: "g", role: "carb", rawRatio: 1.8 },
+        { id: "tofu", name: "Tofu soyeux", qty: 50, unit: "g", role: "protein" },
+        { id: "champignon", name: "Champignons", qty: 60, unit: "g", role: "neutral" },
+        { id: "epinards", name: "Épinards", qty: 40, unit: "g", role: "neutral" },
+        { id: "sauce_soja", name: "Sauce soja", qty: 10, unit: "ml", role: "neutral" },
+        { id: "gingembre", name: "Gingembre", qty: 5, unit: "g", role: "neutral" }
+    ],
+    options: [
+        { label: "Version crevettes", swaps: [{ from: "saumon", to: "crevettes", toName: "Crevettes", ratio: 1.1 }] }
+    ],
+    steps: [
+        { title: "Bouillon", text: "Porter l'eau à ébullition avec le gingembre et la sauce soja." },
+        { title: "Garnitures", text: "Ajouter les champignons émincés et le tofu coupé en dés." },
+        { title: "Saumon", text: "Ajouter le saumon coupé en cubes et les épinards, cuire 3 min." },
+        { title: "Service", text: "Répartir les nouilles soba dans les bols et verser le bouillon garni." }
+    ],
+    tips: ["Utilisez de la pâte miso pour un goût plus authentique."]
+},
+{
+    id: "parmentier-canard-celeri",
+    name: "Parmentier de Canard au Céleri",
+    subtitle: "Hachis revisité léger et savoureux",
+    emoji: "🥘",
+    category: "diner",
+    difficulty: "Moyen",
+    time: "40 min",
+    sliderMin: 50,
+    sliderMax: 200,
+    tags: ["comfort-food", "français"],
+    ingredients: [
+        { id: "canard_filet", name: "Filet de canard", qty: 140, unit: "g", role: "protein" },
+        { id: "pomme_de_terre", name: "Pomme de terre", qty: 150, unit: "g", role: "carb", rawRatio: 1 },
+        { id: "celeri_branche", name: "Céleri branche", qty: 80, unit: "g", role: "neutral" },
+        { id: "oignon", name: "Oignon", qty: 40, unit: "g", role: "neutral" },
+        { id: "fromage_rape", name: "Fromage râpé", qty: 20, unit: "g", role: "fat" },
+        { id: "lait_demi", name: "Lait demi-écrémé", qty: 30, unit: "ml", role: "neutral" }
+    ],
+    options: [
+        { label: "Version dinde", swaps: [{ from: "canard_filet", to: "dinde", toName: "Dinde", ratio: 1.2 }] }
+    ],
+    steps: [
+        { title: "Purée", text: "Cuire pomme de terre et céleri à l'eau, écraser avec le lait." },
+        { title: "Viande", text: "Effilocher le canard cuit et le mélanger avec l'oignon revenu." },
+        { title: "Montage", text: "Déposer la viande dans un plat, recouvrir de purée et parsemer de fromage." },
+        { title: "Gratinage", text: "Enfourner 15 min à 200°C jusqu'à gratinage." }
+    ],
+    tips: ["Le céleri allège la purée tout en apportant de la saveur."]
+},
+{
+    id: "fajitas-crevettes-poivrons-v2",
+    name: "Fajitas Crevettes et Poivrons",
+    subtitle: "Fajitas mexicaines aux crevettes",
+    emoji: "🌮",
+    category: "diner",
+    difficulty: "Facile",
+    time: "20 min",
+    sliderMin: 50,
+    sliderMax: 200,
+    tags: ["rapide", "mexicain"],
+    ingredients: [
+        { id: "crevettes", name: "Crevettes", qty: 160, unit: "g", role: "protein" },
+        { id: "tortilla_ble", name: "Tortilla blé", qty: 2, unit: "pièce(s)", role: "carb" },
+        { id: "poivron_rouge", name: "Poivron rouge", qty: 100, unit: "g", role: "neutral" },
+        { id: "oignon", name: "Oignon", qty: 50, unit: "g", role: "neutral" },
+        { id: "avocat", name: "Avocat", qty: 40, unit: "g", role: "fat" },
+        { id: "citron_vert", name: "Citron vert", qty: 10, unit: "ml", role: "neutral" },
+        { id: "huile_olive", name: "Huile d'olive", qty: 5, unit: "ml", role: "fat" }
+    ],
+    options: [
+        { label: "Version bœuf", swaps: [{ from: "crevettes", to: "boeuf_hache_5", toName: "Bœuf haché 5%", ratio: 1.0 }] }
+    ],
+    steps: [
+        { title: "Légumes", text: "Émincer poivron et oignon, les faire sauter à feu vif dans l'huile d'olive." },
+        { title: "Crevettes", text: "Ajouter les crevettes et cuire 3 min en remuant." },
+        { title: "Guacamole express", text: "Écraser l'avocat avec le jus de citron vert." },
+        { title: "Montage", text: "Garnir les tortillas chaudes avec le mélange et le guacamole." }
+    ],
+    tips: ["Ajoutez du paprika fumé aux crevettes pour un goût authentique."]
+},
+{
+    id: "gratin-fenouil-saumon-fume",
+    name: "Gratin de Fenouil au Saumon",
+    subtitle: "Gratin léger anisé et fondant",
+    emoji: "🧅",
+    category: "diner",
+    difficulty: "Moyen",
+    time: "40 min",
+    sliderMin: 50,
+    sliderMax: 200,
+    tags: ["comfort-food", "oméga-3"],
+    ingredients: [
+        { id: "saumon", name: "Saumon", qty: 140, unit: "g", role: "protein" },
+        { id: "fenouil", name: "Fenouil", qty: 200, unit: "g", role: "neutral" },
+        { id: "pomme_de_terre", name: "Pomme de terre", qty: 120, unit: "g", role: "carb", rawRatio: 1 },
+        { id: "creme_fraiche_legere", name: "Crème fraîche légère", qty: 30, unit: "g", role: "fat" },
+        { id: "fromage_rape", name: "Fromage râpé", qty: 20, unit: "g", role: "fat" },
+        { id: "citron_jus", name: "Jus de citron", qty: 10, unit: "ml", role: "neutral" }
+    ],
+    options: [
+        { label: "Version cabillaud", swaps: [{ from: "saumon", to: "cabillaud", toName: "Cabillaud", ratio: 1.2 }] }
+    ],
+    steps: [
+        { title: "Préparation", text: "Émincer le fenouil et couper les pommes de terre en rondelles fines." },
+        { title: "Précuisson", text: "Cuire fenouil et pommes de terre à l'eau 10 min." },
+        { title: "Montage", text: "Alterner couches de légumes et morceaux de saumon, napper de crème et citron." },
+        { title: "Gratinage", text: "Parsemer de fromage râpé et enfourner 20 min à 190°C." }
+    ],
+    tips: ["Le fenouil se marie parfaitement avec le saumon grâce à sa note anisée."]
+},
+{
+    id: "dal-epinards-naan",
+    name: "Dal d'Épinards au Pain Naan",
+    subtitle: "Dal crémeux aux épinards et lentilles",
+    emoji: "🍛",
+    category: "diner",
+    difficulty: "Facile",
+    time: "30 min",
+    sliderMin: 50,
+    sliderMax: 200,
+    tags: ["végétarien", "indien"],
+    ingredients: [
+        { id: "lentilles_cuites", name: "Lentilles cuites", qty: 180, unit: "g", role: "protein", rawRatio: 2 },
+        { id: "epinards", name: "Épinards", qty: 100, unit: "g", role: "neutral" },
+        { id: "pain_pita", name: "Pain pita (en guise de naan)", qty: 1, unit: "pièce(s)", role: "carb" },
+        { id: "lait_coco", name: "Lait de coco", qty: 60, unit: "ml", role: "fat" },
+        { id: "pate_curry", name: "Pâte de curry", qty: 10, unit: "g", role: "neutral" },
+        { id: "oignon", name: "Oignon", qty: 50, unit: "g", role: "neutral" },
+        { id: "ail", name: "Ail", qty: 5, unit: "g", role: "neutral" },
+        { id: "gingembre", name: "Gingembre", qty: 5, unit: "g", role: "neutral" }
+    ],
+    options: [
+        { label: "Plus protéiné", swaps: [{ from: "pain_pita", to: "oeuf", toName: "Œuf dur", ratio: 2.0 }] }
+    ],
+    steps: [
+        { title: "Base", text: "Faire revenir oignon, ail et gingembre dans une casserole." },
+        { title: "Dal", text: "Ajouter la pâte de curry, les lentilles et le lait de coco. Mijoter 15 min." },
+        { title: "Épinards", text: "Incorporer les épinards en fin de cuisson et remuer jusqu'à ce qu'ils tombent." },
+        { title: "Service", text: "Servir le dal avec le pain pita réchauffé." }
+    ],
+    tips: ["Un filet de jus de citron frais au moment de servir rehausse tous les arômes."]
+},
+{
+    id: "brochettes-boeuf-legumes-grilles",
+    name: "Brochettes de Bœuf et Légumes Grillés",
+    subtitle: "Brochettes fitness façon barbecue",
+    emoji: "🍢",
+    category: "diner",
+    difficulty: "Facile",
+    time: "25 min",
+    sliderMin: 50,
+    sliderMax: 200,
+    tags: ["high-protein", "barbecue"],
+    ingredients: [
+        { id: "boeuf_hache_5", name: "Bœuf haché 5%", qty: 160, unit: "g", role: "protein" },
+        { id: "riz_basmati_cuit", name: "Riz basmati cuit", qty: 150, unit: "g", role: "carb", rawRatio: 2.25 },
+        { id: "poivron_rouge", name: "Poivron rouge", qty: 80, unit: "g", role: "neutral" },
+        { id: "courgette", name: "Courgette", qty: 80, unit: "g", role: "neutral" },
+        { id: "oignon", name: "Oignon", qty: 50, unit: "g", role: "neutral" },
+        { id: "huile_olive", name: "Huile d'olive", qty: 5, unit: "ml", role: "fat" },
+        { id: "sauce_tomate", name: "Sauce tomate", qty: 30, unit: "g", role: "neutral" }
+    ],
+    options: [
+        { label: "Version poulet", swaps: [{ from: "boeuf_hache_5", to: "poulet_grille", toName: "Poulet grillé", ratio: 1.0 }] }
+    ],
+    steps: [
+        { title: "Préparation", text: "Former des boulettes avec le bœuf haché. Couper les légumes en gros morceaux." },
+        { title: "Montage", text: "Alterner boulettes et légumes sur des brochettes." },
+        { title: "Cuisson", text: "Griller les brochettes 10-12 min en les retournant régulièrement, badigeonner de sauce tomate." },
+        { title: "Service", text: "Servir les brochettes avec le riz basmati." }
+    ],
+    tips: ["Trempez les brochettes en bois 30 min dans l'eau avant utilisation."]
+},
+{
+    id: "poireaux-vinaigrette-oeuf",
+    name: "Poireaux Vinaigrette et Œuf Mollet",
+    subtitle: "Entrée-plat léger et classique",
+    emoji: "🥚",
+    category: "diner",
+    difficulty: "Facile",
+    time: "20 min",
+    sliderMin: 50,
+    sliderMax: 200,
+    tags: ["léger", "français"],
+    ingredients: [
+        { id: "poireaux", name: "Poireaux", qty: 200, unit: "g", role: "neutral" },
+        { id: "oeuf", name: "Œufs", qty: 3, unit: "pièce(s)", role: "protein" },
+        { id: "pain_complet", name: "Pain complet", qty: 60, unit: "g", role: "carb" },
+        { id: "jambon_blanc", name: "Jambon blanc", qty: 50, unit: "g", role: "protein" },
+        { id: "vinaigre_balsamique", name: "Vinaigre balsamique", qty: 10, unit: "ml", role: "neutral" },
+        { id: "moutarde", name: "Moutarde", qty: 5, unit: "g", role: "neutral" },
+        { id: "huile_olive", name: "Huile d'olive", qty: 8, unit: "ml", role: "fat" }
+    ],
+    options: [
+        { label: "Version saumon fumé", swaps: [{ from: "jambon_blanc", to: "saumon", toName: "Saumon", ratio: 1.0 }] }
+    ],
+    steps: [
+        { title: "Poireaux", text: "Cuire les poireaux à la vapeur 12-15 min jusqu'à ce qu'ils soient tendres." },
+        { title: "Œufs mollets", text: "Cuire les œufs 6 min dans l'eau bouillante, rafraîchir et écaler." },
+        { title: "Vinaigrette", text: "Mélanger moutarde, vinaigre balsamique et huile d'olive." },
+        { title: "Dressage", text: "Disposer les poireaux tièdes, le jambon, les œufs mollets et napper de vinaigrette. Servir avec le pain." }
+    ],
+    tips: ["Les poireaux tièdes absorbent mieux la vinaigrette que froids."]
+},
+{
+    id: "asperges-saumon-hollandaise-light",
+    name: "Asperges et Saumon Sauce Légère",
+    subtitle: "Asperges vertes et pavé de saumon",
+    emoji: "🌿",
+    category: "diner",
+    difficulty: "Moyen",
+    time: "25 min",
+    sliderMin: 50,
+    sliderMax: 200,
+    tags: ["printanier", "oméga-3"],
+    ingredients: [
+        { id: "saumon", name: "Saumon", qty: 150, unit: "g", role: "protein" },
+        { id: "asperges", name: "Asperges", qty: 150, unit: "g", role: "neutral" },
+        { id: "riz_complet_cuit", name: "Riz complet cuit", qty: 140, unit: "g", role: "carb", rawRatio: 2.25 },
+        { id: "yaourt_grec", name: "Yaourt grec", qty: 30, unit: "g", role: "neutral" },
+        { id: "citron_jus", name: "Jus de citron", qty: 10, unit: "ml", role: "neutral" },
+        { id: "moutarde", name: "Moutarde", qty: 5, unit: "g", role: "neutral" },
+        { id: "huile_olive", name: "Huile d'olive", qty: 5, unit: "ml", role: "fat" }
+    ],
+    options: [
+        { label: "Version truite", swaps: [{ from: "saumon", to: "truite", toName: "Truite", ratio: 1.0 }] }
+    ],
+    steps: [
+        { title: "Asperges", text: "Casser la base des asperges et les cuire à la vapeur 8 min." },
+        { title: "Saumon", text: "Cuire le pavé de saumon à la poêle dans l'huile d'olive 4 min par côté." },
+        { title: "Sauce", text: "Mélanger yaourt grec, moutarde et jus de citron pour une sauce hollandaise allégée." },
+        { title: "Dressage", text: "Servir le saumon sur les asperges, napper de sauce, accompagner du riz complet." }
+    ],
+    tips: ["Les asperges doivent rester croquantes pour un meilleur résultat."]
+},
+{
+    id: "chou-farci-dinde-riz",
+    name: "Chou Farci Dinde et Riz",
+    subtitle: "Feuilles de chou farcies à la dinde",
+    emoji: "🥬",
+    category: "diner",
+    difficulty: "Moyen",
+    time: "45 min",
+    sliderMin: 50,
+    sliderMax: 200,
+    tags: ["comfort-food", "high-protein"],
+    ingredients: [
+        { id: "dinde", name: "Dinde hachée", qty: 160, unit: "g", role: "protein" },
+        { id: "riz_basmati_cuit", name: "Riz basmati cuit", qty: 120, unit: "g", role: "carb", rawRatio: 2.25 },
+        { id: "chou_kale", name: "Chou kale (ou chou vert)", qty: 150, unit: "g", role: "neutral" },
+        { id: "sauce_tomate", name: "Sauce tomate", qty: 100, unit: "g", role: "neutral" },
+        { id: "oignon", name: "Oignon", qty: 40, unit: "g", role: "neutral" },
+        { id: "carotte", name: "Carotte", qty: 60, unit: "g", role: "neutral" },
+        { id: "huile_olive", name: "Huile d'olive", qty: 5, unit: "ml", role: "fat" }
+    ],
+    options: [
+        { label: "Version bœuf", swaps: [{ from: "dinde", to: "boeuf_hache_5", toName: "Bœuf haché 5%", ratio: 1.0 }] }
+    ],
+    steps: [
+        { title: "Feuilles de chou", text: "Blanchir les feuilles de chou 3 min dans l'eau bouillante." },
+        { title: "Farce", text: "Mélanger la dinde hachée avec le riz, l'oignon et la carotte râpée." },
+        { title: "Montage", text: "Déposer la farce sur chaque feuille et rouler en paquets." },
+        { title: "Cuisson", text: "Disposer dans un plat, napper de sauce tomate et enfourner 25 min à 180°C." }
+    ],
+    tips: ["Maintenez les rouleaux fermés avec un cure-dent si nécessaire."]
+},
+{
+    id: "shakshuka-merguez-light",
+    name: "Shakshuka aux Merguez Light",
+    subtitle: "Œufs pochés en sauce tomate épicée",
+    emoji: "🍅",
+    category: "diner",
+    difficulty: "Facile",
+    time: "25 min",
+    sliderMin: 50,
+    sliderMax: 200,
+    tags: ["épicé", "méditerranéen"],
+    ingredients: [
+        { id: "oeuf", name: "Œufs", qty: 3, unit: "pièce(s)", role: "protein" },
+        { id: "boeuf_hache_5", name: "Bœuf haché 5% (façon merguez)", qty: 80, unit: "g", role: "protein" },
+        { id: "pain_complet", name: "Pain complet", qty: 50, unit: "g", role: "carb" },
+        { id: "tomate", name: "Tomate", qty: 150, unit: "g", role: "neutral" },
+        { id: "poivron_rouge", name: "Poivron rouge", qty: 80, unit: "g", role: "neutral" },
+        { id: "harissa", name: "Harissa", qty: 5, unit: "g", role: "neutral" },
+        { id: "oignon", name: "Oignon", qty: 50, unit: "g", role: "neutral" },
+        { id: "huile_olive", name: "Huile d'olive", qty: 5, unit: "ml", role: "fat" }
+    ],
+    options: [
+        { label: "Version végé", swaps: [{ from: "boeuf_hache_5", to: "pois_chiches_cuits", toName: "Pois chiches", ratio: 1.5 }] }
+    ],
+    steps: [
+        { title: "Base", text: "Faire revenir oignon et poivron dans l'huile d'olive avec la harissa." },
+        { title: "Viande", text: "Ajouter le bœuf haché émietté et cuire 5 min." },
+        { title: "Sauce", text: "Ajouter les tomates concassées et laisser mijoter 10 min." },
+        { title: "Œufs", text: "Creuser des puits dans la sauce, casser les œufs et couvrir 5 min. Servir avec le pain." }
+    ],
+    tips: ["Ajoutez du cumin et de la coriandre moulue pour un goût plus authentique."]
+},
+
+{
+  id: "brownie-proteine-emporter",
+  category: "collation-emporter",
+  title: "Brownie Protéiné",
+  subtitle: "Carrés fondants chocolat-whey à emporter",
+  tags: ["chocolat", "protéiné", "emporter", "snack sucré"],
+  time: 30,
+  difficulty: "Moyen",
+  servings: 6,
+  ingredients: [
+    { id: "whey_protein", label: "Whey chocolat", quantity: 30, unit: "g", role: "protein", scalable: true, sliderMin: 80, sliderMax: 150 },
+    { id: "flocons_avoine", label: "Flocons d'avoine", quantity: 60, unit: "g", role: "carb", scalable: true, sliderMin: 80, sliderMax: 150 },
+    { id: "cacao_poudre", label: "Cacao en poudre", quantity: 15, unit: "g", role: "neutral", scalable: true, sliderMin: 80, sliderMax: 130 },
+    { id: "banane", label: "Banane mûre", quantity: 1, unit: "pièce", role: "carb", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "blanc_oeuf", label: "Blancs d'œufs", quantity: 3, unit: "pièces", role: "protein", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "beurre_cacahuete", label: "Beurre de cacahuète", quantity: 15, unit: "g", role: "fat", scalable: true, sliderMin: 50, sliderMax: 150 },
+    { id: "chocolat_noir_70", label: "Pépites de chocolat noir", quantity: 15, unit: "g", role: "fat", scalable: false, sliderMin: 50, sliderMax: 150 }
+  ],
+  steps: [
+    { title: "Préparation", text: "Préchauffer le four à 180°C. Écraser la banane dans un saladier et mélanger avec les blancs d'œufs et le beurre de cacahuète." },
+    { title: "Mélange sec", text: "Ajouter les flocons d'avoine, la whey chocolat et le cacao en poudre. Bien mélanger jusqu'à obtenir une pâte homogène." },
+    { title: "Cuisson", text: "Verser dans un moule rectangulaire chemisé de papier cuisson. Parsemer de pépites de chocolat noir. Enfourner 18-20 minutes." },
+    { title: "Découpe", text: "Laisser refroidir complètement avant de découper en 6 carrés. Emballer individuellement pour emporter facilement." }
+  ],
+  tips: [
+    { type: "green", title: "Conservation", text: "Se conserve 4 jours au frigo dans un contenant hermétique. Parfait pour préparer en batch le dimanche." },
+    { type: "red", title: "Cuisson", text: "Ne pas surcuire : le centre doit rester légèrement fondant. Il durcira en refroidissant." }
+  ]
+},
+{
+  id: "mini-wraps-thon-emporter",
+  category: "collation-emporter",
+  title: "Mini Wraps au Thon",
+  subtitle: "Roulés thon-crudités rapides et transportables",
+  tags: ["salé", "thon", "wrap", "emporter", "rapide"],
+  time: 10,
+  difficulty: "Facile",
+  servings: 2,
+  ingredients: [
+    { id: "thon_conserve", label: "Thon en conserve égoutté", quantity: 80, unit: "g", role: "protein", scalable: true, sliderMin: 80, sliderMax: 200 },
+    { id: "tortilla", label: "Tortilla complète", quantity: 1, unit: "pièce", role: "carb", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "fromage_blanc_0", label: "Fromage blanc 0%", quantity: 30, unit: "g", role: "protein", scalable: true, sliderMin: 80, sliderMax: 150 },
+    { id: "concombre", label: "Concombre", quantity: 50, unit: "g", role: "neutral", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "carotte", label: "Carotte râpée", quantity: 40, unit: "g", role: "neutral", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "citron_jus", label: "Jus de citron", quantity: 5, unit: "ml", role: "neutral", scalable: false, sliderMin: 50, sliderMax: 150 },
+    { id: "moutarde", label: "Moutarde", quantity: 5, unit: "g", role: "neutral", scalable: false, sliderMin: 50, sliderMax: 150 }
+  ],
+  steps: [
+    { title: "Préparation thon", text: "Émietter le thon dans un bol. Mélanger avec le fromage blanc, la moutarde et le jus de citron." },
+    { title: "Crudités", text: "Couper le concombre en fines lamelles. Râper la carotte finement." },
+    { title: "Assemblage", text: "Tartiner la tortilla avec le mélange au thon. Disposer les crudités sur toute la surface." },
+    { title: "Roulage", text: "Rouler la tortilla bien serrée, puis couper en 4 mini wraps. Envelopper dans du film alimentaire pour le transport." }
+  ],
+  tips: [
+    { type: "green", title: "Astuce fraîcheur", text: "Emballer chaque mini wrap individuellement. Idéal préparé la veille pour un encas au bureau." },
+    { type: "red", title: "Éviter", text: "Ne pas ajouter de tomate qui rendrait le wrap humide pendant le transport." }
+  ]
+},
+{
+  id: "barre-granola-maison-emporter",
+  category: "collation-emporter",
+  title: "Barre Granola Maison",
+  subtitle: "Barres croustillantes avoine, miel et amandes",
+  tags: ["granola", "barre", "emporter", "énergie", "fait maison"],
+  time: 25,
+  difficulty: "Facile",
+  servings: 8,
+  ingredients: [
+    { id: "flocons_avoine", label: "Flocons d'avoine", quantity: 100, unit: "g", role: "carb", scalable: true, sliderMin: 80, sliderMax: 150 },
+    { id: "miel", label: "Miel", quantity: 30, unit: "g", role: "carb", scalable: true, sliderMin: 50, sliderMax: 150 },
+    { id: "beurre_cacahuete", label: "Beurre de cacahuète", quantity: 40, unit: "g", role: "fat", scalable: true, sliderMin: 80, sliderMax: 150 },
+    { id: "amandes", label: "Amandes concassées", quantity: 30, unit: "g", role: "fat", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "whey_protein", label: "Whey vanille", quantity: 20, unit: "g", role: "protein", scalable: true, sliderMin: 80, sliderMax: 150 },
+    { id: "chocolat_noir_70", label: "Chocolat noir 70%", quantity: 20, unit: "g", role: "fat", scalable: false, sliderMin: 50, sliderMax: 150 },
+    { id: "graines_chia", label: "Graines de chia", quantity: 10, unit: "g", role: "fat", scalable: false, sliderMin: 50, sliderMax: 150 }
+  ],
+  steps: [
+    { title: "Chauffer le liant", text: "Faire fondre le beurre de cacahuète et le miel à feu doux dans une casserole. Mélanger jusqu'à obtenir un liquide homogène." },
+    { title: "Mélange sec", text: "Dans un grand bol, mélanger les flocons d'avoine, la whey, les amandes concassées et les graines de chia." },
+    { title: "Assemblage", text: "Verser le mélange liquide sur le mélange sec. Ajouter le chocolat noir concassé. Bien mélanger pour enrober tous les ingrédients." },
+    { title: "Cuisson", text: "Étaler dans un moule rectangulaire en tassant bien. Enfourner à 170°C pendant 15 minutes. Laisser refroidir complètement avant de découper en 8 barres." }
+  ],
+  tips: [
+    { type: "green", title: "Batch cooking", text: "Préparer le dimanche pour toute la semaine. Se conserve 5 jours dans une boîte hermétique." },
+    { type: "red", title: "Attention", text: "Bien tasser le mélange dans le moule pour que les barres ne s'effritent pas à la découpe." }
+  ]
+},
+{
+  id: "boules-energie-matcha-emporter",
+  category: "collation-emporter",
+  title: "Boules Énergie Matcha",
+  subtitle: "Energy balls matcha-coco sans cuisson",
+  tags: ["matcha", "énergie", "sans cuisson", "emporter", "coco"],
+  time: 15,
+  difficulty: "Facile",
+  servings: 10,
+  ingredients: [
+    { id: "flocons_avoine", label: "Flocons d'avoine", quantity: 80, unit: "g", role: "carb", scalable: true, sliderMin: 80, sliderMax: 150 },
+    { id: "beurre_cacahuete", label: "Beurre de cacahuète", quantity: 40, unit: "g", role: "fat", scalable: true, sliderMin: 80, sliderMax: 150 },
+    { id: "miel", label: "Miel", quantity: 20, unit: "g", role: "carb", scalable: true, sliderMin: 50, sliderMax: 150 },
+    { id: "whey_protein", label: "Whey vanille", quantity: 20, unit: "g", role: "protein", scalable: true, sliderMin: 80, sliderMax: 150 },
+    { id: "noix_coco_rapee", label: "Noix de coco râpée", quantity: 20, unit: "g", role: "fat", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "chocolat_noir_70", label: "Pépites de chocolat noir", quantity: 15, unit: "g", role: "fat", scalable: false, sliderMin: 50, sliderMax: 150 }
+  ],
+  steps: [
+    { title: "Mélange", text: "Mixer les flocons d'avoine en poudre grossière. Mélanger avec la whey et 2 cuillères à café de matcha en poudre." },
+    { title: "Liant", text: "Ajouter le beurre de cacahuète et le miel. Pétrir avec les mains jusqu'à obtenir une pâte collante et homogène." },
+    { title: "Façonnage", text: "Incorporer les pépites de chocolat noir. Former 10 boules de taille égale en roulant entre les paumes des mains." },
+    { title: "Enrobage", text: "Rouler chaque boule dans la noix de coco râpée. Réfrigérer au moins 30 minutes avant de déguster." }
+  ],
+  tips: [
+    { type: "green", title: "Transport", text: "Placer dans un petit tupperware ou sachet zip. Se conserve 7 jours au réfrigérateur." },
+    { type: "red", title: "Texture", text: "Si la pâte est trop sèche, ajouter une cuillère à café de lait. Si trop collante, ajouter des flocons d'avoine." }
+  ]
+},
+{
+  id: "crackers-fromage-emporter",
+  category: "collation-emporter",
+  title: "Crackers Fromage Maison",
+  subtitle: "Crackers croustillants parmesan et graines",
+  tags: ["salé", "fromage", "crackers", "emporter", "croustillant"],
+  time: 25,
+  difficulty: "Moyen",
+  servings: 4,
+  ingredients: [
+    { id: "farine_complete", label: "Farine complète", quantity: 60, unit: "g", role: "carb", scalable: true, sliderMin: 80, sliderMax: 150 },
+    { id: "parmesan", label: "Parmesan râpé", quantity: 40, unit: "g", role: "protein", scalable: true, sliderMin: 80, sliderMax: 150 },
+    { id: "graines_chia", label: "Graines de chia", quantity: 10, unit: "g", role: "fat", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "graines_lin", label: "Graines de lin", quantity: 10, unit: "g", role: "fat", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "huile_olive", label: "Huile d'olive", quantity: 10, unit: "ml", role: "fat", scalable: true, sliderMin: 50, sliderMax: 150 },
+    { id: "fromage_blanc_0", label: "Fromage blanc 0%", quantity: 20, unit: "g", role: "protein", scalable: true, sliderMin: 80, sliderMax: 150 }
+  ],
+  steps: [
+    { title: "Mélange", text: "Mélanger la farine, le parmesan, les graines de chia et les graines de lin dans un saladier." },
+    { title: "Pâte", text: "Ajouter l'huile d'olive et le fromage blanc. Pétrir pour former une boule de pâte homogène. Laisser reposer 10 minutes." },
+    { title: "Abaissage", text: "Étaler la pâte très finement (2 mm) entre deux feuilles de papier cuisson. Découper en rectangles réguliers." },
+    { title: "Cuisson", text: "Disposer sur une plaque de cuisson. Enfourner à 180°C pendant 12-15 minutes jusqu'à ce qu'ils soient dorés. Laisser refroidir complètement pour qu'ils croustillent." }
+  ],
+  tips: [
+    { type: "green", title: "Accompagnement", text: "Parfaits avec du houmous ou du cottage cheese. À emporter dans une boîte rigide pour éviter qu'ils cassent." },
+    { type: "red", title: "Cuisson", text: "Surveiller les dernières minutes : ils passent rapidement de dorés à brûlés. Mieux vaut sous-cuire légèrement." }
+  ]
+},
+{
+  id: "smoothie-bowl-pitaya-maison",
+  category: "collation-maison",
+  title: "Smoothie Bowl Dragon Fruit",
+  subtitle: "Bowl glacé pitaya, banane et toppings croquants",
+  tags: ["smoothie bowl", "fruits", "frais", "coloré", "maison"],
+  time: 10,
+  difficulty: "Facile",
+  servings: 1,
+  ingredients: [
+    { id: "banane", label: "Banane congelée", quantity: 1, unit: "pièce", role: "carb", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "fruits_rouges", label: "Fruits rouges surgelés", quantity: 50, unit: "g", role: "carb", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "skyr_0", label: "Skyr 0%", quantity: 100, unit: "g", role: "protein", scalable: true, sliderMin: 80, sliderMax: 200 },
+    { id: "lait_amande", label: "Lait d'amande", quantity: 50, unit: "ml", role: "neutral", scalable: true, sliderMin: 50, sliderMax: 150 },
+    { id: "granola", label: "Granola", quantity: 20, unit: "g", role: "carb", scalable: false, sliderMin: 50, sliderMax: 150 },
+    { id: "noix_coco_rapee", label: "Noix de coco râpée", quantity: 5, unit: "g", role: "fat", scalable: false, sliderMin: 50, sliderMax: 150 },
+    { id: "graines_chia", label: "Graines de chia", quantity: 5, unit: "g", role: "fat", scalable: false, sliderMin: 50, sliderMax: 150 }
+  ],
+  steps: [
+    { title: "Base du bowl", text: "Mixer la banane congelée, les fruits rouges, le skyr et le lait d'amande jusqu'à obtenir une consistance épaisse et crémeuse." },
+    { title: "Texture", text: "La texture doit être plus épaisse qu'un smoothie classique. Ajouter un peu de lait si nécessaire, mais garder une consistance cuillère." },
+    { title: "Dressage", text: "Verser dans un bol. Disposer le granola, la noix de coco râpée et les graines de chia en rangées ordonnées sur le dessus." },
+    { title: "Dégustation", text: "Servir immédiatement pour profiter de la texture glacée. Manger à la cuillère en mélangeant les toppings au fur et à mesure." }
+  ],
+  tips: [
+    { type: "green", title: "Couleur pitaya", text: "Pour une couleur rose vif, ajouter 1 cuillère à café de poudre d'açaï ou de pitaya en poudre au mixage." },
+    { type: "red", title: "Banane", text: "La banane doit être bien congelée pour obtenir la bonne texture. Couper en rondelles avant de congeler." }
+  ]
+},
+{
+  id: "banana-ice-cream-cookies-maison",
+  category: "collation-maison",
+  title: "Banana Ice Cream Cookies",
+  subtitle: "Nice cream servie sur cookies protéinés tièdes",
+  tags: ["dessert", "glace", "cookies", "banane", "gourmand"],
+  time: 20,
+  difficulty: "Moyen",
+  servings: 2,
+  ingredients: [
+    { id: "banane", label: "Bananes congelées", quantity: 2, unit: "pièces", role: "carb", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "flocons_avoine", label: "Flocons d'avoine", quantity: 50, unit: "g", role: "carb", scalable: true, sliderMin: 80, sliderMax: 150 },
+    { id: "whey_protein", label: "Whey vanille", quantity: 20, unit: "g", role: "protein", scalable: true, sliderMin: 80, sliderMax: 150 },
+    { id: "beurre_cacahuete", label: "Beurre de cacahuète", quantity: 15, unit: "g", role: "fat", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "oeuf", label: "Œuf", quantity: 1, unit: "pièce", role: "protein", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "chocolat_noir_70", label: "Pépites de chocolat noir", quantity: 15, unit: "g", role: "fat", scalable: false, sliderMin: 50, sliderMax: 150 },
+    { id: "cacao_poudre", label: "Cacao en poudre", quantity: 5, unit: "g", role: "neutral", scalable: false, sliderMin: 50, sliderMax: 150 }
+  ],
+  steps: [
+    { title: "Cookies", text: "Mélanger les flocons d'avoine, la whey, l'œuf et le beurre de cacahuète. Incorporer les pépites de chocolat. Former 4 cookies et cuire à 180°C pendant 10-12 minutes." },
+    { title: "Nice cream", text: "Pendant la cuisson, mixer les bananes congelées avec le cacao en poudre jusqu'à obtenir une texture de glace onctueuse." },
+    { title: "Assemblage", text: "Sortir les cookies encore tièdes. En disposer 2 par assiette et déposer une boule de nice cream par-dessus." },
+    { title: "Finition", text: "Servir immédiatement pour le contraste tiède-glacé. Saupoudrer éventuellement de cacao en poudre." }
+  ],
+  tips: [
+    { type: "green", title: "Préparation", text: "Congeler les bananes coupées en rondelles la veille. Plus elles sont mûres, plus la nice cream sera sucrée." },
+    { type: "red", title: "Timing", text: "Servir immédiatement après assemblage car la nice cream fond rapidement au contact des cookies tièdes." }
+  ]
+},
+{
+  id: "bol-proteine-tiede-maison",
+  category: "collation-maison",
+  title: "Bol Protéiné Tiède",
+  subtitle: "Porridge express aux flocons d'avoine et whey",
+  tags: ["tiède", "protéiné", "réconfortant", "avoine", "rapide"],
+  time: 8,
+  difficulty: "Facile",
+  servings: 1,
+  ingredients: [
+    { id: "flocons_avoine", label: "Flocons d'avoine", quantity: 40, unit: "g", role: "carb", scalable: true, sliderMin: 80, sliderMax: 200 },
+    { id: "lait_demi", label: "Lait demi-écrémé", quantity: 150, unit: "ml", role: "neutral", scalable: true, sliderMin: 80, sliderMax: 150 },
+    { id: "whey_protein", label: "Whey vanille", quantity: 25, unit: "g", role: "protein", scalable: true, sliderMin: 80, sliderMax: 150 },
+    { id: "banane", label: "Banane", quantity: 0.5, unit: "pièce", role: "carb", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "beurre_cacahuete", label: "Beurre de cacahuète", quantity: 10, unit: "g", role: "fat", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "myrtilles", label: "Myrtilles", quantity: 30, unit: "g", role: "carb", scalable: false, sliderMin: 50, sliderMax: 200 }
+  ],
+  steps: [
+    { title: "Cuisson", text: "Faire chauffer le lait dans une casserole. Ajouter les flocons d'avoine et cuire 3-4 minutes à feu moyen en remuant régulièrement." },
+    { title: "Protéines", text: "Retirer du feu et laisser tiédir 1 minute. Incorporer la whey en mélangeant vigoureusement pour éviter les grumeaux." },
+    { title: "Toppings", text: "Verser dans un bol. Disposer les rondelles de banane, les myrtilles et le beurre de cacahuète sur le dessus." },
+    { title: "Dégustation", text: "Déguster tiède en mélangeant le beurre de cacahuète au fur et à mesure pour créer des filaments gourmands." }
+  ],
+  tips: [
+    { type: "green", title: "Whey", text: "Toujours ajouter la whey hors du feu pour éviter qu'elle ne forme des grumeaux et ne perde ses propriétés." },
+    { type: "red", title: "Température", text: "Ne pas ajouter la whey dans le lait bouillant, la protéine coagulerait et la texture serait granuleuse." }
+  ]
+},
+{
+  id: "creme-brulee-proteinee-maison",
+  category: "collation-maison",
+  title: "Crème Brûlée Protéinée",
+  subtitle: "Crème onctueuse vanille au skyr, façon brûlée",
+  tags: ["dessert", "protéiné", "vanille", "gourmand", "crémeux"],
+  time: 15,
+  difficulty: "Moyen",
+  servings: 2,
+  ingredients: [
+    { id: "skyr_0", label: "Skyr 0%", quantity: 200, unit: "g", role: "protein", scalable: true, sliderMin: 80, sliderMax: 200 },
+    { id: "whey_protein", label: "Whey vanille", quantity: 20, unit: "g", role: "protein", scalable: true, sliderMin: 80, sliderMax: 150 },
+    { id: "oeuf", label: "Jaune d'œuf", quantity: 1, unit: "pièce", role: "protein", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "lait_demi", label: "Lait demi-écrémé", quantity: 50, unit: "ml", role: "neutral", scalable: true, sliderMin: 80, sliderMax: 150 },
+    { id: "miel", label: "Miel", quantity: 10, unit: "g", role: "carb", scalable: false, sliderMin: 50, sliderMax: 150 }
+  ],
+  steps: [
+    { title: "Base crème", text: "Mélanger le skyr, la whey vanille et le lait demi-écrémé au fouet jusqu'à obtenir un mélange parfaitement lisse." },
+    { title: "Enrichissement", text: "Ajouter le jaune d'œuf et le miel. Fouetter vigoureusement pour incorporer. Répartir dans 2 ramequins." },
+    { title: "Cuisson", text: "Cuire au bain-marie au four à 160°C pendant 20 minutes ou au micro-ondes 2 minutes à puissance moyenne. La crème doit être prise mais tremblotante." },
+    { title: "Caramélisation", text: "Laisser refroidir, puis saupoudrer d'une fine couche de sucre et caraméliser au chalumeau ou sous le gril du four 2 minutes." }
+  ],
+  tips: [
+    { type: "green", title: "Texture parfaite", text: "Pour une crème extra onctueuse, passer le mélange au tamis fin avant de le verser dans les ramequins." },
+    { type: "red", title: "Cuisson", text: "Ne pas surcuire sinon la crème sera granuleuse. Elle doit trembler légèrement au centre quand on secoue le ramequin." }
+  ]
+},
+{
+  id: "dip-guacamole-proteine-maison",
+  category: "collation-maison",
+  title: "Dip Guacamole Protéiné",
+  subtitle: "Guacamole enrichi au cottage cheese avec crudités",
+  tags: ["salé", "avocat", "protéiné", "dip", "frais"],
+  time: 10,
+  difficulty: "Facile",
+  servings: 2,
+  ingredients: [
+    { id: "avocat", label: "Avocat mûr", quantity: 1, unit: "pièce", role: "fat", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "cottage_cheese", label: "Cottage cheese", quantity: 80, unit: "g", role: "protein", scalable: true, sliderMin: 80, sliderMax: 200 },
+    { id: "citron_jus", label: "Jus de citron vert", quantity: 15, unit: "ml", role: "neutral", scalable: false, sliderMin: 50, sliderMax: 150 },
+    { id: "tomate", label: "Tomate", quantity: 1, unit: "pièce", role: "neutral", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "oignon", label: "Oignon rouge", quantity: 20, unit: "g", role: "neutral", scalable: true, sliderMin: 50, sliderMax: 150 },
+    { id: "coriandre", label: "Coriandre fraîche", quantity: 5, unit: "g", role: "neutral", scalable: false, sliderMin: 50, sliderMax: 150 },
+    { id: "concombre", label: "Concombre (pour dipper)", quantity: 100, unit: "g", role: "neutral", scalable: true, sliderMin: 50, sliderMax: 200 },
+    { id: "carotte", label: "Bâtonnets de carotte", quantity: 80, unit: "g", role: "neutral", scalable: true, sliderMin: 50, sliderMax: 200 }
+  ],
+  steps: [
+    { title: "Base guacamole", text: "Écraser l'avocat à la fourchette dans un bol. Ajouter le jus de citron vert immédiatement pour éviter l'oxydation." },
+    { title: "Garniture", text: "Couper la tomate en petits dés et émincer finement l'oignon rouge. Ciseler la coriandre. Incorporer le tout au guacamole." },
+    { title: "Protéines", text: "Ajouter le cottage cheese et mélanger délicatement pour garder une texture rustique avec des morceaux visibles." },
+    { title: "Service", text: "Servir dans un bol avec des bâtonnets de concombre et de carotte pour dipper. Assaisonner de sel et poivre." }
+  ],
+  tips: [
+    { type: "green", title: "Boost protéines", text: "Le cottage cheese double les protéines d'un guacamole classique tout en gardant l'onctuosité. Idéal en collation post-entraînement." },
+    { type: "red", title: "Conservation", text: "Consommer rapidement car l'avocat s'oxyde. Presser un filet de citron sur le dessus si vous devez attendre." }
+  ]
+},
+
+{
+    id: "gaufres-proteinees-cannelle",
+    name: "Gaufres Protéinées Cannelle",
+    subtitle: "Gaufres moelleuses riches en protéines avec une touche de cannelle",
+    emoji: "🧇",
+    category: "petit-dej-sucre",
+    difficulty: "Facile",
+    time: "15 min",
+    sliderMin: 50,
+    sliderMax: 200,
+    tags: ["high-protein", "gourmand"],
+    ingredients: [
+        { id: "flocons_avoine", name: "Flocons d'avoine", qty: 50, unit: "g", role: "carb" },
+        { id: "whey_protein", name: "Whey protéine vanille", qty: 30, unit: "g", role: "protein" },
+        { id: "blanc_oeuf", name: "Blancs d'œufs", qty: 100, unit: "g", role: "protein" },
+        { id: "lait_demi", name: "Lait demi-écrémé", qty: 80, unit: "ml", role: "neutral" },
+        { id: "miel", name: "Miel", qty: 10, unit: "g", role: "carb" }
+    ],
+    options: [
+        { label: "Sans lactose", swaps: [{ from: "lait_demi", to: "lait_amande", toName: "Lait d'amande", ratio: 1 }] }
+    ],
+    steps: [
+        { title: "Pâte", text: "Mixer les flocons d'avoine en farine. Ajouter la whey, les blancs d'œufs et le lait. Bien mélanger jusqu'à obtenir une pâte lisse." },
+        { title: "Cuisson", text: "Préchauffer le gaufrier. Verser la pâte et cuire 4-5 minutes jusqu'à ce que les gaufres soient dorées." },
+        { title: "Service", text: "Démouler les gaufres et napper de miel. Saupoudrer de cannelle." }
+    ],
+    tips: ["Ajouter une pincée de cannelle directement dans la pâte pour plus de saveur.", "Ces gaufres se congèlent très bien pour le meal prep."]
+},
+{
+    id: "baked-oats-pomme-noix",
+    name: "Baked Oats Pomme & Noix",
+    subtitle: "Flocons d'avoine cuits au four façon gâteau avec pomme et noix",
+    emoji: "🍎",
+    category: "petit-dej-sucre",
+    difficulty: "Facile",
+    time: "25 min",
+    sliderMin: 50,
+    sliderMax: 200,
+    tags: ["meal-prep", "gourmand"],
+    ingredients: [
+        { id: "flocons_avoine", name: "Flocons d'avoine", qty: 60, unit: "g", role: "carb" },
+        { id: "oeuf", name: "Œuf entier", qty: 1, unit: "pièce", role: "protein" },
+        { id: "fromage_blanc_0", name: "Fromage blanc 0%", qty: 80, unit: "g", role: "protein" },
+        { id: "pomme", name: "Pomme", qty: 100, unit: "g", role: "carb" },
+        { id: "noix", name: "Noix concassées", qty: 10, unit: "g", role: "fat" },
+        { id: "miel", name: "Miel", qty: 10, unit: "g", role: "carb" }
+    ],
+    options: [
+        { label: "Plus protéiné", swaps: [{ from: "fromage_blanc_0", to: "skyr_0", toName: "Skyr 0%", ratio: 1 }] }
+    ],
+    steps: [
+        { title: "Préparation", text: "Préchauffer le four à 180°C. Couper la pomme en petits dés." },
+        { title: "Mélange", text: "Dans un bol, mélanger les flocons d'avoine, l'œuf, le fromage blanc et le miel. Incorporer les dés de pomme." },
+        { title: "Cuisson", text: "Verser dans un petit plat allant au four. Parsemer de noix concassées. Cuire 20 minutes jusqu'à ce que le dessus soit doré." }
+    ],
+    tips: ["Préparer en batch dans un moule à muffins pour la semaine.", "Remplacer la pomme par de la poire en automne."]
+},
+{
+    id: "chia-pudding-coco-framboise",
+    name: "Chia Pudding Coco & Framboise",
+    subtitle: "Pudding de graines de chia au lait de coco et fruits rouges",
+    emoji: "🥥",
+    category: "petit-dej-sucre",
+    difficulty: "Facile",
+    time: "5 min + repos",
+    sliderMin: 50,
+    sliderMax: 200,
+    tags: ["sans-cuisson", "meal-prep", "rapide"],
+    ingredients: [
+        { id: "graines_chia", name: "Graines de chia", qty: 30, unit: "g", role: "fat" },
+        { id: "lait_coco", name: "Lait de coco", qty: 150, unit: "ml", role: "fat" },
+        { id: "fruits_rouges", name: "Fruits rouges", qty: 80, unit: "g", role: "carb" },
+        { id: "skyr_0", name: "Skyr 0%", qty: 80, unit: "g", role: "protein" },
+        { id: "noix_coco_rapee", name: "Noix de coco râpée", qty: 5, unit: "g", role: "fat" },
+        { id: "sirop_erable", name: "Sirop d'érable", qty: 10, unit: "g", role: "carb" }
+    ],
+    options: [
+        { label: "Sans coco", swaps: [{ from: "lait_coco", to: "lait_amande", toName: "Lait d'amande", ratio: 1 }] }
+    ],
+    steps: [
+        { title: "Mélange", text: "Mélanger les graines de chia avec le lait de coco et le sirop d'érable dans un bocal." },
+        { title: "Repos", text: "Laisser reposer au réfrigérateur toute la nuit ou au minimum 4 heures." },
+        { title: "Service", text: "Ajouter le skyr, les fruits rouges et la noix de coco râpée au moment de servir." }
+    ],
+    tips: ["Préparer 3-4 bocaux à l'avance pour la semaine.", "Remuer une fois après 30 minutes pour éviter les grumeaux."]
+},
+{
+    id: "protein-mugcake-chocolat",
+    name: "Mugcake Protéiné Chocolat",
+    subtitle: "Gâteau express au micro-ondes riche en protéines et cacao",
+    emoji: "🍫",
+    category: "petit-dej-sucre",
+    difficulty: "Facile",
+    time: "5 min",
+    sliderMin: 50,
+    sliderMax: 200,
+    tags: ["rapide", "high-protein", "gourmand"],
+    ingredients: [
+        { id: "whey_protein", name: "Whey protéine chocolat", qty: 30, unit: "g", role: "protein" },
+        { id: "flocons_avoine", name: "Flocons d'avoine", qty: 30, unit: "g", role: "carb" },
+        { id: "oeuf", name: "Œuf entier", qty: 1, unit: "pièce", role: "protein" },
+        { id: "cacao_poudre", name: "Cacao en poudre", qty: 10, unit: "g", role: "neutral" },
+        { id: "lait_demi", name: "Lait demi-écrémé", qty: 50, unit: "ml", role: "neutral" },
+        { id: "beurre_cacahuete", name: "Beurre de cacahuète", qty: 10, unit: "g", role: "fat" }
+    ],
+    options: [
+        { label: "Végan", swaps: [{ from: "whey_protein", to: "banane", toName: "Banane écrasée", ratio: 3 }] }
+    ],
+    steps: [
+        { title: "Mélange", text: "Dans un mug, mélanger les flocons d'avoine mixés, la whey, le cacao et l'œuf. Ajouter le lait et bien remuer." },
+        { title: "Cuisson", text: "Cuire au micro-ondes 90 secondes à puissance maximale. Vérifier la cuisson et ajouter 20 secondes si nécessaire." },
+        { title: "Topping", text: "Ajouter le beurre de cacahuète sur le dessus encore chaud pour qu'il fonde légèrement." }
+    ],
+    tips: ["Ne pas trop cuire pour garder un cœur moelleux.", "Parfait quand on a très peu de temps le matin."]
+},
+{
+    id: "bircher-muesli-mangue",
+    name: "Bircher Muesli à la Mangue",
+    subtitle: "Muesli suisse traditionnel revisité avec mangue fraîche",
+    emoji: "🥭",
+    category: "petit-dej-sucre",
+    difficulty: "Facile",
+    time: "5 min + repos",
+    sliderMin: 50,
+    sliderMax: 200,
+    tags: ["sans-cuisson", "meal-prep"],
+    ingredients: [
+        { id: "flocons_avoine", name: "Flocons d'avoine", qty: 50, unit: "g", role: "carb" },
+        { id: "yaourt_grec", name: "Yaourt grec", qty: 100, unit: "g", role: "protein" },
+        { id: "mangue", name: "Mangue fraîche", qty: 80, unit: "g", role: "carb" },
+        { id: "lait_amande", name: "Lait d'amande", qty: 80, unit: "ml", role: "neutral" },
+        { id: "amandes", name: "Amandes effilées", qty: 10, unit: "g", role: "fat" },
+        { id: "graines_chia", name: "Graines de chia", qty: 5, unit: "g", role: "fat" }
+    ],
+    options: [
+        { label: "Sans fruits exotiques", swaps: [{ from: "mangue", to: "pomme", toName: "Pomme râpée", ratio: 1.2 }] }
+    ],
+    steps: [
+        { title: "Mélange", text: "Mélanger les flocons d'avoine, le yaourt grec, le lait d'amande et les graines de chia dans un bol." },
+        { title: "Repos", text: "Couvrir et laisser reposer au réfrigérateur toute la nuit." },
+        { title: "Service", text: "Couper la mangue en dés. Garnir le muesli de mangue et d'amandes effilées au moment de servir." }
+    ],
+    tips: ["Peut se conserver jusqu'à 3 jours au réfrigérateur.", "Ajouter un filet de miel si la mangue n'est pas assez mûre."]
+},
+{
+    id: "toast-banane-beurre-cacahuete",
+    name: "Toast Banane & Beurre de Cacahuète",
+    subtitle: "Pain complet grillé garni de banane et beurre de cacahuète protéiné",
+    emoji: "🍌",
+    category: "petit-dej-sucre",
+    difficulty: "Facile",
+    time: "5 min",
+    sliderMin: 50,
+    sliderMax: 200,
+    tags: ["rapide", "énergie"],
+    ingredients: [
+        { id: "pain_complet", name: "Pain complet", qty: 60, unit: "g", role: "carb" },
+        { id: "banane", name: "Banane", qty: 100, unit: "g", role: "carb" },
+        { id: "beurre_cacahuete", name: "Beurre de cacahuète", qty: 20, unit: "g", role: "fat" },
+        { id: "graines_chia", name: "Graines de chia", qty: 5, unit: "g", role: "fat" },
+        { id: "miel", name: "Miel", qty: 5, unit: "g", role: "carb" },
+        { id: "cottage_cheese", name: "Cottage cheese", qty: 50, unit: "g", role: "protein" }
+    ],
+    options: [
+        { label: "Sans gluten", swaps: [{ from: "pain_complet", to: "galette_riz", toName: "Galettes de riz", ratio: 0.5 }] }
+    ],
+    steps: [
+        { title: "Toast", text: "Faire griller les tranches de pain complet." },
+        { title: "Garniture", text: "Tartiner le cottage cheese puis le beurre de cacahuète. Disposer les rondelles de banane." },
+        { title: "Finition", text: "Saupoudrer de graines de chia et ajouter un filet de miel." }
+    ],
+    tips: ["Utiliser une banane bien mûre pour plus de douceur naturelle.", "Idéal avant un entraînement matinal."]
+},
+{
+    id: "protein-balls-avoine-cacao",
+    name: "Protein Balls Avoine & Cacao",
+    subtitle: "Bouchées énergétiques sans cuisson au cacao et flocons d'avoine",
+    emoji: "🟤",
+    category: "petit-dej-sucre",
+    difficulty: "Facile",
+    time: "10 min",
+    sliderMin: 50,
+    sliderMax: 200,
+    tags: ["sans-cuisson", "meal-prep", "snack"],
+    ingredients: [
+        { id: "flocons_avoine", name: "Flocons d'avoine", qty: 50, unit: "g", role: "carb" },
+        { id: "whey_protein", name: "Whey protéine", qty: 25, unit: "g", role: "protein" },
+        { id: "beurre_cacahuete", name: "Beurre de cacahuète", qty: 30, unit: "g", role: "fat" },
+        { id: "cacao_poudre", name: "Cacao en poudre", qty: 10, unit: "g", role: "neutral" },
+        { id: "miel", name: "Miel", qty: 15, unit: "g", role: "carb" },
+        { id: "lait_demi", name: "Lait demi-écrémé", qty: 20, unit: "ml", role: "neutral" }
+    ],
+    options: [
+        { label: "Sans arachide", swaps: [{ from: "beurre_cacahuete", to: "sauce_tahini", toName: "Tahini", ratio: 1 }] }
+    ],
+    steps: [
+        { title: "Mélange", text: "Combiner tous les ingrédients secs dans un bol. Ajouter le beurre de cacahuète, le miel et le lait. Bien pétrir." },
+        { title: "Façonnage", text: "Former des boules de la taille d'une noix avec les mains légèrement humides." },
+        { title: "Repos", text: "Placer au réfrigérateur 30 minutes pour raffermir. Conserver dans une boîte hermétique." }
+    ],
+    tips: ["Se conservent 5 jours au frigo ou 1 mois au congélateur.", "Rouler dans la noix de coco râpée pour varier."]
+},
+{
+    id: "skyr-crumble-fraises",
+    name: "Skyr Crumble aux Fraises",
+    subtitle: "Skyr onctueux avec crumble croquant d'avoine et fraises fraîches",
+    emoji: "🍓",
+    category: "petit-dej-sucre",
+    difficulty: "Facile",
+    time: "10 min",
+    sliderMin: 50,
+    sliderMax: 200,
+    tags: ["high-protein", "rapide"],
+    ingredients: [
+        { id: "skyr_0", name: "Skyr 0%", qty: 150, unit: "g", role: "protein" },
+        { id: "fraises", name: "Fraises", qty: 100, unit: "g", role: "carb" },
+        { id: "granola", name: "Granola", qty: 30, unit: "g", role: "carb" },
+        { id: "amandes", name: "Amandes concassées", qty: 10, unit: "g", role: "fat" },
+        { id: "miel", name: "Miel", qty: 10, unit: "g", role: "carb" }
+    ],
+    options: [
+        { label: "Autre fruit", swaps: [{ from: "fraises", to: "myrtilles", toName: "Myrtilles", ratio: 1 }] }
+    ],
+    steps: [
+        { title: "Préparation fruits", text: "Laver et couper les fraises en morceaux." },
+        { title: "Assemblage", text: "Verser le skyr dans un bol. Disposer les fraises par-dessus." },
+        { title: "Topping", text: "Ajouter le granola, les amandes concassées et un filet de miel." }
+    ],
+    tips: ["Toaster le granola 2 minutes à la poêle pour plus de croquant.", "Ajouter une cuillère de whey vanille dans le skyr pour plus de protéines."]
+},
+{
+    id: "french-toast-chocolat-noir",
+    name: "French Toast Chocolat Noir",
+    subtitle: "Pain perdu au chocolat noir fondu et fruits rouges",
+    emoji: "🍞",
+    category: "petit-dej-sucre",
+    difficulty: "Moyen",
+    time: "15 min",
+    sliderMin: 50,
+    sliderMax: 200,
+    tags: ["gourmand", "week-end"],
+    ingredients: [
+        { id: "pain_mie_complet", name: "Pain de mie complet", qty: 60, unit: "g", role: "carb" },
+        { id: "oeuf", name: "Œuf entier", qty: 1, unit: "pièce", role: "protein" },
+        { id: "blanc_oeuf", name: "Blanc d'œuf", qty: 50, unit: "g", role: "protein" },
+        { id: "lait_demi", name: "Lait demi-écrémé", qty: 50, unit: "ml", role: "neutral" },
+        { id: "chocolat_noir_70", name: "Chocolat noir 70%", qty: 15, unit: "g", role: "fat" },
+        { id: "fruits_rouges", name: "Fruits rouges", qty: 60, unit: "g", role: "carb" }
+    ],
+    options: [
+        { label: "Sans chocolat", swaps: [{ from: "chocolat_noir_70", to: "beurre_cacahuete", toName: "Beurre de cacahuète", ratio: 0.7 }] }
+    ],
+    steps: [
+        { title: "Appareil", text: "Battre l'œuf, le blanc d'œuf et le lait dans une assiette creuse." },
+        { title: "Trempage", text: "Tremper les tranches de pain de mie dans l'appareil, 30 secondes de chaque côté." },
+        { title: "Cuisson", text: "Cuire dans une poêle antiadhésive à feu moyen, 2-3 minutes par face." },
+        { title: "Topping", text: "Faire fondre le chocolat noir au micro-ondes. Napper le pain perdu et garnir de fruits rouges." }
+    ],
+    tips: ["Le pain rassis absorbe mieux l'appareil.", "Ajouter une pincée de vanille dans l'appareil."]
+},
+{
+    id: "smoothie-proteine-banane-cacao",
+    name: "Smoothie Protéiné Banane Cacao",
+    subtitle: "Milk-shake fitness au goût de chocolat banane",
+    emoji: "🥤",
+    category: "petit-dej-sucre",
+    difficulty: "Facile",
+    time: "5 min",
+    sliderMin: 50,
+    sliderMax: 200,
+    tags: ["rapide", "high-protein", "blender"],
+    ingredients: [
+        { id: "banane", name: "Banane congelée", qty: 100, unit: "g", role: "carb" },
+        { id: "whey_protein", name: "Whey protéine chocolat", qty: 30, unit: "g", role: "protein" },
+        { id: "lait_demi", name: "Lait demi-écrémé", qty: 200, unit: "ml", role: "neutral" },
+        { id: "cacao_poudre", name: "Cacao en poudre", qty: 8, unit: "g", role: "neutral" },
+        { id: "beurre_cacahuete", name: "Beurre de cacahuète", qty: 15, unit: "g", role: "fat" },
+        { id: "flocons_avoine", name: "Flocons d'avoine", qty: 20, unit: "g", role: "carb" }
+    ],
+    options: [
+        { label: "Sans lactose", swaps: [{ from: "lait_demi", to: "lait_avoine", toName: "Lait d'avoine", ratio: 1 }] }
+    ],
+    steps: [
+        { title: "Mixage", text: "Placer tous les ingrédients dans un blender. Mixer à haute vitesse pendant 60 secondes jusqu'à obtenir une texture lisse." },
+        { title: "Ajustement", text: "Ajuster la consistance avec un peu de lait si trop épais. Goûter et ajuster la douceur." },
+        { title: "Service", text: "Verser dans un grand verre ou un shaker pour emporter." }
+    ],
+    tips: ["Congeler la banane en rondelles la veille pour un smoothie plus épais et frais.", "Parfait à emporter dans un shaker pour boire en route."]
+},
+{
+    id: "clafoutis-myrtilles-proteine",
+    name: "Clafoutis aux Myrtilles Protéiné",
+    subtitle: "Clafoutis léger et riche en protéines aux myrtilles",
+    emoji: "🫐",
+    category: "petit-dej-sucre",
+    difficulty: "Moyen",
+    time: "30 min",
+    sliderMin: 50,
+    sliderMax: 200,
+    tags: ["meal-prep", "gourmand"],
+    ingredients: [
+        { id: "myrtilles", name: "Myrtilles", qty: 100, unit: "g", role: "carb" },
+        { id: "oeufs", name: "Œufs", qty: 2, unit: "pièces", role: "protein" },
+        { id: "fromage_blanc_0", name: "Fromage blanc 0%", qty: 100, unit: "g", role: "protein" },
+        { id: "farine_complete", name: "Farine complète", qty: 30, unit: "g", role: "carb" },
+        { id: "lait_demi", name: "Lait demi-écrémé", qty: 80, unit: "ml", role: "neutral" },
+        { id: "sirop_erable", name: "Sirop d'érable", qty: 15, unit: "g", role: "carb" }
+    ],
+    options: [
+        { label: "Autre fruit", swaps: [{ from: "myrtilles", to: "fraises", toName: "Fraises coupées", ratio: 1.2 }] }
+    ],
+    steps: [
+        { title: "Préchauffage", text: "Préchauffer le four à 180°C. Beurrer légèrement un petit moule." },
+        { title: "Appareil", text: "Fouetter les œufs avec le fromage blanc, la farine, le lait et le sirop d'érable." },
+        { title: "Montage", text: "Disposer les myrtilles dans le moule. Verser l'appareil par-dessus." },
+        { title: "Cuisson", text: "Enfourner 25 minutes jusqu'à ce que le clafoutis soit doré et pris. Laisser tiédir avant de servir." }
+    ],
+    tips: ["Se conserve 2 jours au réfrigérateur, se réchauffe bien.", "Utiliser des myrtilles surgelées fonctionne aussi très bien."]
+},
+{
+    id: "acai-bowl-granola-maison",
+    name: "Açaí Bowl Granola Maison",
+    subtitle: "Base crémeuse d'açaí avec garnitures croquantes et fruits frais",
+    emoji: "💜",
+    category: "petit-dej-sucre",
+    difficulty: "Facile",
+    time: "10 min",
+    sliderMin: 50,
+    sliderMax: 200,
+    tags: ["sans-cuisson", "antioxydant"],
+    ingredients: [
+        { id: "acai_puree", name: "Purée d'açaí", qty: 100, unit: "g", role: "carb" },
+        { id: "banane", name: "Banane congelée", qty: 80, unit: "g", role: "carb" },
+        { id: "skyr_0", name: "Skyr 0%", qty: 100, unit: "g", role: "protein" },
+        { id: "granola", name: "Granola", qty: 25, unit: "g", role: "carb" },
+        { id: "noix_coco_rapee", name: "Noix de coco râpée", qty: 5, unit: "g", role: "fat" },
+        { id: "graines_chia", name: "Graines de chia", qty: 5, unit: "g", role: "fat" }
+    ],
+    options: [
+        { label: "Plus protéiné", swaps: [{ from: "skyr_0", to: "cottage_cheese", toName: "Cottage cheese", ratio: 1 }] }
+    ],
+    steps: [
+        { title: "Base", text: "Mixer la purée d'açaí, la banane congelée et le skyr jusqu'à obtenir une texture épaisse de sorbet." },
+        { title: "Assemblage", text: "Verser la base dans un bol. La texture doit être bien épaisse." },
+        { title: "Toppings", text: "Garnir de granola, noix de coco râpée et graines de chia. Ajouter des fruits frais si désiré." }
+    ],
+    tips: ["La clé est d'utiliser une banane bien congelée pour la texture épaisse.", "Ajouter un peu de lait d'amande si le blender a du mal à mixer."]
+},
+{
+    id: "crumble-pomme-cannelle-proteine",
+    name: "Crumble Pomme Cannelle Protéiné",
+    subtitle: "Crumble express aux pommes fondantes et topping croustillant protéiné",
+    emoji: "🥧",
+    category: "petit-dej-sucre",
+    difficulty: "Moyen",
+    time: "20 min",
+    sliderMin: 50,
+    sliderMax: 200,
+    tags: ["gourmand", "comfort-food"],
+    ingredients: [
+        { id: "pomme", name: "Pomme", qty: 150, unit: "g", role: "carb" },
+        { id: "flocons_avoine", name: "Flocons d'avoine", qty: 40, unit: "g", role: "carb" },
+        { id: "whey_protein", name: "Whey protéine vanille", qty: 20, unit: "g", role: "protein" },
+        { id: "amandes", name: "Amandes concassées", qty: 15, unit: "g", role: "fat" },
+        { id: "yaourt_grec", name: "Yaourt grec", qty: 80, unit: "g", role: "protein" },
+        { id: "miel", name: "Miel", qty: 10, unit: "g", role: "carb" }
+    ],
+    options: [
+        { label: "Végan", swaps: [{ from: "yaourt_grec", to: "lait_coco", toName: "Lait de coco", ratio: 0.8 }] }
+    ],
+    steps: [
+        { title: "Pommes", text: "Couper les pommes en dés. Les faire revenir 5 minutes à la poêle avec un peu de cannelle jusqu'à ce qu'elles soient fondantes." },
+        { title: "Crumble", text: "Mélanger les flocons d'avoine, la whey et les amandes. Faire griller à sec à la poêle 3-4 minutes." },
+        { title: "Assemblage", text: "Disposer les pommes dans un bol, ajouter le yaourt grec, puis le crumble toasté et un filet de miel." }
+    ],
+    tips: ["La cannelle booste le métabolisme et donne un goût gourmand sans calories.", "Préparer les pommes la veille et réchauffer le matin."]
+},
+{
+    id: "pain-perdu-banane-amande",
+    name: "Pain Perdu Banane & Amande",
+    subtitle: "Pain perdu doré à la banane écrasée et éclats d'amandes",
+    emoji: "🍯",
+    category: "petit-dej-sucre",
+    difficulty: "Facile",
+    time: "10 min",
+    sliderMin: 50,
+    sliderMax: 200,
+    tags: ["rapide", "anti-gaspi"],
+    ingredients: [
+        { id: "pain_complet", name: "Pain complet", qty: 60, unit: "g", role: "carb" },
+        { id: "oeufs", name: "Œufs", qty: 2, unit: "pièces", role: "protein" },
+        { id: "banane", name: "Banane", qty: 80, unit: "g", role: "carb" },
+        { id: "lait_amande", name: "Lait d'amande", qty: 50, unit: "ml", role: "neutral" },
+        { id: "amandes", name: "Amandes effilées", qty: 10, unit: "g", role: "fat" },
+        { id: "sirop_erable", name: "Sirop d'érable", qty: 10, unit: "g", role: "carb" }
+    ],
+    options: [
+        { label: "Plus protéiné", swaps: [{ from: "lait_amande", to: "blanc_oeuf", toName: "Blancs d'œufs", ratio: 1.5 }] }
+    ],
+    steps: [
+        { title: "Appareil", text: "Écraser la moitié de la banane. Battre les œufs avec le lait d'amande et la banane écrasée." },
+        { title: "Trempage et cuisson", text: "Tremper le pain dans l'appareil. Cuire à la poêle antiadhésive 2-3 minutes par face." },
+        { title: "Service", text: "Garnir de rondelles de banane restante, d'amandes effilées et de sirop d'érable." }
+    ],
+    tips: ["Utiliser du pain de la veille pour un meilleur résultat.", "Ajouter de la cannelle ou de la vanille dans l'appareil."]
+},
+{
+    id: "yaourt-granola-kiwi-erable",
+    name: "Yaourt Granola Kiwi & Érable",
+    subtitle: "Yaourt grec crémeux avec granola croquant et kiwi frais",
+    emoji: "🥝",
+    category: "petit-dej-sucre",
+    difficulty: "Facile",
+    time: "5 min",
+    sliderMin: 50,
+    sliderMax: 200,
+    tags: ["rapide", "sans-cuisson", "vitaminé"],
+    ingredients: [
+        { id: "yaourt_grec", name: "Yaourt grec", qty: 150, unit: "g", role: "protein" },
+        { id: "granola", name: "Granola", qty: 35, unit: "g", role: "carb" },
+        { id: "kiwi", name: "Kiwi", qty: 80, unit: "g", role: "carb" },
+        { id: "graines_lin", name: "Graines de lin", qty: 5, unit: "g", role: "fat" },
+        { id: "sirop_erable", name: "Sirop d'érable", qty: 10, unit: "g", role: "carb" }
+    ],
+    options: [
+        { label: "Plus protéiné", swaps: [{ from: "yaourt_grec", to: "skyr_0", toName: "Skyr 0%", ratio: 1 }] }
+    ],
+    steps: [
+        { title: "Base", text: "Verser le yaourt grec dans un bol." },
+        { title: "Fruits", text: "Éplucher et couper le kiwi en rondelles ou en dés. Disposer sur le yaourt." },
+        { title: "Finition", text: "Ajouter le granola, les graines de lin et un filet de sirop d'érable." }
+    ],
+    tips: ["Le kiwi est riche en vitamine C, parfait pour commencer la journée.", "Ajouter une poignée de myrtilles pour plus de couleur et d'antioxydants."]
+},
+{
+    id: "egg-cups-legumes-fromage",
+    name: "Egg Cups Légumes & Fromage",
+    subtitle: "Petits flans aux œufs garnis de légumes et fromage râpé",
+    emoji: "🧁",
+    category: "petit-dej-sale",
+    difficulty: "Facile",
+    time: "25 min",
+    sliderMin: 50,
+    sliderMax: 200,
+    tags: ["meal-prep", "high-protein", "low-carb"],
+    ingredients: [
+        { id: "oeufs", name: "Œufs", qty: 3, unit: "pièces", role: "protein" },
+        { id: "epinards", name: "Épinards frais", qty: 50, unit: "g", role: "neutral" },
+        { id: "poivron_rouge", name: "Poivron rouge", qty: 40, unit: "g", role: "neutral" },
+        { id: "fromage_rape", name: "Fromage râpé", qty: 20, unit: "g", role: "fat" },
+        { id: "jambon_blanc", name: "Jambon blanc", qty: 40, unit: "g", role: "protein" },
+        { id: "champignon", name: "Champignons", qty: 40, unit: "g", role: "neutral" }
+    ],
+    options: [
+        { label: "Végétarien", swaps: [{ from: "jambon_blanc", to: "tofu", toName: "Tofu émietté", ratio: 1 }] }
+    ],
+    steps: [
+        { title: "Préparation", text: "Préchauffer le four à 180°C. Couper les légumes et le jambon en petits dés." },
+        { title: "Mélange", text: "Battre les œufs dans un bol. Ajouter les légumes coupés, le jambon et la moitié du fromage râpé. Saler et poivrer." },
+        { title: "Cuisson", text: "Répartir dans un moule à muffins. Parsemer du reste de fromage. Cuire 18-20 minutes jusqu'à ce que les egg cups soient bien pris." },
+        { title: "Démoulage", text: "Laisser tiédir 5 minutes avant de démouler délicatement." }
+    ],
+    tips: ["Préparer un lot de 12 pour la semaine. Se réchauffent en 30 secondes au micro-ondes.", "Varier les légumes selon la saison."]
+},
+{
+    id: "burrito-petit-dej-dinde",
+    name: "Burrito Petit-Déj Dinde",
+    subtitle: "Tortilla garnie d'œufs brouillés, dinde et légumes grillés",
+    emoji: "🌯",
+    category: "petit-dej-sale",
+    difficulty: "Moyen",
+    time: "15 min",
+    sliderMin: 50,
+    sliderMax: 200,
+    tags: ["high-protein", "complet"],
+    ingredients: [
+        { id: "tortilla_ble", name: "Tortilla de blé", qty: 1, unit: "pièce", role: "carb" },
+        { id: "oeufs", name: "Œufs", qty: 2, unit: "pièces", role: "protein" },
+        { id: "dinde", name: "Émincé de dinde", qty: 60, unit: "g", role: "protein" },
+        { id: "poivron_rouge", name: "Poivron rouge", qty: 40, unit: "g", role: "neutral" },
+        { id: "epinards", name: "Épinards frais", qty: 30, unit: "g", role: "neutral" },
+        { id: "fromage_rape", name: "Fromage râpé", qty: 15, unit: "g", role: "fat" }
+    ],
+    options: [
+        { label: "Sans gluten", swaps: [{ from: "tortilla_ble", to: "galette_sarrasin", toName: "Galette de sarrasin", ratio: 1 }] }
+    ],
+    steps: [
+        { title: "Garniture", text: "Faire revenir la dinde émincée avec le poivron coupé en lanières 3-4 minutes à feu vif." },
+        { title: "Œufs", text: "Battre les œufs et les verser dans la poêle. Brouiller à feu doux en mélangeant avec les légumes." },
+        { title: "Montage", text: "Chauffer la tortilla 20 secondes au micro-ondes. Garnir d'épinards frais, du mélange œufs-dinde, et parsemer de fromage." },
+        { title: "Roulage", text: "Replier les côtés puis rouler fermement. Couper en deux en diagonale." }
+    ],
+    tips: ["Emballer dans du papier aluminium pour manger en route.", "Se congèle très bien : réchauffer 2 minutes au micro-ondes."]
+},
+{
+    id: "frittata-courgette-feta",
+    name: "Frittata Courgette & Feta",
+    subtitle: "Omelette épaisse au four avec courgette fondante et feta émiettée",
+    emoji: "🥚",
+    category: "petit-dej-sale",
+    difficulty: "Moyen",
+    time: "25 min",
+    sliderMin: 50,
+    sliderMax: 200,
+    tags: ["meal-prep", "méditerranéen", "low-carb"],
+    ingredients: [
+        { id: "oeufs", name: "Œufs", qty: 3, unit: "pièces", role: "protein" },
+        { id: "courgette", name: "Courgette", qty: 100, unit: "g", role: "neutral" },
+        { id: "feta", name: "Feta", qty: 30, unit: "g", role: "fat" },
+        { id: "oignon", name: "Oignon", qty: 30, unit: "g", role: "neutral" },
+        { id: "tomate", name: "Tomate", qty: 60, unit: "g", role: "neutral" },
+        { id: "huile_olive", name: "Huile d'olive", qty: 5, unit: "ml", role: "fat" }
+    ],
+    options: [
+        { label: "Sans feta", swaps: [{ from: "feta", to: "chevre_frais", toName: "Chèvre frais", ratio: 1 }] }
+    ],
+    steps: [
+        { title: "Légumes", text: "Couper la courgette en rondelles fines et l'oignon en lamelles. Les faire revenir 5 minutes dans l'huile d'olive." },
+        { title: "Appareil", text: "Battre les œufs, saler et poivrer. Verser sur les légumes dans la poêle (compatible four). Ajouter les tomates coupées." },
+        { title: "Cuisson", text: "Cuire 2 minutes sur le feu puis émietter la feta par-dessus. Enfourner à 180°C pendant 15 minutes." },
+        { title: "Service", text: "Laisser tiédir 5 minutes. Couper en parts. Se mange chaud ou froid." }
+    ],
+    tips: ["Se coupe très bien en parts pour le meal prep.", "Ajouter des herbes de Provence pour un goût encore plus méditerranéen."]
 }
 
 ];
