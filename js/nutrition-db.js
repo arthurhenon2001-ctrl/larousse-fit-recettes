@@ -1236,17 +1236,17 @@ const NUTRITION_DB = {
     get lentilles() { return this.lentilles_cuites; },
 
     // Ajouts pour nouvelles recettes
-    chorizo: { label: "Chorizo", cal: 455, p: 24, g: 38, gl: 2 },
-    lardons: { label: "Lardons fumés", cal: 330, p: 15, g: 30, gl: 1 },
-    reblochon: { label: "Reblochon", cal: 335, p: 21, g: 28, gl: 0.5 },
-    ail: { label: "Ail", cal: 149, p: 6, g: 0.5, gl: 33 },
-    gingembre: { label: "Gingembre frais", cal: 80, p: 2, g: 0.7, gl: 18 },
-    huile_sesame: { label: "Huile de sésame", cal: 884, p: 0, g: 100, gl: 0 },
-    cacahuetes: { label: "Cacahuètes", cal: 567, p: 26, g: 49, gl: 16 },
-    citron_vert: { label: "Citron vert (jus)", cal: 25, p: 0.4, g: 0.1, gl: 8 },
-    creme_fraiche: { label: "Crème fraîche épaisse 15%", cal: 160, p: 2.5, g: 15, gl: 3.5 },
-    feuilles_lasagne: { label: "Feuilles de lasagne", cal: 355, p: 12, g: 1.5, gl: 72 },
-    farine: { label: "Farine de blé T55", cal: 350, p: 10, g: 1, gl: 73 },
-    levure: { label: "Levure boulangère", cal: 105, p: 8, g: 0.5, gl: 19 },
-    coriandre: { label: "Coriandre fraîche", cal: 23, p: 2, g: 0.5, gl: 4 }
+    chorizo: { label: "Chorizo", cal: 455, protein: 24, fat: 38, carbs: 2, fiber: 0 },
+    lardons: { label: "Lardons fumés", cal: 330, protein: 15, fat: 30, carbs: 1, fiber: 0 },
+    reblochon: { label: "Reblochon", cal: 335, protein: 21, fat: 28, carbs: 0.5, fiber: 0 },
+    ail: { label: "Ail", cal: 149, protein: 6, fat: 0.5, carbs: 33, fiber: 2 },
+    gingembre: { label: "Gingembre frais", cal: 80, protein: 2, fat: 0.7, carbs: 18, fiber: 2 },
+    huile_sesame: { label: "Huile de sésame", cal: 884, protein: 0, fat: 100, carbs: 0, fiber: 0 },
+    cacahuetes: { label: "Cacahuètes", cal: 567, protein: 26, fat: 49, carbs: 16, fiber: 8 },
+    citron_vert: { label: "Citron vert (jus)", cal: 25, protein: 0.4, fat: 0.1, carbs: 8, fiber: 0.3 },
+    creme_fraiche: { label: "Crème fraîche épaisse 15%", cal: 160, protein: 2.5, fat: 15, carbs: 3.5, fiber: 0 },
+    feuilles_lasagne: { label: "Feuilles de lasagne", cal: 355, protein: 12, fat: 1.5, carbs: 72, fiber: 3 },
+    farine: { label: "Farine de blé T55", cal: 350, protein: 10, fat: 1, carbs: 73, fiber: 3 },
+    levure: { label: "Levure boulangère", cal: 105, protein: 8, fat: 0.5, carbs: 19, fiber: 0 },
+    coriandre: { label: "Coriandre fraîche", cal: 23, protein: 2, fat: 0.5, carbs: 4, fiber: 3 }
 };
