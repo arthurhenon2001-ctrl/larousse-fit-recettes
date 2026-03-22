@@ -4905,7 +4905,8 @@ const RECIPES_DATA = [
                 "baseQty": 60,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "lait",
@@ -4913,7 +4914,8 @@ const RECIPES_DATA = [
                 "emoji": "🥛",
                 "baseQty": 200,
                 "unit": "ml",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             },
             {
                 "id": "banane",
@@ -4991,7 +4993,8 @@ const RECIPES_DATA = [
                 "baseQty": 250,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "mangue",
@@ -5010,7 +5013,8 @@ const RECIPES_DATA = [
                 "baseQty": 25,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -5064,7 +5068,8 @@ const RECIPES_DATA = [
                 "baseQty": 4,
                 "unit": "unité(s)",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "flocons_avoine",
@@ -5163,7 +5168,8 @@ const RECIPES_DATA = [
                 "emoji": "🥬",
                 "baseQty": 60,
                 "unit": "g",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             },
             {
                 "id": "lait_amande",
@@ -5171,7 +5177,8 @@ const RECIPES_DATA = [
                 "emoji": "🥛",
                 "baseQty": 200,
                 "unit": "ml",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             },
             {
                 "id": "kiwi",
@@ -5235,7 +5242,8 @@ const RECIPES_DATA = [
                 "baseQty": 50,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "lait",
@@ -5243,7 +5251,8 @@ const RECIPES_DATA = [
                 "emoji": "🥛",
                 "baseQty": 200,
                 "unit": "ml",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             },
             {
                 "id": "cacao",
@@ -5261,7 +5270,8 @@ const RECIPES_DATA = [
                 "baseQty": 150,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -5316,7 +5326,8 @@ const RECIPES_DATA = [
                 "baseQty": 30,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "lait_coco",
@@ -5324,7 +5335,8 @@ const RECIPES_DATA = [
                 "emoji": "🥥",
                 "baseQty": 200,
                 "unit": "ml",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             },
             {
                 "id": "mangue",
@@ -5343,7 +5355,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -5407,7 +5420,8 @@ const RECIPES_DATA = [
                 "baseQty": 2,
                 "unit": "unité(s)",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "banane",
@@ -5425,7 +5439,8 @@ const RECIPES_DATA = [
                 "emoji": "🥛",
                 "baseQty": 100,
                 "unit": "ml",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             }
         ],
         "options": [],
@@ -5502,7 +5517,8 @@ const RECIPES_DATA = [
                 "emoji": "🥛",
                 "baseQty": 100,
                 "unit": "ml",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             },
             {
                 "id": "granola",
@@ -5511,7 +5527,8 @@ const RECIPES_DATA = [
                 "baseQty": 20,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -5568,7 +5585,8 @@ const RECIPES_DATA = [
                 "baseQty": 2,
                 "unit": "unité(s)",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "champignon",
@@ -5585,7 +5603,8 @@ const RECIPES_DATA = [
                 "emoji": "🥬",
                 "baseQty": 80,
                 "unit": "g",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             }
         ],
         "options": [],
@@ -5653,7 +5672,8 @@ const RECIPES_DATA = [
                 "baseQty": 60,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "fromage_blanc_0",
@@ -5662,7 +5682,8 @@ const RECIPES_DATA = [
                 "baseQty": 30,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "concombre",
@@ -5726,7 +5747,8 @@ const RECIPES_DATA = [
                 "baseQty": 4,
                 "unit": "unité(s)",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "courgette",
@@ -5762,7 +5784,8 @@ const RECIPES_DATA = [
                 "baseQty": 20,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -5820,7 +5843,8 @@ const RECIPES_DATA = [
                 "baseQty": 3,
                 "unit": "unité(s)",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "epinards",
@@ -5935,7 +5959,8 @@ const RECIPES_DATA = [
                 "emoji": "🍋",
                 "baseQty": 5,
                 "unit": "ml",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             }
         ],
         "options": [],
@@ -5997,7 +6022,8 @@ const RECIPES_DATA = [
                 "emoji": "🥬",
                 "baseQty": 60,
                 "unit": "g",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             },
             {
                 "id": "champignon",
@@ -6073,7 +6099,8 @@ const RECIPES_DATA = [
                 "baseQty": 1,
                 "unit": "unité(s)",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "saumon",
@@ -6082,7 +6109,8 @@ const RECIPES_DATA = [
                 "baseQty": 80,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "epinards",
@@ -6090,7 +6118,8 @@ const RECIPES_DATA = [
                 "emoji": "🥬",
                 "baseQty": 40,
                 "unit": "g",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             },
             {
                 "id": "fromage_blanc_0",
@@ -6099,7 +6128,8 @@ const RECIPES_DATA = [
                 "baseQty": 30,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -6167,7 +6197,8 @@ const RECIPES_DATA = [
                 "baseQty": 60,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "miel",
@@ -6176,7 +6207,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "noix",
@@ -6401,7 +6433,8 @@ const RECIPES_DATA = [
                 "emoji": "🧴",
                 "baseQty": 10,
                 "unit": "g",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             },
             {
                 "id": "sauce_soja",
@@ -6409,7 +6442,8 @@ const RECIPES_DATA = [
                 "emoji": "🥫",
                 "baseQty": 10,
                 "unit": "g",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             }
         ],
         "options": [],
@@ -6832,7 +6866,8 @@ const RECIPES_DATA = [
                 "emoji": "🥫",
                 "baseQty": 10,
                 "unit": "g",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             },
             {
                 "id": "edamame",
@@ -6907,7 +6942,8 @@ const RECIPES_DATA = [
                 "baseQty": 1,
                 "unit": "unité(s)",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "tomate",
@@ -7166,7 +7202,8 @@ const RECIPES_DATA = [
                 "emoji": "🍶",
                 "baseQty": 10,
                 "unit": "g",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             }
         ],
         "options": [],
@@ -7260,7 +7297,8 @@ const RECIPES_DATA = [
                 "emoji": "🥫",
                 "baseQty": 15,
                 "unit": "g",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -7269,7 +7307,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -7427,7 +7466,8 @@ const RECIPES_DATA = [
                 "emoji": "🥥",
                 "baseQty": 100,
                 "unit": "ml",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             },
             {
                 "id": "riz_basmati_cuit",
@@ -7437,7 +7477,8 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "carb",
                 "rawRatio": 2.25,
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "poivron_rouge",
@@ -7561,7 +7602,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -7728,7 +7770,8 @@ const RECIPES_DATA = [
                 "baseQty": 30,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "pain_complet",
@@ -7828,7 +7871,8 @@ const RECIPES_DATA = [
                 "baseQty": 30,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "moutarde",
@@ -7933,7 +7977,8 @@ const RECIPES_DATA = [
                 "emoji": "🥥",
                 "baseQty": 80,
                 "unit": "ml",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             },
             {
                 "id": "pate_curry",
@@ -8041,7 +8086,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -8151,7 +8197,8 @@ const RECIPES_DATA = [
                 "emoji": "🍅",
                 "baseQty": 15,
                 "unit": "g",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             }
         ],
         "options": [],
@@ -8223,7 +8270,8 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "carb",
                 "rawRatio": 2.25,
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "poivron_rouge",
@@ -8259,7 +8307,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -8317,7 +8366,8 @@ const RECIPES_DATA = [
                 "baseQty": 80,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "beurre_cacahuete",
@@ -8326,7 +8376,8 @@ const RECIPES_DATA = [
                 "baseQty": 30,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "miel",
@@ -8335,7 +8386,8 @@ const RECIPES_DATA = [
                 "baseQty": 20,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "chocolat_noir_70",
@@ -8423,7 +8475,8 @@ const RECIPES_DATA = [
                 "baseQty": 1,
                 "unit": "unité(s)",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "noix",
@@ -8442,7 +8495,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -8497,7 +8551,8 @@ const RECIPES_DATA = [
                 "baseQty": 60,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "noix_de_coco_rapee",
@@ -8506,7 +8561,8 @@ const RECIPES_DATA = [
                 "baseQty": 20,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "beurre_cacahuete",
@@ -8515,7 +8571,8 @@ const RECIPES_DATA = [
                 "baseQty": 20,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "miel",
@@ -8524,7 +8581,8 @@ const RECIPES_DATA = [
                 "baseQty": 15,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -8597,7 +8655,8 @@ const RECIPES_DATA = [
                 "emoji": "🥬",
                 "baseQty": 30,
                 "unit": "g",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             },
             {
                 "id": "tomate",
@@ -8615,7 +8674,8 @@ const RECIPES_DATA = [
                 "baseQty": 20,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -8679,7 +8739,8 @@ const RECIPES_DATA = [
                 "baseQty": 2,
                 "unit": "unité(s)",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "whey",
@@ -8707,7 +8768,8 @@ const RECIPES_DATA = [
                 "baseQty": 60,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -8776,7 +8838,8 @@ const RECIPES_DATA = [
                 "baseQty": 15,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "chocolat_noir_70",
@@ -8795,7 +8858,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -8845,7 +8909,8 @@ const RECIPES_DATA = [
                 "baseQty": 3,
                 "unit": "unité(s)",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "courgette",
@@ -8872,7 +8937,8 @@ const RECIPES_DATA = [
                 "baseQty": 20,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "lait",
@@ -8880,7 +8946,8 @@ const RECIPES_DATA = [
                 "emoji": "🥛",
                 "baseQty": 50,
                 "unit": "ml",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             }
         ],
         "options": [],
@@ -8957,7 +9024,8 @@ const RECIPES_DATA = [
                 "baseQty": 80,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "lait_amande",
@@ -9027,7 +9095,8 @@ const RECIPES_DATA = [
                 "baseQty": 15,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "banane",
@@ -9088,7 +9157,8 @@ const RECIPES_DATA = [
                 "baseQty": 200,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "miel",
@@ -9097,7 +9167,8 @@ const RECIPES_DATA = [
                 "baseQty": 15,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "amandes",
@@ -9157,7 +9228,8 @@ const RECIPES_DATA = [
                 "baseQty": 1,
                 "unit": "unité(s)",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "banane",
@@ -9176,7 +9248,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -9279,7 +9352,8 @@ const RECIPES_DATA = [
                 "baseQty": 200,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "ananas",
@@ -9298,7 +9372,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -9376,7 +9451,8 @@ const RECIPES_DATA = [
                 "emoji": "🍋",
                 "baseQty": 5,
                 "unit": "ml",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             }
         ],
         "options": [],
@@ -9445,7 +9521,8 @@ const RECIPES_DATA = [
                 "emoji": "🥛",
                 "baseQty": 120,
                 "unit": "ml",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             },
             {
                 "id": "ricotta",
@@ -9566,7 +9643,8 @@ const RECIPES_DATA = [
                 "emoji": "🥛",
                 "baseQty": 80,
                 "unit": "ml",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             },
             {
                 "id": "banane",
@@ -9789,7 +9867,8 @@ const RECIPES_DATA = [
                 "emoji": "🥛",
                 "baseQty": 200,
                 "unit": "ml",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             },
             {
                 "id": "beurre_cacahuete",
@@ -9892,7 +9971,8 @@ const RECIPES_DATA = [
                 "baseQty": 30,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "lait_coco",
@@ -10146,7 +10226,8 @@ const RECIPES_DATA = [
                 "emoji": "🥛",
                 "baseQty": 80,
                 "unit": "ml",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             },
             {
                 "id": "pomme",
@@ -10588,7 +10669,8 @@ const RECIPES_DATA = [
                 "emoji": "🥛",
                 "baseQty": 60,
                 "unit": "ml",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             },
             {
                 "id": "cacao",
@@ -10729,7 +10811,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "noix_coco_rapee",
@@ -10933,7 +11016,8 @@ const RECIPES_DATA = [
                 "emoji": "🥛",
                 "baseQty": 200,
                 "unit": "ml",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             },
             {
                 "id": "whey",
@@ -13950,7 +14034,8 @@ const RECIPES_DATA = [
                 "emoji": "🍅",
                 "baseQty": 15,
                 "unit": "g",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             },
             {
                 "id": "harissa",
@@ -14947,7 +15032,8 @@ const RECIPES_DATA = [
                 "emoji": "🍅",
                 "baseQty": 10,
                 "unit": "g",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             },
             {
                 "id": "citron_jus",
@@ -15076,7 +15162,8 @@ const RECIPES_DATA = [
                 "emoji": "🍅",
                 "baseQty": 15,
                 "unit": "g",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             }
         ],
         "options": [],
@@ -15296,7 +15383,8 @@ const RECIPES_DATA = [
                 "emoji": "🍅",
                 "baseQty": 15,
                 "unit": "g",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             },
             {
                 "id": "couscous_cuit",
@@ -16221,7 +16309,8 @@ const RECIPES_DATA = [
                 "emoji": "🌶️",
                 "baseQty": 15,
                 "unit": "g",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             },
             {
                 "id": "brocoli",
@@ -17903,7 +17992,8 @@ const RECIPES_DATA = [
                 "emoji": "🍅",
                 "baseQty": 15,
                 "unit": "g",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             },
             {
                 "id": "riz_basmati_cuit",
@@ -18585,7 +18675,8 @@ const RECIPES_DATA = [
                 "baseQty": 25,
                 "unit": "g",
                 "role": "liant",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "whey_protein",
@@ -18604,7 +18695,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "g",
                 "role": "sucrant",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "noix_coco_rapee",
@@ -18613,7 +18705,8 @@ const RECIPES_DATA = [
                 "baseQty": 15,
                 "unit": "g",
                 "role": "enrobage",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "lait_amande",
@@ -18721,7 +18814,8 @@ const RECIPES_DATA = [
                 "baseQty": 60,
                 "unit": "g",
                 "role": "moelleux",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "myrtilles",
@@ -18740,7 +18834,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "g",
                 "role": "sucrant",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "citron_jus",
@@ -18826,7 +18921,8 @@ const RECIPES_DATA = [
                 "emoji": "🌾",
                 "baseQty": 50,
                 "unit": "g",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             },
             {
                 "id": "beurre_cacahuete",
@@ -18835,7 +18931,8 @@ const RECIPES_DATA = [
                 "baseQty": 20,
                 "unit": "g",
                 "role": "liant",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "whey_protein",
@@ -18998,7 +19095,8 @@ const RECIPES_DATA = [
                 "baseQty": 15,
                 "unit": "g",
                 "role": "verdure",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -19107,7 +19205,8 @@ const RECIPES_DATA = [
                 "baseQty": 50,
                 "unit": "g",
                 "role": "moelleux",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "noix",
@@ -19234,7 +19333,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "ml",
                 "role": "assaisonnement",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "concombre",
@@ -19327,7 +19427,8 @@ const RECIPES_DATA = [
                 "emoji": "🌾",
                 "baseQty": 50,
                 "unit": "g",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             },
             {
                 "id": "amandes",
@@ -19356,7 +19457,8 @@ const RECIPES_DATA = [
                 "baseQty": 15,
                 "unit": "g",
                 "role": "liant",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "beurre_cacahuete",
@@ -19365,7 +19467,8 @@ const RECIPES_DATA = [
                 "baseQty": 15,
                 "unit": "g",
                 "role": "liant",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "chocolat_noir_70",
@@ -19384,7 +19487,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "g",
                 "role": "nutrition",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -19481,7 +19585,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "g",
                 "role": "liant",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "citron_jus",
@@ -19500,7 +19605,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "g",
                 "role": "onctuosité",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -19587,7 +19693,8 @@ const RECIPES_DATA = [
                 "emoji": "🌰",
                 "baseQty": 25,
                 "unit": "g",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             },
             {
                 "id": "amandes",
@@ -19595,7 +19702,8 @@ const RECIPES_DATA = [
                 "emoji": "🌰",
                 "baseQty": 20,
                 "unit": "g",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             },
             {
                 "id": "cacao_poudre",
@@ -19614,7 +19722,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "g",
                 "role": "texture",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "sirop_erable",
@@ -19623,7 +19732,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "ml",
                 "role": "liant",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "graines_chia",
@@ -19632,7 +19742,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "g",
                 "role": "nutrition",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -19731,7 +19842,8 @@ const RECIPES_DATA = [
                 "baseQty": 40,
                 "unit": "g",
                 "role": "moelleux",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "epinards",
@@ -19828,7 +19940,8 @@ const RECIPES_DATA = [
                 "emoji": "🥛",
                 "baseQty": 120,
                 "unit": "g",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             },
             {
                 "id": "lait_demi",
@@ -19837,7 +19950,8 @@ const RECIPES_DATA = [
                 "baseQty": 50,
                 "unit": "ml",
                 "role": "texture",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "fruits_rouges",
@@ -19856,7 +19970,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "g",
                 "role": "sucrant",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "whey_protein",
@@ -19965,7 +20080,8 @@ const RECIPES_DATA = [
                 "baseQty": 20,
                 "unit": "g",
                 "role": "topping",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "myrtilles",
@@ -19984,7 +20100,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "g",
                 "role": "topping",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "graines_chia",
@@ -19993,7 +20110,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "g",
                 "role": "topping",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -20093,7 +20211,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "ml",
                 "role": "sucrant",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "banane",
@@ -20185,7 +20304,8 @@ const RECIPES_DATA = [
                 "baseQty": 120,
                 "unit": "ml",
                 "role": "liquide",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "whey_protein",
@@ -20304,7 +20424,8 @@ const RECIPES_DATA = [
                 "baseQty": 200,
                 "unit": "ml",
                 "role": "liquide",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "whey_protein",
@@ -20323,7 +20444,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "g",
                 "role": "sucrant",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "citron_jus",
@@ -20411,7 +20533,8 @@ const RECIPES_DATA = [
                 "baseQty": 30,
                 "unit": "g",
                 "role": "crumble",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "beurre_cacahuete",
@@ -20430,7 +20553,8 @@ const RECIPES_DATA = [
                 "baseQty": 8,
                 "unit": "g",
                 "role": "sucrant",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "amandes",
@@ -20652,7 +20776,8 @@ const RECIPES_DATA = [
                 "baseQty": 60,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "tomate",
@@ -20779,7 +20904,8 @@ const RECIPES_DATA = [
                 "baseQty": 20,
                 "unit": "g",
                 "role": "croquant",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "noix_coco_rapee",
@@ -20788,7 +20914,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "g",
                 "role": "topping",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "miel",
@@ -20797,7 +20924,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "g",
                 "role": "sucrant",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -21155,7 +21283,8 @@ const RECIPES_DATA = [
                 "baseQty": 30,
                 "unit": "ml",
                 "role": "onctuosité",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "tomate",
@@ -21183,7 +21312,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "ml",
                 "role": "cuisson",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -21308,7 +21438,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "ml",
                 "role": "cuisson",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -24067,7 +24198,8 @@ const RECIPES_DATA = [
                 "baseQty": 15,
                 "unit": "g",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -24076,7 +24208,8 @@ const RECIPES_DATA = [
                 "baseQty": 8,
                 "unit": "ml",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -24198,7 +24331,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "ml",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -24339,7 +24473,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "ml",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -24348,7 +24483,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "ml",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -24430,7 +24566,8 @@ const RECIPES_DATA = [
                 "baseQty": 30,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "lait_demi",
@@ -24448,7 +24585,8 @@ const RECIPES_DATA = [
                 "baseQty": 20,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "moutarde",
@@ -24551,7 +24689,8 @@ const RECIPES_DATA = [
                 "baseQty": 100,
                 "unit": "ml",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "pate_curry",
@@ -24560,7 +24699,8 @@ const RECIPES_DATA = [
                 "baseQty": 15,
                 "unit": "g",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "poivron_rouge",
@@ -24598,7 +24738,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "ml",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -24607,7 +24748,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "ml",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -24749,7 +24891,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "ml",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -24853,7 +24996,8 @@ const RECIPES_DATA = [
                 "baseQty": 20,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "oignon",
@@ -24871,7 +25015,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "ml",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "salade_verte",
@@ -24992,7 +25137,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "g",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -25001,7 +25147,8 @@ const RECIPES_DATA = [
                 "baseQty": 8,
                 "unit": "ml",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "citron_jus",
@@ -25010,7 +25157,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "ml",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -25114,7 +25262,8 @@ const RECIPES_DATA = [
                 "baseQty": 50,
                 "unit": "ml",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "pate_curry",
@@ -25133,7 +25282,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "ml",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -25225,7 +25375,8 @@ const RECIPES_DATA = [
                 "emoji": "🥛",
                 "baseQty": 30,
                 "unit": "g",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             },
             {
                 "id": "moutarde",
@@ -25244,7 +25395,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "ml",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -25338,7 +25490,8 @@ const RECIPES_DATA = [
                 "baseQty": 15,
                 "unit": "ml",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "carotte",
@@ -25377,7 +25530,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "ml",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -25386,7 +25540,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "ml",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -25479,7 +25634,8 @@ const RECIPES_DATA = [
                 "baseQty": 15,
                 "unit": "ml",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "miel",
@@ -25498,7 +25654,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "ml",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -25507,7 +25664,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "ml",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "graines_chia",
@@ -25638,7 +25796,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "g",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -25647,7 +25806,8 @@ const RECIPES_DATA = [
                 "baseQty": 8,
                 "unit": "ml",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -25781,7 +25941,8 @@ const RECIPES_DATA = [
                 "baseQty": 15,
                 "unit": "ml",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "sauce_sriracha",
@@ -25904,7 +26065,8 @@ const RECIPES_DATA = [
                 "baseQty": 8,
                 "unit": "ml",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "oignon",
@@ -26027,7 +26189,8 @@ const RECIPES_DATA = [
                 "baseQty": 15,
                 "unit": "ml",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "sauce_sriracha",
@@ -26046,7 +26209,8 @@ const RECIPES_DATA = [
                 "baseQty": 8,
                 "unit": "ml",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "oignon",
@@ -26150,7 +26314,8 @@ const RECIPES_DATA = [
                 "baseQty": 20,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "oignon",
@@ -26168,7 +26333,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "ml",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "vinaigre_balsamique",
@@ -26291,7 +26457,8 @@ const RECIPES_DATA = [
                 "baseQty": 15,
                 "unit": "ml",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "miel",
@@ -26310,7 +26477,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "ml",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -26319,7 +26487,8 @@ const RECIPES_DATA = [
                 "baseQty": 8,
                 "unit": "ml",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -26452,7 +26621,8 @@ const RECIPES_DATA = [
                 "baseQty": 15,
                 "unit": "ml",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "salade_verte",
@@ -26584,7 +26754,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "ml",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "pesto",
@@ -28398,7 +28569,8 @@ const RECIPES_DATA = [
                 "baseQty": 30,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "citron_jus",
@@ -28776,7 +28948,8 @@ const RECIPES_DATA = [
                 "baseQty": 80,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "citron_jus",
@@ -28901,7 +29074,8 @@ const RECIPES_DATA = [
                 "baseQty": 25,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "citron_jus",
@@ -29054,7 +29228,8 @@ const RECIPES_DATA = [
                 "baseQty": 15,
                 "unit": "ml",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "miel",
@@ -29063,7 +29238,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "g",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "citron_jus",
@@ -29072,7 +29248,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "ml",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -29081,7 +29258,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "ml",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -29175,7 +29353,8 @@ const RECIPES_DATA = [
                 "baseQty": 60,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "citron_jus",
@@ -29184,7 +29363,8 @@ const RECIPES_DATA = [
                 "baseQty": 15,
                 "unit": "ml",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -29193,7 +29373,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "ml",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "graines_chia",
@@ -29269,7 +29450,8 @@ const RECIPES_DATA = [
                 "baseQty": 200,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "concombre",
@@ -29308,7 +29490,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "ml",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -29317,7 +29500,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "ml",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "galette_riz",
@@ -29326,7 +29510,8 @@ const RECIPES_DATA = [
                 "baseQty": 30,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -29401,7 +29586,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "ml",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "edamame",
@@ -29430,7 +29616,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "ml",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -29533,7 +29720,8 @@ const RECIPES_DATA = [
                 "baseQty": 20,
                 "unit": "ml",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "sauce_soja",
@@ -29542,7 +29730,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "ml",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -29624,7 +29813,8 @@ const RECIPES_DATA = [
                 "baseQty": 60,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "oeuf",
@@ -29633,7 +29823,8 @@ const RECIPES_DATA = [
                 "baseQty": 50,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "lait_demi",
@@ -29641,7 +29832,8 @@ const RECIPES_DATA = [
                 "emoji": "🥛",
                 "baseQty": 80,
                 "unit": "ml",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             },
             {
                 "id": "saumon",
@@ -29660,7 +29852,8 @@ const RECIPES_DATA = [
                 "baseQty": 60,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "citron_jus",
@@ -29669,7 +29862,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "ml",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "concombre",
@@ -29754,7 +29948,8 @@ const RECIPES_DATA = [
                 "baseQty": 15,
                 "unit": "ml",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "citron_jus",
@@ -29763,7 +29958,8 @@ const RECIPES_DATA = [
                 "baseQty": 20,
                 "unit": "ml",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "oignon",
@@ -29868,7 +30064,8 @@ const RECIPES_DATA = [
                 "baseQty": 200,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "concombre",
@@ -29887,7 +30084,8 @@ const RECIPES_DATA = [
                 "baseQty": 15,
                 "unit": "ml",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -30019,7 +30217,8 @@ const RECIPES_DATA = [
                 "baseQty": 40,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "tomate",
@@ -30068,7 +30267,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "ml",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "yaourt_grec",
@@ -30143,7 +30343,8 @@ const RECIPES_DATA = [
                 "baseQty": 150,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "chevre_frais",
@@ -30191,7 +30392,8 @@ const RECIPES_DATA = [
                 "emoji": "🥛",
                 "baseQty": 50,
                 "unit": "ml",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -30263,7 +30465,8 @@ const RECIPES_DATA = [
                 "baseQty": 150,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "farine_complete",
@@ -30312,7 +30515,8 @@ const RECIPES_DATA = [
                 "baseQty": 15,
                 "unit": "g",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -30321,7 +30525,8 @@ const RECIPES_DATA = [
                 "baseQty": 15,
                 "unit": "ml",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -30433,7 +30638,8 @@ const RECIPES_DATA = [
                 "baseQty": 15,
                 "unit": "ml",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -30557,7 +30763,8 @@ const RECIPES_DATA = [
                 "baseQty": 80,
                 "unit": "g",
                 "role": "vegetable",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "sauce_tahini",
@@ -30576,7 +30783,8 @@ const RECIPES_DATA = [
                 "baseQty": 15,
                 "unit": "ml",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "pain_pita",
@@ -30595,7 +30803,8 @@ const RECIPES_DATA = [
                 "baseQty": 15,
                 "unit": "ml",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -30707,7 +30916,8 @@ const RECIPES_DATA = [
                 "baseQty": 15,
                 "unit": "ml",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -30716,7 +30926,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "ml",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "concombre",
@@ -30821,7 +31032,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "ml",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "pain_complet",
@@ -30917,7 +31129,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "ml",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "sauce_soja",
@@ -30926,7 +31139,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "ml",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "sauce_sriracha",
@@ -30935,7 +31149,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "ml",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "citron_jus",
@@ -30944,7 +31159,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "ml",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "graines_chia",
@@ -31044,7 +31260,8 @@ const RECIPES_DATA = [
                 "baseQty": 60,
                 "unit": "g",
                 "role": "vegetable",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "concombre",
@@ -31063,7 +31280,8 @@ const RECIPES_DATA = [
                 "baseQty": 20,
                 "unit": "ml",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "sauce_nuoc_mam",
@@ -31072,7 +31290,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "ml",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -31081,7 +31300,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "ml",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -31185,7 +31405,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "ml",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "oignon",
@@ -31204,7 +31425,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "ml",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -31270,7 +31492,8 @@ const RECIPES_DATA = [
                 "baseQty": 150,
                 "unit": "g",
                 "role": "vegetable",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "feta",
@@ -31289,7 +31512,8 @@ const RECIPES_DATA = [
                 "baseQty": 40,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "noix",
@@ -31308,7 +31532,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "ml",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -31317,7 +31542,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "ml",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "carotte",
@@ -31431,7 +31657,8 @@ const RECIPES_DATA = [
                 "baseQty": 20,
                 "unit": "ml",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "oignon",
@@ -31450,7 +31677,8 @@ const RECIPES_DATA = [
                 "baseQty": 20,
                 "unit": "ml",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "tomate",
@@ -31459,7 +31687,8 @@ const RECIPES_DATA = [
                 "baseQty": 60,
                 "unit": "g",
                 "role": "vegetable",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "pain_complet",
@@ -31605,7 +31834,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "ml",
                 "role": "Cuisson",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -31879,7 +32109,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "g",
                 "role": "Assaisonnement",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -32132,7 +32363,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "g",
                 "role": "Assaisonnement",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "concentre_tomate",
@@ -32141,7 +32373,8 @@ const RECIPES_DATA = [
                 "baseQty": 15,
                 "unit": "g",
                 "role": "Sauce",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -32150,7 +32383,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "ml",
                 "role": "Cuisson",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -32393,7 +32627,8 @@ const RECIPES_DATA = [
                 "baseQty": 20,
                 "unit": "g",
                 "role": "Sauce",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -32402,7 +32637,8 @@ const RECIPES_DATA = [
                 "baseQty": 8,
                 "unit": "ml",
                 "role": "Cuisson",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "oeuf",
@@ -32536,7 +32772,8 @@ const RECIPES_DATA = [
                 "baseQty": 15,
                 "unit": "ml",
                 "role": "Assaisonnement",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "beurre_cacahuete",
@@ -32673,7 +32910,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "ml",
                 "role": "Assaisonnement",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "sauce_sriracha",
@@ -32788,7 +33026,8 @@ const RECIPES_DATA = [
                 "baseQty": 15,
                 "unit": "ml",
                 "role": "Assaisonnement",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "oignon",
@@ -32807,7 +33046,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "ml",
                 "role": "Cuisson",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -32934,7 +33174,8 @@ const RECIPES_DATA = [
                 "baseQty": 8,
                 "unit": "g",
                 "role": "Assaisonnement",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -32943,7 +33184,8 @@ const RECIPES_DATA = [
                 "baseQty": 8,
                 "unit": "ml",
                 "role": "Assaisonnement",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -33058,7 +33300,8 @@ const RECIPES_DATA = [
                 "baseQty": 20,
                 "unit": "ml",
                 "role": "Assaisonnement",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "sirop_erable",
@@ -33067,7 +33310,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "ml",
                 "role": "Assaisonnement",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -33076,7 +33320,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "ml",
                 "role": "Cuisson",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -33200,7 +33445,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "ml",
                 "role": "Cuisson",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -33326,7 +33572,8 @@ const RECIPES_DATA = [
                 "baseQty": 15,
                 "unit": "ml",
                 "role": "Assaisonnement",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -33452,7 +33699,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "ml",
                 "role": "Cuisson",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -33549,7 +33797,8 @@ const RECIPES_DATA = [
                 "baseQty": 15,
                 "unit": "g",
                 "role": "Assaisonnement",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "courgette",
@@ -33588,7 +33837,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "ml",
                 "role": "Cuisson",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -33693,7 +33943,8 @@ const RECIPES_DATA = [
                 "baseQty": 60,
                 "unit": "ml",
                 "role": "Appareil",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "fromage_rape",
@@ -33702,7 +33953,8 @@ const RECIPES_DATA = [
                 "baseQty": 20,
                 "unit": "g",
                 "role": "Topping",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -33711,7 +33963,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "ml",
                 "role": "Cuisson",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -33828,7 +34081,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "g",
                 "role": "Sauce",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -33837,7 +34091,8 @@ const RECIPES_DATA = [
                 "baseQty": 8,
                 "unit": "ml",
                 "role": "Cuisson",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -33922,7 +34177,8 @@ const RECIPES_DATA = [
                 "baseQty": 25,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "lait_demi",
@@ -33941,7 +34197,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "g",
                 "role": "Assaisonnement",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "salade_verte",
@@ -34089,7 +34346,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "ml",
                 "role": "Assaisonnement",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -34098,7 +34356,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "ml",
                 "role": "Cuisson",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -34179,7 +34438,8 @@ const RECIPES_DATA = [
                 "emoji": "🥛",
                 "baseQty": 30,
                 "unit": "ml",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             },
             {
                 "id": "fromage_blanc_0",
@@ -34337,7 +34597,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "ml",
                 "role": "Topping",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "amandes",
@@ -34438,7 +34699,8 @@ const RECIPES_DATA = [
                 "emoji": "🥛",
                 "baseQty": 100,
                 "unit": "ml",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             },
             {
                 "id": "orange",
@@ -34687,7 +34949,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "g",
                 "role": "Croquant",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "chocolat_noir_70",
@@ -34726,7 +34989,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "g",
                 "role": "Nutrition",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -34849,7 +35113,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "g",
                 "role": "Topping",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -34962,7 +35227,8 @@ const RECIPES_DATA = [
                 "baseQty": 12,
                 "unit": "ml",
                 "role": "Sucrant",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -35056,7 +35322,8 @@ const RECIPES_DATA = [
                 "baseQty": 60,
                 "unit": "ml",
                 "role": "Appareil",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "beurre_cacahuete",
@@ -35105,7 +35372,8 @@ const RECIPES_DATA = [
                 "baseQty": 8,
                 "unit": "ml",
                 "role": "Topping",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -35186,7 +35454,8 @@ const RECIPES_DATA = [
                 "emoji": "🥛",
                 "baseQty": 30,
                 "unit": "ml",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             },
             {
                 "id": "fromage_blanc_0",
@@ -35225,7 +35494,8 @@ const RECIPES_DATA = [
                 "baseQty": 8,
                 "unit": "ml",
                 "role": "Sucrant",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -35349,7 +35619,8 @@ const RECIPES_DATA = [
                 "baseQty": 8,
                 "unit": "ml",
                 "role": "Sucrant",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -35712,7 +35983,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "ml",
                 "role": "Cuisson",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "vinaigre_balsamique",
@@ -35972,7 +36244,8 @@ const RECIPES_DATA = [
                 "baseQty": 8,
                 "unit": "ml",
                 "role": "Assaisonnement",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -35981,7 +36254,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "ml",
                 "role": "Cuisson",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -36115,7 +36389,8 @@ const RECIPES_DATA = [
                 "baseQty": 8,
                 "unit": "ml",
                 "role": "Cuisson",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -36500,7 +36775,8 @@ const RECIPES_DATA = [
                 "baseQty": 8,
                 "unit": "ml",
                 "role": "Cuisson",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "vinaigre_balsamique",
@@ -36740,7 +37016,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "ml",
                 "role": "Assaisonnement",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "graines_chia",
@@ -36999,7 +37276,8 @@ const RECIPES_DATA = [
                 "baseQty": 8,
                 "unit": "ml",
                 "role": "Assaisonnement",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -46958,7 +47236,8 @@ const RECIPES_DATA = [
                 "baseQty": 15,
                 "unit": "g",
                 "role": "sauce",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "oignon",
@@ -53389,7 +53668,8 @@ const RECIPES_DATA = [
                 "baseQty": 50,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "lait",
@@ -53397,7 +53677,8 @@ const RECIPES_DATA = [
                 "emoji": "🥛",
                 "baseQty": 200,
                 "unit": "ml",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             },
             {
                 "id": "banane",
@@ -53406,7 +53687,8 @@ const RECIPES_DATA = [
                 "baseQty": 100,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "cacao_poudre",
@@ -53415,7 +53697,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "g",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "whey_protein",
@@ -53424,7 +53707,8 @@ const RECIPES_DATA = [
                 "baseQty": 25,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "miel",
@@ -53433,7 +53717,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "g",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -53487,7 +53772,8 @@ const RECIPES_DATA = [
                 "baseQty": 80,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "oeufs",
@@ -53496,7 +53782,8 @@ const RECIPES_DATA = [
                 "baseQty": 2,
                 "unit": "pièce(s)",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "lait",
@@ -53504,7 +53791,8 @@ const RECIPES_DATA = [
                 "emoji": "🥛",
                 "baseQty": 80,
                 "unit": "ml",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             },
             {
                 "id": "whey_protein",
@@ -53513,7 +53801,8 @@ const RECIPES_DATA = [
                 "baseQty": 20,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "fraises",
@@ -53522,7 +53811,8 @@ const RECIPES_DATA = [
                 "baseQty": 80,
                 "unit": "g",
                 "role": "vegetable",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "sirop_erable",
@@ -53531,7 +53821,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "ml",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -53589,7 +53880,8 @@ const RECIPES_DATA = [
                 "baseQty": 60,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "banane",
@@ -53598,7 +53890,8 @@ const RECIPES_DATA = [
                 "baseQty": 100,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "oeufs",
@@ -53607,7 +53900,8 @@ const RECIPES_DATA = [
                 "baseQty": 2,
                 "unit": "pièce(s)",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "whey_protein",
@@ -53616,7 +53910,8 @@ const RECIPES_DATA = [
                 "baseQty": 25,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "myrtilles",
@@ -53625,7 +53920,8 @@ const RECIPES_DATA = [
                 "baseQty": 60,
                 "unit": "g",
                 "role": "vegetable",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "levure",
@@ -53634,7 +53930,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "g",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "miel",
@@ -53643,7 +53940,8 @@ const RECIPES_DATA = [
                 "baseQty": 15,
                 "unit": "g",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -53701,7 +53999,8 @@ const RECIPES_DATA = [
                 "baseQty": 50,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "skyr_0",
@@ -53710,7 +54009,8 @@ const RECIPES_DATA = [
                 "baseQty": 150,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "noix_coco_rapee",
@@ -53719,7 +54019,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "banane",
@@ -53728,7 +54029,8 @@ const RECIPES_DATA = [
                 "baseQty": 80,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "miel",
@@ -53737,7 +54039,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "g",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "graines_chia",
@@ -53746,7 +54049,8 @@ const RECIPES_DATA = [
                 "baseQty": 8,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -53800,7 +54104,8 @@ const RECIPES_DATA = [
                 "baseQty": 40,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "oeufs",
@@ -53809,7 +54114,8 @@ const RECIPES_DATA = [
                 "baseQty": 2,
                 "unit": "pièce(s)",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "lait",
@@ -53817,7 +54123,8 @@ const RECIPES_DATA = [
                 "emoji": "🥛",
                 "baseQty": 120,
                 "unit": "ml",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             },
             {
                 "id": "whey_protein",
@@ -53826,7 +54133,8 @@ const RECIPES_DATA = [
                 "baseQty": 20,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "fraises",
@@ -53835,7 +54143,8 @@ const RECIPES_DATA = [
                 "baseQty": 80,
                 "unit": "g",
                 "role": "vegetable",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "beurre_cacahuete",
@@ -53844,7 +54153,8 @@ const RECIPES_DATA = [
                 "baseQty": 15,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -53902,7 +54212,8 @@ const RECIPES_DATA = [
                 "baseQty": 80,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "oeufs",
@@ -53911,7 +54222,8 @@ const RECIPES_DATA = [
                 "baseQty": 2,
                 "unit": "pièce(s)",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "lait",
@@ -53919,7 +54231,8 @@ const RECIPES_DATA = [
                 "emoji": "🥛",
                 "baseQty": 80,
                 "unit": "ml",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             },
             {
                 "id": "fromage_blanc_0",
@@ -53928,7 +54241,8 @@ const RECIPES_DATA = [
                 "baseQty": 80,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "pomme",
@@ -53937,7 +54251,8 @@ const RECIPES_DATA = [
                 "baseQty": 100,
                 "unit": "g",
                 "role": "vegetable",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "miel",
@@ -53946,7 +54261,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "g",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -54004,7 +54320,8 @@ const RECIPES_DATA = [
                 "baseQty": 15,
                 "unit": "g",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "banane",
@@ -54013,7 +54330,8 @@ const RECIPES_DATA = [
                 "baseQty": 100,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "lait_amande",
@@ -54021,7 +54339,8 @@ const RECIPES_DATA = [
                 "emoji": "🥛",
                 "baseQty": 100,
                 "unit": "ml",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             },
             {
                 "id": "whey_protein",
@@ -54030,7 +54349,8 @@ const RECIPES_DATA = [
                 "baseQty": 25,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "granola",
@@ -54039,7 +54359,8 @@ const RECIPES_DATA = [
                 "baseQty": 30,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "mangue",
@@ -54048,7 +54369,8 @@ const RECIPES_DATA = [
                 "baseQty": 60,
                 "unit": "g",
                 "role": "vegetable",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "noix_coco_rapee",
@@ -54057,7 +54379,8 @@ const RECIPES_DATA = [
                 "baseQty": 8,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -54107,7 +54430,8 @@ const RECIPES_DATA = [
                 "baseQty": 30,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "lait_coco",
@@ -54115,7 +54439,8 @@ const RECIPES_DATA = [
                 "emoji": "🥥",
                 "baseQty": 200,
                 "unit": "ml",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             },
             {
                 "id": "mangue",
@@ -54124,7 +54449,8 @@ const RECIPES_DATA = [
                 "baseQty": 100,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "whey_protein",
@@ -54133,7 +54459,8 @@ const RECIPES_DATA = [
                 "baseQty": 20,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "miel",
@@ -54142,7 +54469,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "g",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -54196,7 +54524,8 @@ const RECIPES_DATA = [
                 "baseQty": 60,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "banane",
@@ -54205,7 +54534,8 @@ const RECIPES_DATA = [
                 "baseQty": 80,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "oeufs",
@@ -54214,7 +54544,8 @@ const RECIPES_DATA = [
                 "baseQty": 2,
                 "unit": "pièce(s)",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "fromage_blanc_0",
@@ -54223,7 +54554,8 @@ const RECIPES_DATA = [
                 "baseQty": 60,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "levure",
@@ -54232,7 +54564,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "g",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "fruits_rouges",
@@ -54241,7 +54574,8 @@ const RECIPES_DATA = [
                 "baseQty": 60,
                 "unit": "g",
                 "role": "vegetable",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -54295,7 +54629,8 @@ const RECIPES_DATA = [
                 "baseQty": 50,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "yaourt_grec",
@@ -54304,7 +54639,8 @@ const RECIPES_DATA = [
                 "baseQty": 120,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "pomme",
@@ -54313,7 +54649,8 @@ const RECIPES_DATA = [
                 "baseQty": 100,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "amandes",
@@ -54322,7 +54659,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "lait",
@@ -54330,7 +54668,8 @@ const RECIPES_DATA = [
                 "emoji": "🥛",
                 "baseQty": 50,
                 "unit": "ml",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             },
             {
                 "id": "miel",
@@ -54339,7 +54678,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "g",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -54393,7 +54733,8 @@ const RECIPES_DATA = [
                 "baseQty": 120,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "banane",
@@ -54402,7 +54743,8 @@ const RECIPES_DATA = [
                 "baseQty": 80,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "skyr_0",
@@ -54411,7 +54753,8 @@ const RECIPES_DATA = [
                 "baseQty": 100,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "whey_protein",
@@ -54420,7 +54763,8 @@ const RECIPES_DATA = [
                 "baseQty": 25,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "lait_amande",
@@ -54428,7 +54772,8 @@ const RECIPES_DATA = [
                 "emoji": "🥛",
                 "baseQty": 100,
                 "unit": "ml",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             },
             {
                 "id": "graines_lin",
@@ -54437,7 +54782,8 @@ const RECIPES_DATA = [
                 "baseQty": 8,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -54487,7 +54833,8 @@ const RECIPES_DATA = [
                 "baseQty": 170,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "granola",
@@ -54496,7 +54843,8 @@ const RECIPES_DATA = [
                 "baseQty": 40,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "kiwi",
@@ -54505,7 +54853,8 @@ const RECIPES_DATA = [
                 "baseQty": 80,
                 "unit": "g",
                 "role": "vegetable",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "amandes",
@@ -54514,7 +54863,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "miel",
@@ -54523,7 +54873,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "g",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -54577,7 +54928,8 @@ const RECIPES_DATA = [
                 "baseQty": 200,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "flocons_avoine",
@@ -54586,7 +54938,8 @@ const RECIPES_DATA = [
                 "baseQty": 80,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "oeufs",
@@ -54595,7 +54948,8 @@ const RECIPES_DATA = [
                 "baseQty": 2,
                 "unit": "pièce(s)",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "whey_protein",
@@ -54604,7 +54958,8 @@ const RECIPES_DATA = [
                 "baseQty": 30,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "beurre_cacahuete",
@@ -54613,7 +54968,8 @@ const RECIPES_DATA = [
                 "baseQty": 20,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "levure",
@@ -54622,7 +54978,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "g",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "chocolat_noir_70",
@@ -54631,7 +54988,8 @@ const RECIPES_DATA = [
                 "baseQty": 20,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -54689,7 +55047,8 @@ const RECIPES_DATA = [
                 "baseQty": 30,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "fromage_blanc_0",
@@ -54698,7 +55057,8 @@ const RECIPES_DATA = [
                 "baseQty": 150,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "fraises",
@@ -54707,7 +55067,8 @@ const RECIPES_DATA = [
                 "baseQty": 80,
                 "unit": "g",
                 "role": "vegetable",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "orange",
@@ -54716,7 +55077,8 @@ const RECIPES_DATA = [
                 "baseQty": 80,
                 "unit": "g",
                 "role": "vegetable",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "amandes",
@@ -54725,7 +55087,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "sirop_erable",
@@ -54734,7 +55097,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "ml",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -54788,7 +55152,8 @@ const RECIPES_DATA = [
                 "baseQty": 60,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "lait",
@@ -54796,7 +55161,8 @@ const RECIPES_DATA = [
                 "emoji": "🥛",
                 "baseQty": 150,
                 "unit": "ml",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             },
             {
                 "id": "pomme",
@@ -54805,7 +55171,8 @@ const RECIPES_DATA = [
                 "baseQty": 120,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "oeuf",
@@ -54814,7 +55181,8 @@ const RECIPES_DATA = [
                 "baseQty": 1,
                 "unit": "pièce(s)",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "whey_protein",
@@ -54823,7 +55191,8 @@ const RECIPES_DATA = [
                 "baseQty": 20,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "noix",
@@ -54832,7 +55201,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "miel",
@@ -54841,7 +55211,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "g",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -54899,7 +55270,8 @@ const RECIPES_DATA = [
                 "baseQty": 3,
                 "unit": "pièce(s)",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "sauce_tomate",
@@ -54908,7 +55280,8 @@ const RECIPES_DATA = [
                 "baseQty": 200,
                 "unit": "g",
                 "role": "sauce",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "poivron_rouge",
@@ -54917,7 +55290,8 @@ const RECIPES_DATA = [
                 "baseQty": 80,
                 "unit": "g",
                 "role": "vegetable",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "oignon",
@@ -54926,7 +55300,8 @@ const RECIPES_DATA = [
                 "baseQty": 50,
                 "unit": "g",
                 "role": "vegetable",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "ail",
@@ -54935,7 +55310,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "g",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -54944,7 +55320,8 @@ const RECIPES_DATA = [
                 "baseQty": 8,
                 "unit": "ml",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "pain_complet",
@@ -54953,7 +55330,8 @@ const RECIPES_DATA = [
                 "baseQty": 60,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "feta",
@@ -54962,7 +55340,8 @@ const RECIPES_DATA = [
                 "baseQty": 20,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -55020,7 +55399,8 @@ const RECIPES_DATA = [
                 "baseQty": 70,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "saumon",
@@ -55029,7 +55409,8 @@ const RECIPES_DATA = [
                 "baseQty": 60,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "avocat",
@@ -55038,7 +55419,8 @@ const RECIPES_DATA = [
                 "baseQty": 60,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "citron_jus",
@@ -55047,7 +55429,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "ml",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "oeuf",
@@ -55056,7 +55439,8 @@ const RECIPES_DATA = [
                 "baseQty": 1,
                 "unit": "pièce(s)",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "graines_chia",
@@ -55065,7 +55449,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "g",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -55123,7 +55508,8 @@ const RECIPES_DATA = [
                 "baseQty": 3,
                 "unit": "pièce(s)",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "champignon",
@@ -55132,7 +55518,8 @@ const RECIPES_DATA = [
                 "baseQty": 80,
                 "unit": "g",
                 "role": "vegetable",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "epinards",
@@ -55141,7 +55528,8 @@ const RECIPES_DATA = [
                 "baseQty": 50,
                 "unit": "g",
                 "role": "vegetable",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "fromage_rape",
@@ -55150,7 +55538,8 @@ const RECIPES_DATA = [
                 "baseQty": 15,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -55159,7 +55548,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "ml",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "pain_complet",
@@ -55168,7 +55558,8 @@ const RECIPES_DATA = [
                 "baseQty": 40,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -55226,7 +55617,8 @@ const RECIPES_DATA = [
                 "baseQty": 1,
                 "unit": "pièce(s)",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "oeuf",
@@ -55235,7 +55627,8 @@ const RECIPES_DATA = [
                 "baseQty": 1,
                 "unit": "pièce(s)",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "jambon_blanc",
@@ -55244,7 +55637,8 @@ const RECIPES_DATA = [
                 "baseQty": 40,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "emmental",
@@ -55253,7 +55647,8 @@ const RECIPES_DATA = [
                 "baseQty": 20,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "salade_verte",
@@ -55262,7 +55657,8 @@ const RECIPES_DATA = [
                 "baseQty": 30,
                 "unit": "g",
                 "role": "vegetable",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -55320,7 +55716,8 @@ const RECIPES_DATA = [
                 "baseQty": 3,
                 "unit": "pièce(s)",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "courgette",
@@ -55329,7 +55726,8 @@ const RECIPES_DATA = [
                 "baseQty": 80,
                 "unit": "g",
                 "role": "vegetable",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "poivron_rouge",
@@ -55338,7 +55736,8 @@ const RECIPES_DATA = [
                 "baseQty": 50,
                 "unit": "g",
                 "role": "vegetable",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "farine_complete",
@@ -55347,7 +55746,8 @@ const RECIPES_DATA = [
                 "baseQty": 40,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "fromage_rape",
@@ -55356,7 +55756,8 @@ const RECIPES_DATA = [
                 "baseQty": 20,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "levure",
@@ -55365,7 +55766,8 @@ const RECIPES_DATA = [
                 "baseQty": 3,
                 "unit": "g",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "lait",
@@ -55373,7 +55775,8 @@ const RECIPES_DATA = [
                 "emoji": "🥛",
                 "baseQty": 50,
                 "unit": "ml",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             }
         ],
         "options": [],
@@ -55431,7 +55834,8 @@ const RECIPES_DATA = [
                 "baseQty": 70,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "ricotta",
@@ -55440,7 +55844,8 @@ const RECIPES_DATA = [
                 "baseQty": 80,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "tomate",
@@ -55449,7 +55854,8 @@ const RECIPES_DATA = [
                 "baseQty": 100,
                 "unit": "g",
                 "role": "vegetable",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -55458,7 +55864,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "ml",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "oeuf",
@@ -55467,7 +55874,8 @@ const RECIPES_DATA = [
                 "baseQty": 1,
                 "unit": "pièce(s)",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -55521,7 +55929,8 @@ const RECIPES_DATA = [
                 "baseQty": 1,
                 "unit": "pièce(s)",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "oeufs",
@@ -55530,7 +55939,8 @@ const RECIPES_DATA = [
                 "baseQty": 2,
                 "unit": "pièce(s)",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "dinde",
@@ -55539,7 +55949,8 @@ const RECIPES_DATA = [
                 "baseQty": 40,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "tomate",
@@ -55548,7 +55959,8 @@ const RECIPES_DATA = [
                 "baseQty": 50,
                 "unit": "g",
                 "role": "vegetable",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "salade_verte",
@@ -55557,7 +55969,8 @@ const RECIPES_DATA = [
                 "baseQty": 20,
                 "unit": "g",
                 "role": "vegetable",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "fromage_rape",
@@ -55566,7 +55979,8 @@ const RECIPES_DATA = [
                 "baseQty": 15,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -55620,7 +56034,8 @@ const RECIPES_DATA = [
                 "baseQty": 3,
                 "unit": "pièce(s)",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "jambon_blanc",
@@ -55629,7 +56044,8 @@ const RECIPES_DATA = [
                 "baseQty": 50,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "brocoli",
@@ -55638,7 +56054,8 @@ const RECIPES_DATA = [
                 "baseQty": 60,
                 "unit": "g",
                 "role": "vegetable",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "fromage_rape",
@@ -55647,7 +56064,8 @@ const RECIPES_DATA = [
                 "baseQty": 20,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "lait",
@@ -55655,7 +56073,8 @@ const RECIPES_DATA = [
                 "emoji": "🥛",
                 "baseQty": 30,
                 "unit": "ml",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             },
             {
                 "id": "pain_complet",
@@ -55664,7 +56083,8 @@ const RECIPES_DATA = [
                 "baseQty": 40,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -55722,7 +56142,8 @@ const RECIPES_DATA = [
                 "baseQty": 80,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "tomate",
@@ -55731,7 +56152,8 @@ const RECIPES_DATA = [
                 "baseQty": 120,
                 "unit": "g",
                 "role": "vegetable",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "pesto",
@@ -55740,7 +56162,8 @@ const RECIPES_DATA = [
                 "baseQty": 15,
                 "unit": "g",
                 "role": "sauce",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "mozzarella",
@@ -55749,7 +56172,8 @@ const RECIPES_DATA = [
                 "baseQty": 50,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "oeuf",
@@ -55758,7 +56182,8 @@ const RECIPES_DATA = [
                 "baseQty": 1,
                 "unit": "pièce(s)",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -55767,7 +56192,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "ml",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -55821,7 +56247,8 @@ const RECIPES_DATA = [
                 "baseQty": 60,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "jambon_blanc",
@@ -55830,7 +56257,8 @@ const RECIPES_DATA = [
                 "baseQty": 40,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "emmental",
@@ -55839,7 +56267,8 @@ const RECIPES_DATA = [
                 "baseQty": 20,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "oeuf",
@@ -55848,7 +56277,8 @@ const RECIPES_DATA = [
                 "baseQty": 1,
                 "unit": "pièce(s)",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "fromage_blanc_0",
@@ -55857,7 +56287,8 @@ const RECIPES_DATA = [
                 "baseQty": 30,
                 "unit": "g",
                 "role": "sauce",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "moutarde",
@@ -55866,7 +56297,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "g",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "salade_verte",
@@ -55875,7 +56307,8 @@ const RECIPES_DATA = [
                 "baseQty": 30,
                 "unit": "g",
                 "role": "vegetable",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -55933,7 +56366,8 @@ const RECIPES_DATA = [
                 "baseQty": 80,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "saumon",
@@ -55942,7 +56376,8 @@ const RECIPES_DATA = [
                 "baseQty": 50,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "cottage_cheese",
@@ -55951,7 +56386,8 @@ const RECIPES_DATA = [
                 "baseQty": 60,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "concombre",
@@ -55960,7 +56396,8 @@ const RECIPES_DATA = [
                 "baseQty": 50,
                 "unit": "g",
                 "role": "vegetable",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "citron_jus",
@@ -55969,7 +56406,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "ml",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -56023,7 +56461,8 @@ const RECIPES_DATA = [
                 "baseQty": 80,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "oeufs",
@@ -56032,7 +56471,8 @@ const RECIPES_DATA = [
                 "baseQty": 2,
                 "unit": "pièce(s)",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "avocat",
@@ -56041,7 +56481,8 @@ const RECIPES_DATA = [
                 "baseQty": 50,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "epinards",
@@ -56050,7 +56491,8 @@ const RECIPES_DATA = [
                 "baseQty": 40,
                 "unit": "g",
                 "role": "vegetable",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "tomate",
@@ -56059,7 +56501,8 @@ const RECIPES_DATA = [
                 "baseQty": 50,
                 "unit": "g",
                 "role": "vegetable",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -56068,7 +56511,8 @@ const RECIPES_DATA = [
                 "baseQty": 8,
                 "unit": "ml",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "graines_chia",
@@ -56077,7 +56521,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "g",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -56135,7 +56580,8 @@ const RECIPES_DATA = [
                 "baseQty": 70,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "chevre_frais",
@@ -56144,7 +56590,8 @@ const RECIPES_DATA = [
                 "baseQty": 60,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "miel",
@@ -56153,7 +56600,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "g",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "noix",
@@ -56162,7 +56610,8 @@ const RECIPES_DATA = [
                 "baseQty": 12,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "oeuf",
@@ -56171,7 +56620,8 @@ const RECIPES_DATA = [
                 "baseQty": 1,
                 "unit": "pièce(s)",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "salade_verte",
@@ -56180,7 +56630,8 @@ const RECIPES_DATA = [
                 "baseQty": 20,
                 "unit": "g",
                 "role": "vegetable",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -56238,7 +56689,8 @@ const RECIPES_DATA = [
                 "baseQty": 70,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "betterave_cuite",
@@ -56247,7 +56699,8 @@ const RECIPES_DATA = [
                 "baseQty": 80,
                 "unit": "g",
                 "role": "vegetable",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "feta",
@@ -56256,7 +56709,8 @@ const RECIPES_DATA = [
                 "baseQty": 40,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "oeuf",
@@ -56265,7 +56719,8 @@ const RECIPES_DATA = [
                 "baseQty": 1,
                 "unit": "pièce(s)",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "noix",
@@ -56274,7 +56729,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -56283,7 +56739,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "ml",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -56341,7 +56798,8 @@ const RECIPES_DATA = [
                 "baseQty": 1,
                 "unit": "pièce(s)",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "oeufs",
@@ -56350,7 +56808,8 @@ const RECIPES_DATA = [
                 "baseQty": 2,
                 "unit": "pièce(s)",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "concombre",
@@ -56359,7 +56818,8 @@ const RECIPES_DATA = [
                 "baseQty": 50,
                 "unit": "g",
                 "role": "vegetable",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "tomate",
@@ -56368,7 +56828,8 @@ const RECIPES_DATA = [
                 "baseQty": 50,
                 "unit": "g",
                 "role": "vegetable",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "yaourt_grec",
@@ -56377,7 +56838,8 @@ const RECIPES_DATA = [
                 "baseQty": 30,
                 "unit": "g",
                 "role": "sauce",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -56386,7 +56848,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "ml",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -56444,7 +56907,8 @@ const RECIPES_DATA = [
                 "baseQty": 40,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "beurre_cacahuete",
@@ -56453,7 +56917,8 @@ const RECIPES_DATA = [
                 "baseQty": 20,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "whey_protein",
@@ -56462,7 +56927,8 @@ const RECIPES_DATA = [
                 "baseQty": 15,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "cacao_poudre",
@@ -56471,7 +56937,8 @@ const RECIPES_DATA = [
                 "baseQty": 8,
                 "unit": "g",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "miel",
@@ -56480,7 +56947,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "g",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -56538,7 +57006,8 @@ const RECIPES_DATA = [
                 "baseQty": 50,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "whey_protein",
@@ -56547,7 +57016,8 @@ const RECIPES_DATA = [
                 "baseQty": 25,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "beurre_cacahuete",
@@ -56556,7 +57026,8 @@ const RECIPES_DATA = [
                 "baseQty": 20,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "miel",
@@ -56565,7 +57036,8 @@ const RECIPES_DATA = [
                 "baseQty": 15,
                 "unit": "g",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "chocolat_noir_70",
@@ -56574,7 +57046,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "g",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -56636,7 +57109,8 @@ const RECIPES_DATA = [
                 "baseQty": 100,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "flocons_avoine",
@@ -56645,7 +57119,8 @@ const RECIPES_DATA = [
                 "baseQty": 40,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "oeufs",
@@ -56654,7 +57129,8 @@ const RECIPES_DATA = [
                 "baseQty": 1,
                 "unit": "",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "whey_protein",
@@ -56663,7 +57139,8 @@ const RECIPES_DATA = [
                 "baseQty": 20,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "levure",
@@ -56672,7 +57149,8 @@ const RECIPES_DATA = [
                 "baseQty": 3,
                 "unit": "g",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -56734,7 +57212,8 @@ const RECIPES_DATA = [
                 "baseQty": 30,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "whey_protein",
@@ -56743,7 +57222,8 @@ const RECIPES_DATA = [
                 "baseQty": 20,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "oeuf",
@@ -56752,7 +57232,8 @@ const RECIPES_DATA = [
                 "baseQty": 1,
                 "unit": "",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "chocolat_noir_70",
@@ -56761,7 +57242,8 @@ const RECIPES_DATA = [
                 "baseQty": 15,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "beurre_cacahuete",
@@ -56770,7 +57252,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -56832,7 +57315,8 @@ const RECIPES_DATA = [
                 "baseQty": 15,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "noix",
@@ -56841,7 +57325,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "cacahuetes",
@@ -56850,7 +57335,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "flocons_avoine",
@@ -56859,7 +57345,8 @@ const RECIPES_DATA = [
                 "baseQty": 15,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "chocolat_noir_70",
@@ -56868,7 +57355,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "g",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -56922,7 +57410,8 @@ const RECIPES_DATA = [
                 "baseQty": 1,
                 "unit": "",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "thon_conserve",
@@ -56931,7 +57420,8 @@ const RECIPES_DATA = [
                 "baseQty": 60,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "fromage_blanc_0",
@@ -56940,7 +57430,8 @@ const RECIPES_DATA = [
                 "baseQty": 20,
                 "unit": "g",
                 "role": "sauce",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "concombre",
@@ -56949,7 +57440,8 @@ const RECIPES_DATA = [
                 "baseQty": 50,
                 "unit": "g",
                 "role": "vegetable",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "citron_jus",
@@ -56958,7 +57450,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "ml",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -57016,7 +57509,8 @@ const RECIPES_DATA = [
                 "baseQty": 50,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "amandes",
@@ -57025,7 +57519,8 @@ const RECIPES_DATA = [
                 "baseQty": 15,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "blanc_oeuf",
@@ -57034,7 +57529,8 @@ const RECIPES_DATA = [
                 "baseQty": 1,
                 "unit": "",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "miel",
@@ -57043,7 +57539,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "g",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "banane",
@@ -57052,7 +57549,8 @@ const RECIPES_DATA = [
                 "baseQty": 50,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -57114,7 +57612,8 @@ const RECIPES_DATA = [
                 "baseQty": 15,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "graines_lin",
@@ -57123,7 +57622,8 @@ const RECIPES_DATA = [
                 "baseQty": 15,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "flocons_avoine",
@@ -57132,7 +57632,8 @@ const RECIPES_DATA = [
                 "baseQty": 30,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "blanc_oeuf",
@@ -57141,7 +57642,8 @@ const RECIPES_DATA = [
                 "baseQty": 1,
                 "unit": "",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -57150,7 +57652,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "ml",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -57212,7 +57715,8 @@ const RECIPES_DATA = [
                 "baseQty": 40,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "oeufs",
@@ -57221,7 +57725,8 @@ const RECIPES_DATA = [
                 "baseQty": 1,
                 "unit": "",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "jambon_blanc",
@@ -57230,7 +57735,8 @@ const RECIPES_DATA = [
                 "baseQty": 40,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "courgette",
@@ -57239,7 +57745,8 @@ const RECIPES_DATA = [
                 "baseQty": 60,
                 "unit": "g",
                 "role": "vegetable",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "fromage_rape",
@@ -57248,7 +57755,8 @@ const RECIPES_DATA = [
                 "baseQty": 15,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "levure",
@@ -57257,7 +57765,8 @@ const RECIPES_DATA = [
                 "baseQty": 3,
                 "unit": "g",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -57319,7 +57828,8 @@ const RECIPES_DATA = [
                 "baseQty": 2,
                 "unit": "",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "poivron",
@@ -57328,7 +57838,8 @@ const RECIPES_DATA = [
                 "baseQty": 50,
                 "unit": "g",
                 "role": "vegetable",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "fromage_rape",
@@ -57337,7 +57848,8 @@ const RECIPES_DATA = [
                 "baseQty": 20,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "lait_demi",
@@ -57345,7 +57857,8 @@ const RECIPES_DATA = [
                 "emoji": "🥛",
                 "baseQty": 30,
                 "unit": "ml",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             },
             {
                 "id": "moutarde",
@@ -57354,7 +57867,8 @@ const RECIPES_DATA = [
                 "baseQty": 3,
                 "unit": "g",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -57416,7 +57930,8 @@ const RECIPES_DATA = [
                 "baseQty": 20,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "flocons_avoine",
@@ -57425,7 +57940,8 @@ const RECIPES_DATA = [
                 "baseQty": 30,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "whey_protein",
@@ -57434,7 +57950,8 @@ const RECIPES_DATA = [
                 "baseQty": 15,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "chocolat_noir_70",
@@ -57443,7 +57960,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "g",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "sirop_erable",
@@ -57452,7 +57970,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "ml",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -57510,7 +58029,8 @@ const RECIPES_DATA = [
                 "baseQty": 2,
                 "unit": "",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "beurre_cacahuete",
@@ -57519,7 +58039,8 @@ const RECIPES_DATA = [
                 "baseQty": 15,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "banane",
@@ -57528,7 +58049,8 @@ const RECIPES_DATA = [
                 "baseQty": 50,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "graines_chia",
@@ -57537,7 +58059,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "g",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -57595,7 +58118,8 @@ const RECIPES_DATA = [
                 "baseQty": 60,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "fromage_blanc_0",
@@ -57604,7 +58128,8 @@ const RECIPES_DATA = [
                 "baseQty": 30,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "concombre",
@@ -57613,7 +58138,8 @@ const RECIPES_DATA = [
                 "baseQty": 40,
                 "unit": "g",
                 "role": "vegetable",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "carotte",
@@ -57622,7 +58148,8 @@ const RECIPES_DATA = [
                 "baseQty": 30,
                 "unit": "g",
                 "role": "vegetable",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "moutarde",
@@ -57631,7 +58158,8 @@ const RECIPES_DATA = [
                 "baseQty": 3,
                 "unit": "g",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -57689,7 +58217,8 @@ const RECIPES_DATA = [
                 "baseQty": 80,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "carotte",
@@ -57698,7 +58227,8 @@ const RECIPES_DATA = [
                 "baseQty": 60,
                 "unit": "g",
                 "role": "vegetable",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "concombre",
@@ -57707,7 +58237,8 @@ const RECIPES_DATA = [
                 "baseQty": 60,
                 "unit": "g",
                 "role": "vegetable",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -57716,7 +58247,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "ml",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "citron_jus",
@@ -57725,7 +58257,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "ml",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -57779,7 +58312,8 @@ const RECIPES_DATA = [
                 "baseQty": 80,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "lait_demi",
@@ -57787,7 +58321,8 @@ const RECIPES_DATA = [
                 "emoji": "🥛",
                 "baseQty": 150,
                 "unit": "ml",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             },
             {
                 "id": "whey_protein",
@@ -57796,7 +58331,8 @@ const RECIPES_DATA = [
                 "baseQty": 20,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "flocons_avoine",
@@ -57805,7 +58341,8 @@ const RECIPES_DATA = [
                 "baseQty": 20,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "beurre_cacahuete",
@@ -57814,7 +58351,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -57868,7 +58406,8 @@ const RECIPES_DATA = [
                 "baseQty": 120,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "cacao_poudre",
@@ -57877,7 +58416,8 @@ const RECIPES_DATA = [
                 "baseQty": 8,
                 "unit": "g",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "whey_protein",
@@ -57886,7 +58426,8 @@ const RECIPES_DATA = [
                 "baseQty": 15,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "lait_demi",
@@ -57894,7 +58435,8 @@ const RECIPES_DATA = [
                 "emoji": "🥛",
                 "baseQty": 30,
                 "unit": "ml",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             }
         ],
         "options": [],
@@ -57948,7 +58490,8 @@ const RECIPES_DATA = [
                 "baseQty": 20,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "lait_amande",
@@ -57956,7 +58499,8 @@ const RECIPES_DATA = [
                 "emoji": "🥛",
                 "baseQty": 120,
                 "unit": "ml",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             },
             {
                 "id": "myrtilles",
@@ -57965,7 +58509,8 @@ const RECIPES_DATA = [
                 "baseQty": 50,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "whey_protein",
@@ -57974,7 +58519,8 @@ const RECIPES_DATA = [
                 "baseQty": 15,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "miel",
@@ -57983,7 +58529,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "g",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -58037,7 +58584,8 @@ const RECIPES_DATA = [
                 "baseQty": 100,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "chocolat_noir_70",
@@ -58046,7 +58594,8 @@ const RECIPES_DATA = [
                 "baseQty": 20,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "blanc_oeuf",
@@ -58055,7 +58604,8 @@ const RECIPES_DATA = [
                 "baseQty": 1,
                 "unit": "",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "cacao_poudre",
@@ -58064,7 +58614,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "g",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -58126,7 +58677,8 @@ const RECIPES_DATA = [
                 "baseQty": 150,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "fruits_rouges",
@@ -58135,7 +58687,8 @@ const RECIPES_DATA = [
                 "baseQty": 60,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "granola",
@@ -58144,7 +58697,8 @@ const RECIPES_DATA = [
                 "baseQty": 15,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "miel",
@@ -58153,7 +58707,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "g",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -58207,7 +58762,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "banane",
@@ -58216,7 +58772,8 @@ const RECIPES_DATA = [
                 "baseQty": 80,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "lait_amande",
@@ -58224,7 +58781,8 @@ const RECIPES_DATA = [
                 "emoji": "🥛",
                 "baseQty": 60,
                 "unit": "ml",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             },
             {
                 "id": "whey_protein",
@@ -58233,7 +58791,8 @@ const RECIPES_DATA = [
                 "baseQty": 15,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "granola",
@@ -58242,7 +58801,8 @@ const RECIPES_DATA = [
                 "baseQty": 15,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "fraises",
@@ -58251,7 +58811,8 @@ const RECIPES_DATA = [
                 "baseQty": 30,
                 "unit": "g",
                 "role": "vegetable",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -58305,7 +58866,8 @@ const RECIPES_DATA = [
                 "baseQty": 1,
                 "unit": "tranche",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "beurre_cacahuete",
@@ -58314,7 +58876,8 @@ const RECIPES_DATA = [
                 "baseQty": 15,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "banane",
@@ -58323,7 +58886,8 @@ const RECIPES_DATA = [
                 "baseQty": 60,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "graines_chia",
@@ -58332,7 +58896,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "g",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -58386,7 +58951,8 @@ const RECIPES_DATA = [
                 "baseQty": 80,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "yaourt_grec",
@@ -58395,7 +58961,8 @@ const RECIPES_DATA = [
                 "baseQty": 80,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "noix_coco_rapee",
@@ -58404,7 +58971,8 @@ const RECIPES_DATA = [
                 "baseQty": 8,
                 "unit": "g",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "lait_coco",
@@ -58412,7 +58980,8 @@ const RECIPES_DATA = [
                 "emoji": "🥥",
                 "baseQty": 20,
                 "unit": "ml",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             },
             {
                 "id": "granola",
@@ -58421,7 +58990,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -58475,7 +59045,8 @@ const RECIPES_DATA = [
                 "baseQty": 120,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "fraises",
@@ -58484,7 +59055,8 @@ const RECIPES_DATA = [
                 "baseQty": 80,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "miel",
@@ -58493,7 +59065,8 @@ const RECIPES_DATA = [
                 "baseQty": 8,
                 "unit": "g",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -58547,7 +59120,8 @@ const RECIPES_DATA = [
                 "baseQty": 150,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "fromage_blanc_0",
@@ -58556,7 +59130,8 @@ const RECIPES_DATA = [
                 "baseQty": 80,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "citron_jus",
@@ -58565,7 +59140,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "ml",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -58623,7 +59199,8 @@ const RECIPES_DATA = [
                 "baseQty": 40,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "lait_demi",
@@ -58631,7 +59208,8 @@ const RECIPES_DATA = [
                 "emoji": "🥛",
                 "baseQty": 120,
                 "unit": "ml",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             },
             {
                 "id": "whey_protein",
@@ -58640,7 +59218,8 @@ const RECIPES_DATA = [
                 "baseQty": 15,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "banane",
@@ -58649,7 +59228,8 @@ const RECIPES_DATA = [
                 "baseQty": 50,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "miel",
@@ -58658,7 +59238,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "g",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -58716,7 +59297,8 @@ const RECIPES_DATA = [
                 "baseQty": 30,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "oeuf",
@@ -58725,7 +59307,8 @@ const RECIPES_DATA = [
                 "baseQty": 1,
                 "unit": "",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "banane",
@@ -58734,7 +59317,8 @@ const RECIPES_DATA = [
                 "baseQty": 50,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "whey_protein",
@@ -58743,7 +59327,8 @@ const RECIPES_DATA = [
                 "baseQty": 10,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "levure",
@@ -58752,7 +59337,8 @@ const RECIPES_DATA = [
                 "baseQty": 2,
                 "unit": "g",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -58810,7 +59396,8 @@ const RECIPES_DATA = [
                 "baseQty": 120,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "whey_protein",
@@ -58819,7 +59406,8 @@ const RECIPES_DATA = [
                 "baseQty": 20,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "lait_demi",
@@ -58827,7 +59415,8 @@ const RECIPES_DATA = [
                 "emoji": "🥛",
                 "baseQty": 40,
                 "unit": "ml",
-                "role": "base"
+                "role": "base",
+                "detail": ""
             },
             {
                 "id": "graines_chia",
@@ -58836,7 +59425,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "g",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -58894,7 +59484,8 @@ const RECIPES_DATA = [
                 "baseQty": 100,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "concombre",
@@ -58903,7 +59494,8 @@ const RECIPES_DATA = [
                 "baseQty": 60,
                 "unit": "g",
                 "role": "vegetable",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "carotte",
@@ -58912,7 +59504,8 @@ const RECIPES_DATA = [
                 "baseQty": 60,
                 "unit": "g",
                 "role": "vegetable",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "poivron",
@@ -58921,7 +59514,8 @@ const RECIPES_DATA = [
                 "baseQty": 40,
                 "unit": "g",
                 "role": "vegetable",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "citron_jus",
@@ -58930,7 +59524,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "ml",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "coriandre",
@@ -58939,7 +59534,8 @@ const RECIPES_DATA = [
                 "baseQty": 3,
                 "unit": "g",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -58993,7 +59589,8 @@ const RECIPES_DATA = [
                 "baseQty": 1,
                 "unit": "tranche",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "ricotta",
@@ -59002,7 +59599,8 @@ const RECIPES_DATA = [
                 "baseQty": 40,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "noix",
@@ -59011,7 +59609,8 @@ const RECIPES_DATA = [
                 "baseQty": 8,
                 "unit": "g",
                 "role": "fat",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "miel",
@@ -59020,7 +59619,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "g",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -59074,7 +59674,8 @@ const RECIPES_DATA = [
                 "baseQty": 120,
                 "unit": "g",
                 "role": "protein",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "fraises",
@@ -59083,7 +59684,8 @@ const RECIPES_DATA = [
                 "baseQty": 40,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "kiwi",
@@ -59092,7 +59694,8 @@ const RECIPES_DATA = [
                 "baseQty": 40,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "granola",
@@ -59101,7 +59704,8 @@ const RECIPES_DATA = [
                 "baseQty": 15,
                 "unit": "g",
                 "role": "carb",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             },
             {
                 "id": "miel",
@@ -59110,7 +59714,8 @@ const RECIPES_DATA = [
                 "baseQty": 5,
                 "unit": "g",
                 "role": "seasoning",
-                "scalable": true
+                "scalable": true,
+                "detail": ""
             }
         ],
         "options": [],
@@ -59148,11 +59753,8 @@ const RECIPES_DATA = [
     {
         "id": "rillettes-sardines-citron",
         "category": "apero-partage",
-        "title": "Rillettes de sardines au citron",
-        "image": "rillettes-sardines-citron",
         "time": 10,
         "difficulty": "Facile",
-        "servings": 4,
         "tags": [
             "sans cuisson",
             "protéiné",
@@ -59166,7 +59768,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Sardines en conserve",
                 "baseQty": 200,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🐟",
+                "detail": ""
             },
             {
                 "id": "fromage_blanc_0",
@@ -59174,7 +59778,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Fromage blanc 0%",
                 "baseQty": 100,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥛",
+                "detail": ""
             },
             {
                 "id": "citron_jus",
@@ -59182,7 +59788,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Jus de citron",
                 "baseQty": 15,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍋",
+                "detail": ""
             },
             {
                 "id": "moutarde",
@@ -59190,7 +59798,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Moutarde",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🟡",
+                "detail": ""
             },
             {
                 "id": "oignon",
@@ -59198,7 +59808,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Oignon rouge",
                 "baseQty": 30,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧅",
+                "detail": ""
             },
             {
                 "id": "coriandre",
@@ -59206,7 +59818,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Coriandre fraîche",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🌿",
+                "detail": ""
             }
         ],
         "steps": [
@@ -59238,16 +59852,18 @@ const RECIPES_DATA = [
                 "title": "Conservation",
                 "text": "Ne préparez pas trop à l'avance, le fromage blanc peut rendre le mélange trop liquide après 24h."
             }
-        ]
+        ],
+        "name": "Rillettes de sardines au citron",
+        "emoji": "🐟",
+        "subtitle": "Parfait pour l'apéro, léger et protéiné",
+        "sliderMin": 50,
+        "sliderMax": 200
     },
     {
         "id": "verrines-crevettes-avocat-mangue",
         "category": "apero-partage",
-        "title": "Verrines crevettes avocat mangue",
-        "image": "verrines-crevettes-avocat-mangue",
         "time": 15,
         "difficulty": "Facile",
-        "servings": 6,
         "tags": [
             "sans cuisson",
             "frais",
@@ -59261,7 +59877,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Crevettes décortiquées",
                 "baseQty": 250,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "avocat",
@@ -59269,7 +59887,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Avocat",
                 "baseQty": 150,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥑",
+                "detail": ""
             },
             {
                 "id": "mangue",
@@ -59277,7 +59897,9 @@ const RECIPES_DATA = [
                 "role": "carb",
                 "name": "Mangue",
                 "baseQty": 150,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥭",
+                "detail": ""
             },
             {
                 "id": "citron_vert",
@@ -59285,7 +59907,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Citron vert",
                 "baseQty": 20,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍋",
+                "detail": ""
             },
             {
                 "id": "coriandre",
@@ -59293,7 +59917,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Coriandre fraîche",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🌿",
+                "detail": ""
             },
             {
                 "id": "sauce_sriracha",
@@ -59301,7 +59927,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Sauce sriracha",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🌶️",
+                "detail": ""
             }
         ],
         "steps": [
@@ -59333,16 +59961,18 @@ const RECIPES_DATA = [
                 "title": "Timing",
                 "text": "Assemblez les verrines au dernier moment pour éviter que l'avocat ne noircisse."
             }
-        ]
+        ],
+        "name": "Verrines crevettes avocat mangue",
+        "emoji": "🦐",
+        "subtitle": "Parfait pour l'apéro, léger et protéiné",
+        "sliderMin": 50,
+        "sliderMax": 200
     },
     {
         "id": "houmous-betterave-feta",
         "category": "apero-partage",
-        "title": "Houmous de betterave et feta émiettée",
-        "image": "houmous-betterave-feta",
         "time": 10,
         "difficulty": "Facile",
-        "servings": 6,
         "tags": [
             "végétarien",
             "sans cuisson",
@@ -59356,7 +59986,9 @@ const RECIPES_DATA = [
                 "role": "carb",
                 "name": "Pois chiches cuits",
                 "baseQty": 250,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "betterave_cuite",
@@ -59364,7 +59996,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Betterave cuite",
                 "baseQty": 150,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "feta",
@@ -59372,7 +60006,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Feta émiettée",
                 "baseQty": 60,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧀",
+                "detail": ""
             },
             {
                 "id": "sauce_tahini",
@@ -59380,7 +60016,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Tahini",
                 "baseQty": 20,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "citron_jus",
@@ -59388,7 +60026,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Jus de citron",
                 "baseQty": 15,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍋",
+                "detail": ""
             },
             {
                 "id": "ail",
@@ -59396,7 +60036,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Gousse d'ail",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧄",
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -59404,7 +60046,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Huile d'olive",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫒",
+                "detail": ""
             }
         ],
         "steps": [
@@ -59436,16 +60080,18 @@ const RECIPES_DATA = [
                 "title": "Texture",
                 "text": "Ne mixez pas trop longtemps la feta, elle doit rester en morceaux pour le contraste."
             }
-        ]
+        ],
+        "name": "Houmous de betterave et feta émiettée",
+        "emoji": "🧆",
+        "subtitle": "Parfait pour l'apéro, léger et protéiné",
+        "sliderMin": 50,
+        "sliderMax": 200
     },
     {
         "id": "mini-brochettes-yakitori-poulet",
         "category": "apero-partage",
-        "title": "Mini brochettes yakitori au poulet",
-        "image": "mini-brochettes-yakitori-poulet",
         "time": 25,
         "difficulty": "Facile",
-        "servings": 6,
         "tags": [
             "asiatique",
             "protéiné",
@@ -59459,7 +60105,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Filet de poulet",
                 "baseQty": 400,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍗",
+                "detail": ""
             },
             {
                 "id": "sauce_soja",
@@ -59467,7 +60115,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Sauce soja",
                 "baseQty": 30,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫘",
+                "detail": ""
             },
             {
                 "id": "miel",
@@ -59475,7 +60125,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Miel",
                 "baseQty": 20,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍯",
+                "detail": ""
             },
             {
                 "id": "gingembre",
@@ -59483,7 +60135,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Gingembre frais râpé",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫚",
+                "detail": ""
             },
             {
                 "id": "ail",
@@ -59491,7 +60145,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Ail émincé",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧄",
+                "detail": ""
             },
             {
                 "id": "huile_sesame",
@@ -59499,7 +60155,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Huile de sésame",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫘",
+                "detail": ""
             }
         ],
         "steps": [
@@ -59531,16 +60189,18 @@ const RECIPES_DATA = [
                 "title": "Cuisson",
                 "text": "Ne laissez pas brûler le miel. Surveillez bien et baissez le feu si la sauce noircit."
             }
-        ]
+        ],
+        "name": "Mini brochettes yakitori au poulet",
+        "emoji": "🍗",
+        "subtitle": "Parfait pour l'apéro, léger et protéiné",
+        "sliderMin": 50,
+        "sliderMax": 200
     },
     {
         "id": "falafels-pois-chiches-herbes",
         "category": "apero-partage",
-        "title": "Falafels croustillants aux herbes",
-        "image": "falafels-pois-chiches-herbes",
         "time": 30,
         "difficulty": "Moyen",
-        "servings": 6,
         "tags": [
             "végétarien",
             "protéiné",
@@ -59554,7 +60214,9 @@ const RECIPES_DATA = [
                 "role": "carb",
                 "name": "Pois chiches cuits",
                 "baseQty": 400,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "oignon",
@@ -59562,7 +60224,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Oignon",
                 "baseQty": 60,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧅",
+                "detail": ""
             },
             {
                 "id": "ail",
@@ -59570,7 +60234,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Ail",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧄",
+                "detail": ""
             },
             {
                 "id": "coriandre",
@@ -59578,7 +60244,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Coriandre fraîche",
                 "baseQty": 15,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🌿",
+                "detail": ""
             },
             {
                 "id": "farine_complete",
@@ -59586,7 +60254,9 @@ const RECIPES_DATA = [
                 "role": "carb",
                 "name": "Farine complète",
                 "baseQty": 30,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -59594,7 +60264,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Huile d'olive",
                 "baseQty": 15,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫒",
+                "detail": ""
             },
             {
                 "id": "citron_jus",
@@ -59602,7 +60274,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Jus de citron",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍋",
+                "detail": ""
             }
         ],
         "steps": [
@@ -59634,16 +60308,18 @@ const RECIPES_DATA = [
                 "title": "Texture",
                 "text": "Ne mixez pas trop finement, les falafels doivent garder de la texture pour rester croustillants."
             }
-        ]
+        ],
+        "name": "Falafels croustillants aux herbes",
+        "emoji": "🧆",
+        "subtitle": "Parfait pour l'apéro, léger et protéiné",
+        "sliderMin": 50,
+        "sliderMax": 200
     },
     {
         "id": "tartare-thon-sesame-soja",
         "category": "apero-partage",
-        "title": "Tartare de thon sésame et soja",
-        "image": "tartare-thon-sesame-soja",
         "time": 15,
         "difficulty": "Facile",
-        "servings": 4,
         "tags": [
             "sans cuisson",
             "asiatique",
@@ -59657,7 +60333,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Thon frais (sushi grade)",
                 "baseQty": 300,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🐟",
+                "detail": ""
             },
             {
                 "id": "avocat",
@@ -59665,7 +60343,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Avocat",
                 "baseQty": 100,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥑",
+                "detail": ""
             },
             {
                 "id": "sauce_soja",
@@ -59673,7 +60353,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Sauce soja",
                 "baseQty": 20,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫘",
+                "detail": ""
             },
             {
                 "id": "huile_sesame",
@@ -59681,7 +60363,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Huile de sésame",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫘",
+                "detail": ""
             },
             {
                 "id": "citron_vert",
@@ -59689,7 +60373,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Jus de citron vert",
                 "baseQty": 15,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍋",
+                "detail": ""
             },
             {
                 "id": "gingembre",
@@ -59697,7 +60383,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Gingembre frais râpé",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫚",
+                "detail": ""
             },
             {
                 "id": "coriandre",
@@ -59705,7 +60393,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Coriandre fraîche",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🌿",
+                "detail": ""
             }
         ],
         "steps": [
@@ -59737,16 +60427,18 @@ const RECIPES_DATA = [
                 "title": "Assaisonnement",
                 "text": "N'ajoutez pas de sel supplémentaire, la sauce soja est déjà très salée."
             }
-        ]
+        ],
+        "name": "Tartare de thon sésame et soja",
+        "emoji": "🐟",
+        "subtitle": "Parfait pour l'apéro, léger et protéiné",
+        "sliderMin": 50,
+        "sliderMax": 200
     },
     {
         "id": "chips-patate-douce-paprika",
         "category": "apero-partage",
-        "title": "Chips de patate douce au paprika",
-        "image": "chips-patate-douce-paprika",
         "time": 35,
         "difficulty": "Facile",
-        "servings": 4,
         "tags": [
             "vegan",
             "sans gluten",
@@ -59760,7 +60452,9 @@ const RECIPES_DATA = [
                 "role": "carb",
                 "name": "Patate douce",
                 "baseQty": 400,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍠",
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -59768,7 +60462,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Huile d'olive",
                 "baseQty": 15,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫒",
+                "detail": ""
             }
         ],
         "steps": [
@@ -59800,16 +60496,18 @@ const RECIPES_DATA = [
                 "title": "Surveillance",
                 "text": "Les chips passent très vite du doré au brûlé. Surveillez les dernières minutes de cuisson."
             }
-        ]
+        ],
+        "name": "Chips de patate douce au paprika",
+        "emoji": "🍠",
+        "subtitle": "Parfait pour l'apéro, léger et protéiné",
+        "sliderMin": 50,
+        "sliderMax": 200
     },
     {
         "id": "roules-courgette-ricotta-saumon",
         "category": "apero-partage",
-        "title": "Roulés de courgette ricotta saumon",
-        "image": "roules-courgette-ricotta-saumon",
         "time": 25,
         "difficulty": "Moyen",
-        "servings": 6,
         "tags": [
             "sans gluten",
             "protéiné",
@@ -59823,7 +60521,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Courgettes",
                 "baseQty": 300,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥒",
+                "detail": ""
             },
             {
                 "id": "saumon",
@@ -59831,7 +60531,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Saumon fumé",
                 "baseQty": 150,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🐟",
+                "detail": ""
             },
             {
                 "id": "ricotta",
@@ -59839,7 +60541,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Ricotta",
                 "baseQty": 120,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧀",
+                "detail": ""
             },
             {
                 "id": "citron_jus",
@@ -59847,7 +60551,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Jus de citron",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍋",
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -59855,7 +60561,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Huile d'olive",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫒",
+                "detail": ""
             }
         ],
         "steps": [
@@ -59887,16 +60595,18 @@ const RECIPES_DATA = [
                 "title": "Épaisseur",
                 "text": "Des lamelles trop épaisses seront difficiles à rouler. Visez 2-3 mm d'épaisseur maximum."
             }
-        ]
+        ],
+        "name": "Roulés de courgette ricotta saumon",
+        "emoji": "🐟",
+        "subtitle": "Parfait pour l'apéro, léger et protéiné",
+        "sliderMin": 50,
+        "sliderMax": 200
     },
     {
         "id": "bouchees-concombre-thon-cottage",
         "category": "apero-partage",
-        "title": "Bouchées de concombre au thon et cottage cheese",
-        "image": "bouchees-concombre-thon-cottage",
         "time": 10,
         "difficulty": "Facile",
-        "servings": 4,
         "tags": [
             "sans cuisson",
             "express",
@@ -59910,7 +60620,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Concombre",
                 "baseQty": 300,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥒",
+                "detail": ""
             },
             {
                 "id": "thon_conserve",
@@ -59918,7 +60630,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Thon en conserve",
                 "baseQty": 160,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "cottage_cheese",
@@ -59926,7 +60640,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Cottage cheese",
                 "baseQty": 100,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧀",
+                "detail": ""
             },
             {
                 "id": "citron_jus",
@@ -59934,7 +60650,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Jus de citron",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍋",
+                "detail": ""
             },
             {
                 "id": "coriandre",
@@ -59942,7 +60660,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Ciboulette",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🌿",
+                "detail": ""
             }
         ],
         "steps": [
@@ -59974,16 +60694,18 @@ const RECIPES_DATA = [
                 "title": "Excès d'eau",
                 "text": "Égouttez bien le thon et séchez les rondelles de concombre pour éviter que l'eau ne détrempe la garniture."
             }
-        ]
+        ],
+        "name": "Bouchées de concombre au thon et cottage cheese",
+        "emoji": "🐟",
+        "subtitle": "Parfait pour l'apéro, léger et protéiné",
+        "sliderMin": 50,
+        "sliderMax": 200
     },
     {
         "id": "champignons-farcis-dinde-ail",
         "category": "apero-partage",
-        "title": "Champignons farcis à la dinde et à l'ail",
-        "image": "champignons-farcis-dinde-ail",
         "time": 30,
         "difficulty": "Facile",
-        "servings": 6,
         "tags": [
             "protéiné",
             "sans gluten",
@@ -59997,7 +60719,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Gros champignons de Paris",
                 "baseQty": 400,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍄",
+                "detail": ""
             },
             {
                 "id": "dinde",
@@ -60005,7 +60729,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Haché de dinde",
                 "baseQty": 200,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🦃",
+                "detail": ""
             },
             {
                 "id": "ail",
@@ -60013,7 +60739,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Ail émincé",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧄",
+                "detail": ""
             },
             {
                 "id": "parmesan",
@@ -60021,7 +60749,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Parmesan râpé",
                 "baseQty": 30,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧀",
+                "detail": ""
             },
             {
                 "id": "fromage_blanc_0",
@@ -60029,7 +60759,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Fromage blanc 0%",
                 "baseQty": 40,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥛",
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -60037,7 +60769,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Huile d'olive",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫒",
+                "detail": ""
             }
         ],
         "steps": [
@@ -60069,16 +60803,18 @@ const RECIPES_DATA = [
                 "title": "Excès d'eau",
                 "text": "Ne lavez pas les champignons trop longtemps sous l'eau, ils s'en gorgent. Préférez un essuyage rapide."
             }
-        ]
+        ],
+        "name": "Champignons farcis à la dinde et à l'ail",
+        "emoji": "🍗",
+        "subtitle": "Parfait pour l'apéro, léger et protéiné",
+        "sliderMin": 50,
+        "sliderMax": 200
     },
     {
         "id": "mini-galettes-sarrasin-chevre-miel",
         "category": "apero-partage",
-        "title": "Mini galettes sarrasin chèvre miel",
-        "image": "mini-galettes-sarrasin-chevre-miel",
         "time": 20,
         "difficulty": "Facile",
-        "servings": 6,
         "tags": [
             "végétarien",
             "sucré-salé",
@@ -60092,7 +60828,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Galettes de sarrasin",
                 "baseQty": 4,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "chevre_frais",
@@ -60100,7 +60838,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Chèvre frais",
                 "baseQty": 120,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "miel",
@@ -60108,7 +60848,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Miel",
                 "baseQty": 20,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍯",
+                "detail": ""
             },
             {
                 "id": "noix",
@@ -60116,7 +60858,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Cerneaux de noix",
                 "baseQty": 30,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥜",
+                "detail": ""
             },
             {
                 "id": "salade_verte",
@@ -60124,7 +60868,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Roquette",
                 "baseQty": 30,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             }
         ],
         "steps": [
@@ -60156,16 +60902,18 @@ const RECIPES_DATA = [
                 "title": "Miel",
                 "text": "Ajoutez le miel au dernier moment pour qu'il ne soit pas absorbé par la galette."
             }
-        ]
+        ],
+        "name": "Mini galettes sarrasin chèvre miel",
+        "emoji": "🫓",
+        "subtitle": "Parfait pour l'apéro, léger et protéiné",
+        "sliderMin": 50,
+        "sliderMax": 200
     },
     {
         "id": "dip-cottage-cheese-herbes-ail",
         "category": "apero-partage",
-        "title": "Dip protéiné cottage cheese et herbes",
-        "image": "dip-cottage-cheese-herbes-ail",
         "time": 5,
         "difficulty": "Facile",
-        "servings": 4,
         "tags": [
             "express",
             "protéiné",
@@ -60179,7 +60927,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Cottage cheese",
                 "baseQty": 250,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧀",
+                "detail": ""
             },
             {
                 "id": "ail",
@@ -60187,7 +60937,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Ail pressé",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧄",
+                "detail": ""
             },
             {
                 "id": "citron_jus",
@@ -60195,7 +60947,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Jus de citron",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍋",
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -60203,7 +60957,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Huile d'olive",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫒",
+                "detail": ""
             },
             {
                 "id": "concombre",
@@ -60211,7 +60967,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Concombre (pour dipper)",
                 "baseQty": 200,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥒",
+                "detail": ""
             },
             {
                 "id": "carotte",
@@ -60219,7 +60977,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Carottes (pour dipper)",
                 "baseQty": 150,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥕",
+                "detail": ""
             }
         ],
         "steps": [
@@ -60251,16 +61011,18 @@ const RECIPES_DATA = [
                 "title": "Goût ail",
                 "text": "L'ail cru peut être fort. Commencez par une petite quantité et ajustez à votre goût."
             }
-        ]
+        ],
+        "name": "Dip protéiné cottage cheese et herbes",
+        "emoji": "🥒",
+        "subtitle": "Parfait pour l'apéro, léger et protéiné",
+        "sliderMin": 50,
+        "sliderMax": 200
     },
     {
         "id": "bruschetta-tomate-pesto-mozzarella",
         "category": "apero-partage",
-        "title": "Bruschetta tomate pesto mozzarella",
-        "image": "bruschetta-tomate-pesto-mozzarella",
         "time": 15,
         "difficulty": "Facile",
-        "servings": 6,
         "tags": [
             "italien",
             "végétarien",
@@ -60274,7 +61036,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Pain complet tranché",
                 "baseQty": 200,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍞",
+                "detail": ""
             },
             {
                 "id": "tomate",
@@ -60282,7 +61046,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Tomates mûres",
                 "baseQty": 250,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍅",
+                "detail": ""
             },
             {
                 "id": "mozzarella",
@@ -60290,7 +61056,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Mozzarella",
                 "baseQty": 125,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧀",
+                "detail": ""
             },
             {
                 "id": "pesto",
@@ -60298,7 +61066,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Pesto",
                 "baseQty": 30,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "vinaigre_balsamique",
@@ -60306,7 +61076,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Vinaigre balsamique",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -60314,7 +61086,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Huile d'olive",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫒",
+                "detail": ""
             }
         ],
         "steps": [
@@ -60346,16 +61120,18 @@ const RECIPES_DATA = [
                 "title": "Timing",
                 "text": "Assemblez au dernier moment pour que le pain reste croustillant et ne ramollisse pas."
             }
-        ]
+        ],
+        "name": "Bruschetta tomate pesto mozzarella",
+        "emoji": "🍞",
+        "subtitle": "Parfait pour l'apéro, léger et protéiné",
+        "sliderMin": 50,
+        "sliderMax": 200
     },
     {
         "id": "baba-ganoush-aubergine-grillee",
         "category": "apero-partage",
-        "title": "Baba ganoush à l'aubergine grillée",
-        "image": "baba-ganoush-aubergine-grillee",
         "time": 40,
         "difficulty": "Facile",
-        "servings": 6,
         "tags": [
             "vegan",
             "méditerranéen",
@@ -60369,7 +61145,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Aubergines",
                 "baseQty": 400,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍆",
+                "detail": ""
             },
             {
                 "id": "sauce_tahini",
@@ -60377,7 +61155,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Tahini",
                 "baseQty": 30,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "ail",
@@ -60385,7 +61165,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Gousse d'ail",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧄",
+                "detail": ""
             },
             {
                 "id": "citron_jus",
@@ -60393,7 +61175,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Jus de citron",
                 "baseQty": 20,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍋",
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -60401,7 +61185,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Huile d'olive",
                 "baseQty": 15,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫒",
+                "detail": ""
             },
             {
                 "id": "pain_pita",
@@ -60409,7 +61195,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Pain pita",
                 "baseQty": 200,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫓",
+                "detail": ""
             }
         ],
         "steps": [
@@ -60441,16 +61229,18 @@ const RECIPES_DATA = [
                 "title": "Amertume",
                 "text": "Bien égoutter la chair d'aubergine est essentiel pour éviter l'amertume et la texture aqueuse."
             }
-        ]
+        ],
+        "name": "Baba ganoush à l'aubergine grillée",
+        "emoji": "🍆",
+        "subtitle": "Parfait pour l'apéro, léger et protéiné",
+        "sliderMin": 50,
+        "sliderMax": 200
     },
     {
         "id": "samossas-poulet-curry-four",
         "category": "apero-partage",
-        "title": "Samossas poulet curry au four",
-        "image": "samossas-poulet-curry-four",
         "time": 35,
         "difficulty": "Moyen",
-        "servings": 6,
         "tags": [
             "protéiné",
             "croustillant",
@@ -60464,7 +61254,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Filet de poulet",
                 "baseQty": 250,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍗",
+                "detail": ""
             },
             {
                 "id": "tortilla_ble",
@@ -60472,7 +61264,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Tortillas de blé (feuilles)",
                 "baseQty": 4,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "oignon",
@@ -60480,7 +61274,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Oignon",
                 "baseQty": 60,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧅",
+                "detail": ""
             },
             {
                 "id": "pate_curry",
@@ -60488,7 +61284,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Pâte de curry",
                 "baseQty": 15,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "petits_pois",
@@ -60496,7 +61294,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Petits pois",
                 "baseQty": 80,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -60504,7 +61304,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Huile d'olive",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫒",
+                "detail": ""
             }
         ],
         "steps": [
@@ -60536,16 +61338,18 @@ const RECIPES_DATA = [
                 "title": "Pliage",
                 "text": "Veillez à bien sceller les bords des samossas pour éviter que la farce ne s'échappe à la cuisson."
             }
-        ]
+        ],
+        "name": "Samossas poulet curry au four",
+        "emoji": "🍗",
+        "subtitle": "Parfait pour l'apéro, léger et protéiné",
+        "sliderMin": 50,
+        "sliderMax": 200
     },
     {
         "id": "tzatziki-concombre-aneth",
         "category": "apero-partage",
-        "title": "Tzatziki au concombre et aneth",
-        "image": "tzatziki-concombre-aneth",
         "time": 10,
         "difficulty": "Facile",
-        "servings": 6,
         "tags": [
             "végétarien",
             "grec",
@@ -60559,7 +61363,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Yaourt grec",
                 "baseQty": 250,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥛",
+                "detail": ""
             },
             {
                 "id": "concombre",
@@ -60567,7 +61373,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Concombre",
                 "baseQty": 200,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥒",
+                "detail": ""
             },
             {
                 "id": "ail",
@@ -60575,7 +61383,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Ail pressé",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧄",
+                "detail": ""
             },
             {
                 "id": "citron_jus",
@@ -60583,7 +61393,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Jus de citron",
                 "baseQty": 15,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍋",
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -60591,7 +61403,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Huile d'olive",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫒",
+                "detail": ""
             },
             {
                 "id": "pain_pita",
@@ -60599,7 +61413,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Pain pita",
                 "baseQty": 150,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫓",
+                "detail": ""
             }
         ],
         "steps": [
@@ -60631,16 +61447,18 @@ const RECIPES_DATA = [
                 "title": "Ail cru",
                 "text": "L'ail cru est puissant dans le tzatziki. Commencez petit et goûtez avant d'en rajouter."
             }
-        ]
+        ],
+        "name": "Tzatziki au concombre et aneth",
+        "emoji": "🥒",
+        "subtitle": "Parfait pour l'apéro, léger et protéiné",
+        "sliderMin": 50,
+        "sliderMax": 200
     },
     {
         "id": "houmous-poivron-grille-harissa",
         "category": "apero-partage",
-        "title": "Houmous au poivron grillé et harissa",
-        "image": "houmous-poivron-grille-harissa",
         "time": 15,
         "difficulty": "Facile",
-        "servings": 6,
         "tags": [
             "vegan",
             "épicé",
@@ -60654,7 +61472,9 @@ const RECIPES_DATA = [
                 "role": "carb",
                 "name": "Pois chiches cuits",
                 "baseQty": 300,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "poivron_rouge",
@@ -60662,7 +61482,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Poivron rouge grillé",
                 "baseQty": 120,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫑",
+                "detail": ""
             },
             {
                 "id": "harissa",
@@ -60670,7 +61492,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Harissa",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "sauce_tahini",
@@ -60678,7 +61502,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Tahini",
                 "baseQty": 25,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "citron_jus",
@@ -60686,7 +61512,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Jus de citron",
                 "baseQty": 15,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍋",
+                "detail": ""
             },
             {
                 "id": "ail",
@@ -60694,7 +61522,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Gousse d'ail",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧄",
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -60702,7 +61532,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Huile d'olive",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫒",
+                "detail": ""
             }
         ],
         "steps": [
@@ -60734,16 +61566,18 @@ const RECIPES_DATA = [
                 "title": "Dosage harissa",
                 "text": "La harissa est très variable en intensité selon les marques. Goûtez toujours avant d'en ajouter plus."
             }
-        ]
+        ],
+        "name": "Houmous au poivron grillé et harissa",
+        "emoji": "🧆",
+        "subtitle": "Parfait pour l'apéro, léger et protéiné",
+        "sliderMin": 50,
+        "sliderMax": 200
     },
     {
         "id": "blinis-saumon-ricotta-citron",
         "category": "apero-partage",
-        "title": "Blinis au saumon fumé et ricotta citronnée",
-        "image": "blinis-saumon-ricotta-citron",
         "time": 20,
         "difficulty": "Facile",
-        "servings": 6,
         "tags": [
             "classique",
             "élégant",
@@ -60757,7 +61591,9 @@ const RECIPES_DATA = [
                 "role": "carb",
                 "name": "Farine complète",
                 "baseQty": 100,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "oeuf",
@@ -60765,7 +61601,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Œuf",
                 "baseQty": 1,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥚",
+                "detail": ""
             },
             {
                 "id": "lait",
@@ -60773,7 +61611,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Lait",
                 "baseQty": 100,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥛",
+                "detail": ""
             },
             {
                 "id": "saumon",
@@ -60781,7 +61621,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Saumon fumé",
                 "baseQty": 150,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🐟",
+                "detail": ""
             },
             {
                 "id": "ricotta",
@@ -60789,7 +61631,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Ricotta",
                 "baseQty": 100,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧀",
+                "detail": ""
             },
             {
                 "id": "citron_jus",
@@ -60797,7 +61641,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Jus de citron",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍋",
+                "detail": ""
             }
         ],
         "steps": [
@@ -60829,16 +61675,18 @@ const RECIPES_DATA = [
                 "title": "Taille",
                 "text": "Faites de petits blinis (5 cm de diamètre) pour une bouchée facile à manger debout."
             }
-        ]
+        ],
+        "name": "Blinis au saumon fumé et ricotta citronnée",
+        "emoji": "🐟",
+        "subtitle": "Parfait pour l'apéro, léger et protéiné",
+        "sliderMin": 50,
+        "sliderMax": 200
     },
     {
         "id": "edamame-grilles-sesame-soja",
         "category": "apero-partage",
-        "title": "Edamame grillés au sésame et soja",
-        "image": "edamame-grilles-sesame-soja",
         "time": 15,
         "difficulty": "Facile",
-        "servings": 4,
         "tags": [
             "vegan",
             "asiatique",
@@ -60852,7 +61700,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Edamame surgelés",
                 "baseQty": 400,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫛",
+                "detail": ""
             },
             {
                 "id": "sauce_soja",
@@ -60860,7 +61710,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Sauce soja",
                 "baseQty": 15,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫘",
+                "detail": ""
             },
             {
                 "id": "huile_sesame",
@@ -60868,7 +61720,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Huile de sésame",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫘",
+                "detail": ""
             },
             {
                 "id": "ail",
@@ -60876,7 +61730,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Ail émincé",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧄",
+                "detail": ""
             },
             {
                 "id": "gingembre",
@@ -60884,7 +61740,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Gingembre frais",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫚",
+                "detail": ""
             }
         ],
         "steps": [
@@ -60916,16 +61774,18 @@ const RECIPES_DATA = [
                 "title": "Sel",
                 "text": "Attention au sel : entre l'eau de cuisson et la sauce soja, il est facile de trop saler."
             }
-        ]
+        ],
+        "name": "Edamame grillés au sésame et soja",
+        "emoji": "🫛",
+        "subtitle": "Parfait pour l'apéro, léger et protéiné",
+        "sliderMin": 50,
+        "sliderMax": 200
     },
     {
         "id": "crostini-chevre-miel-noix-figues",
         "category": "apero-partage",
-        "title": "Crostini chèvre miel et noix",
-        "image": "crostini-chevre-miel-noix-figues",
         "time": 15,
         "difficulty": "Facile",
-        "servings": 6,
         "tags": [
             "végétarien",
             "sucré-salé",
@@ -60939,7 +61799,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Baguette de pain complet",
                 "baseQty": 200,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍞",
+                "detail": ""
             },
             {
                 "id": "chevre_frais",
@@ -60947,7 +61809,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Chèvre frais",
                 "baseQty": 150,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "miel",
@@ -60955,7 +61819,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Miel",
                 "baseQty": 25,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍯",
+                "detail": ""
             },
             {
                 "id": "noix",
@@ -60963,7 +61829,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Cerneaux de noix",
                 "baseQty": 40,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥜",
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -60971,7 +61839,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Huile d'olive",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫒",
+                "detail": ""
             }
         ],
         "steps": [
@@ -61003,13 +61873,16 @@ const RECIPES_DATA = [
                 "title": "Pain rassis",
                 "text": "Le pain ne doit pas être trop grillé sinon il sera trop dur et cassera quand on mord dedans."
             }
-        ]
+        ],
+        "name": "Crostini chèvre miel et noix",
+        "emoji": "🍞",
+        "subtitle": "Parfait pour l'apéro, léger et protéiné",
+        "sliderMin": 50,
+        "sliderMax": 200
     },
     {
         "id": "dhal-lentilles-epinards-coco",
         "category": "dejeuner",
-        "title": "Dhal de Lentilles aux Épinards et Lait de Coco",
-        "image": "dhal-lentilles-epinards-coco",
         "time": 35,
         "difficulty": "Facile",
         "tags": [
@@ -61026,7 +61899,9 @@ const RECIPES_DATA = [
                 "rawRatio": 2,
                 "name": "Lentilles corail (poids sec)",
                 "baseQty": 80,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫘",
+                "detail": ""
             },
             {
                 "id": "epinards",
@@ -61034,7 +61909,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Épinards frais",
                 "baseQty": 100,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "lait_coco",
@@ -61042,7 +61919,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Lait de coco",
                 "baseQty": 80,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥥",
+                "detail": ""
             },
             {
                 "id": "oignon",
@@ -61050,7 +61929,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Oignon",
                 "baseQty": 60,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧅",
+                "detail": ""
             },
             {
                 "id": "tomate",
@@ -61058,7 +61939,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Tomate concassée",
                 "baseQty": 100,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍅",
+                "detail": ""
             },
             {
                 "id": "ail",
@@ -61066,7 +61949,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Ail",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧄",
+                "detail": ""
             },
             {
                 "id": "gingembre",
@@ -61074,7 +61959,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Gingembre frais",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫚",
+                "detail": ""
             },
             {
                 "id": "pate_curry",
@@ -61082,7 +61969,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Pâte de curry",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "citron_jus",
@@ -61090,7 +61979,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Jus de citron",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍋",
+                "detail": ""
             },
             {
                 "id": "coriandre",
@@ -61098,7 +61989,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Coriandre fraîche",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🌿",
+                "detail": ""
             }
         ],
         "steps": [
@@ -61132,13 +62025,14 @@ const RECIPES_DATA = [
             }
         ],
         "sliderMin": 80,
-        "sliderMax": 150
+        "sliderMax": 150,
+        "name": "Dhal de Lentilles aux Épinards et Lait de Coco",
+        "emoji": "🍽️",
+        "subtitle": "Recette équilibrée avec lentilles corail (poids sec) et épinards frais"
     },
     {
         "id": "bo-bun-boeuf-menthe",
         "category": "dejeuner",
-        "title": "Bo Bun Vietnamien au Bœuf",
-        "image": "bo-bun-boeuf-menthe",
         "time": 25,
         "difficulty": "Moyen",
         "tags": [
@@ -61154,7 +62048,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Bœuf émincé",
                 "baseQty": 130,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "vermicelles_riz",
@@ -61162,7 +62058,9 @@ const RECIPES_DATA = [
                 "role": "carb",
                 "name": "Vermicelles de riz (poids cuit)",
                 "baseQty": 120,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "carotte",
@@ -61170,7 +62068,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Carotte râpée",
                 "baseQty": 60,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥕",
+                "detail": ""
             },
             {
                 "id": "concombre",
@@ -61178,7 +62078,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Concombre",
                 "baseQty": 60,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥒",
+                "detail": ""
             },
             {
                 "id": "salade_verte",
@@ -61186,7 +62088,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Salade verte",
                 "baseQty": 40,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "cacahuetes",
@@ -61194,7 +62098,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Cacahuètes concassées",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥜",
+                "detail": ""
             },
             {
                 "id": "coriandre",
@@ -61202,7 +62108,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Coriandre et menthe",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🌿",
+                "detail": ""
             },
             {
                 "id": "sauce_nuoc_mam",
@@ -61210,7 +62118,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Nuoc mam",
                 "baseQty": 15,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "citron_vert",
@@ -61218,7 +62128,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Citron vert",
                 "baseQty": 15,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍋",
+                "detail": ""
             },
             {
                 "id": "sauce_sriracha",
@@ -61226,7 +62138,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Sauce Sriracha",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🌶️",
+                "detail": ""
             },
             {
                 "id": "huile_sesame",
@@ -61234,7 +62148,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Huile de sésame",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫘",
+                "detail": ""
             }
         ],
         "steps": [
@@ -61268,13 +62184,14 @@ const RECIPES_DATA = [
             }
         ],
         "sliderMin": 80,
-        "sliderMax": 160
+        "sliderMax": 160,
+        "name": "Bo Bun Vietnamien au Bœuf",
+        "emoji": "🥩",
+        "subtitle": "Recette équilibrée avec bœuf émincé et vermicelles de riz (poids cuit)"
     },
     {
         "id": "paella-poulet-crevettes-light",
         "category": "dejeuner",
-        "title": "Paella Poulet & Crevettes Light",
-        "image": "paella-poulet-crevettes-light",
         "time": 45,
         "difficulty": "Avancé",
         "tags": [
@@ -61290,7 +62207,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Blancs de poulet émincés",
                 "baseQty": 100,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍗",
+                "detail": ""
             },
             {
                 "id": "crevettes",
@@ -61298,7 +62217,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Crevettes décortiquées",
                 "baseQty": 60,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "riz",
@@ -61307,7 +62228,9 @@ const RECIPES_DATA = [
                 "rawRatio": 2.25,
                 "name": "Riz (poids sec)",
                 "baseQty": 70,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "poivron_rouge",
@@ -61315,7 +62238,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Poivron rouge",
                 "baseQty": 60,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫑",
+                "detail": ""
             },
             {
                 "id": "petits_pois",
@@ -61323,7 +62248,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Petits pois",
                 "baseQty": 50,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "tomate",
@@ -61331,7 +62258,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Tomate",
                 "baseQty": 80,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍅",
+                "detail": ""
             },
             {
                 "id": "oignon",
@@ -61339,7 +62268,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Oignon",
                 "baseQty": 50,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧅",
+                "detail": ""
             },
             {
                 "id": "ail",
@@ -61347,7 +62278,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Ail",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧄",
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -61355,7 +62288,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Huile d'olive",
                 "baseQty": 8,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫒",
+                "detail": ""
             },
             {
                 "id": "citron_jus",
@@ -61363,7 +62298,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Jus de citron",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍋",
+                "detail": ""
             }
         ],
         "steps": [
@@ -61397,13 +62334,14 @@ const RECIPES_DATA = [
             }
         ],
         "sliderMin": 70,
-        "sliderMax": 160
+        "sliderMax": 160,
+        "name": "Paella Poulet & Crevettes Light",
+        "emoji": "🦐",
+        "subtitle": "Recette équilibrée avec blancs de poulet émincés et crevettes décortiquées"
     },
     {
         "id": "moussaka-legere-aubergine",
         "category": "dejeuner",
-        "title": "Moussaka Légère à l'Aubergine",
-        "image": "moussaka-legere-aubergine",
         "time": 50,
         "difficulty": "Avancé",
         "tags": [
@@ -61419,7 +62357,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Bœuf haché 5%",
                 "baseQty": 130,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥩",
+                "detail": ""
             },
             {
                 "id": "aubergine",
@@ -61427,7 +62367,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Aubergine",
                 "baseQty": 200,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍆",
+                "detail": ""
             },
             {
                 "id": "pomme_de_terre",
@@ -61436,7 +62378,9 @@ const RECIPES_DATA = [
                 "rawRatio": 1,
                 "name": "Pomme de terre",
                 "baseQty": 100,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "sauce_tomate",
@@ -61444,7 +62388,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Sauce tomate",
                 "baseQty": 80,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "oignon",
@@ -61452,7 +62398,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Oignon",
                 "baseQty": 50,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧅",
+                "detail": ""
             },
             {
                 "id": "fromage_rape",
@@ -61460,7 +62408,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Fromage râpé",
                 "baseQty": 15,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "yaourt_grec",
@@ -61468,7 +62418,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Yaourt grec (béchamel légère)",
                 "baseQty": 40,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥛",
+                "detail": ""
             },
             {
                 "id": "ail",
@@ -61476,7 +62428,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Ail",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧄",
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -61484,7 +62438,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Huile d'olive",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫒",
+                "detail": ""
             }
         ],
         "steps": [
@@ -61518,13 +62474,14 @@ const RECIPES_DATA = [
             }
         ],
         "sliderMin": 70,
-        "sliderMax": 150
+        "sliderMax": 150,
+        "name": "Moussaka Légère à l'Aubergine",
+        "emoji": "🍆",
+        "subtitle": "Recette équilibrée avec bœuf haché 5% et aubergine"
     },
     {
         "id": "gratin-pates-poulet-brocoli-v2",
         "category": "dejeuner",
-        "title": "Gratin de Pâtes au Poulet et Brocoli",
-        "image": "gratin-pates-poulet-brocoli-v2",
         "time": 35,
         "difficulty": "Facile",
         "tags": [
@@ -61540,7 +62497,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Poulet émincé",
                 "baseQty": 130,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍗",
+                "detail": ""
             },
             {
                 "id": "pates",
@@ -61549,7 +62508,9 @@ const RECIPES_DATA = [
                 "rawRatio": 2.5,
                 "name": "Pâtes (poids sec)",
                 "baseQty": 70,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍝",
+                "detail": ""
             },
             {
                 "id": "brocoli",
@@ -61557,7 +62518,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Brocoli en fleurettes",
                 "baseQty": 120,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥦",
+                "detail": ""
             },
             {
                 "id": "creme_legere",
@@ -61565,7 +62528,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Crème légère",
                 "baseQty": 40,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "fromage_rape",
@@ -61573,7 +62538,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Fromage râpé",
                 "baseQty": 20,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "moutarde",
@@ -61581,7 +62548,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Moutarde de Dijon",
                 "baseQty": 8,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🟡",
+                "detail": ""
             },
             {
                 "id": "ail",
@@ -61589,7 +62558,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Ail",
                 "baseQty": 3,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧄",
+                "detail": ""
             }
         ],
         "steps": [
@@ -61623,13 +62594,14 @@ const RECIPES_DATA = [
             }
         ],
         "sliderMin": 70,
-        "sliderMax": 160
+        "sliderMax": 160,
+        "name": "Gratin de Pâtes au Poulet et Brocoli",
+        "emoji": "🍗",
+        "subtitle": "Recette équilibrée avec poulet émincé et pâtes (poids sec)"
     },
     {
         "id": "poulet-roti-legumes-herbes",
         "category": "dejeuner",
-        "title": "Poulet Rôti aux Légumes et Herbes",
-        "image": "poulet-roti-legumes-herbes",
         "time": 40,
         "difficulty": "Facile",
         "tags": [
@@ -61645,7 +62617,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Haut de cuisse de poulet",
                 "baseQty": 150,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍗",
+                "detail": ""
             },
             {
                 "id": "pomme_de_terre",
@@ -61654,7 +62628,9 @@ const RECIPES_DATA = [
                 "rawRatio": 1,
                 "name": "Pommes de terre",
                 "baseQty": 120,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "carotte",
@@ -61662,7 +62638,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Carottes",
                 "baseQty": 80,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥕",
+                "detail": ""
             },
             {
                 "id": "courgette",
@@ -61670,7 +62648,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Courgette",
                 "baseQty": 80,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥒",
+                "detail": ""
             },
             {
                 "id": "oignon",
@@ -61678,7 +62658,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Oignon",
                 "baseQty": 50,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧅",
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -61686,7 +62668,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Huile d'olive",
                 "baseQty": 8,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫒",
+                "detail": ""
             },
             {
                 "id": "ail",
@@ -61694,7 +62678,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Ail",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧄",
+                "detail": ""
             },
             {
                 "id": "moutarde",
@@ -61702,7 +62688,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Moutarde",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🟡",
+                "detail": ""
             },
             {
                 "id": "citron_jus",
@@ -61710,7 +62698,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Jus de citron",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍋",
+                "detail": ""
             }
         ],
         "steps": [
@@ -61744,13 +62734,14 @@ const RECIPES_DATA = [
             }
         ],
         "sliderMin": 70,
-        "sliderMax": 160
+        "sliderMax": 160,
+        "name": "Poulet Rôti aux Légumes et Herbes",
+        "emoji": "🍗",
+        "subtitle": "Recette équilibrée avec haut de cuisse de poulet et pommes de terre"
     },
     {
         "id": "saumon-gravlax-bowl-avocat",
         "category": "dejeuner",
-        "title": "Saumon Gravlax Bowl à l'Avocat",
-        "image": "saumon-gravlax-bowl-avocat",
         "time": 15,
         "difficulty": "Facile",
         "tags": [
@@ -61766,7 +62757,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Saumon frais (gravlax ou fumé)",
                 "baseQty": 120,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🐟",
+                "detail": ""
             },
             {
                 "id": "riz",
@@ -61775,7 +62768,9 @@ const RECIPES_DATA = [
                 "rawRatio": 2.25,
                 "name": "Riz (poids sec)",
                 "baseQty": 65,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "avocat",
@@ -61783,7 +62778,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Avocat",
                 "baseQty": 50,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥑",
+                "detail": ""
             },
             {
                 "id": "concombre",
@@ -61791,7 +62788,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Concombre",
                 "baseQty": 60,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥒",
+                "detail": ""
             },
             {
                 "id": "edamame",
@@ -61799,7 +62798,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Edamame",
                 "baseQty": 40,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫛",
+                "detail": ""
             },
             {
                 "id": "radis",
@@ -61807,7 +62808,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Radis",
                 "baseQty": 30,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "sauce_soja",
@@ -61815,7 +62818,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Sauce soja",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫘",
+                "detail": ""
             },
             {
                 "id": "huile_sesame",
@@ -61823,7 +62828,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Huile de sésame",
                 "baseQty": 3,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫘",
+                "detail": ""
             },
             {
                 "id": "citron_jus",
@@ -61831,7 +62838,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Jus de citron",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍋",
+                "detail": ""
             },
             {
                 "id": "gingembre",
@@ -61839,7 +62848,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Gingembre frais râpé",
                 "baseQty": 3,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫚",
+                "detail": ""
             }
         ],
         "steps": [
@@ -61873,13 +62884,14 @@ const RECIPES_DATA = [
             }
         ],
         "sliderMin": 70,
-        "sliderMax": 150
+        "sliderMax": 150,
+        "name": "Saumon Gravlax Bowl à l'Avocat",
+        "emoji": "🐟",
+        "subtitle": "Recette équilibrée avec saumon frais (gravlax ou fumé) et riz (poids sec)"
     },
     {
         "id": "tofu-general-tao-riz",
         "category": "dejeuner",
-        "title": "Tofu Général Tao et Riz",
-        "image": "tofu-general-tao-riz",
         "time": 30,
         "difficulty": "Moyen",
         "tags": [
@@ -61895,7 +62907,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Tofu ferme",
                 "baseQty": 180,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫧",
+                "detail": ""
             },
             {
                 "id": "riz",
@@ -61904,7 +62918,9 @@ const RECIPES_DATA = [
                 "rawRatio": 2.25,
                 "name": "Riz (poids sec)",
                 "baseQty": 65,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "brocoli",
@@ -61912,7 +62928,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Brocoli",
                 "baseQty": 100,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥦",
+                "detail": ""
             },
             {
                 "id": "farine",
@@ -61920,7 +62938,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Farine (pour enrober)",
                 "baseQty": 15,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🌾",
+                "detail": ""
             },
             {
                 "id": "sauce_soja",
@@ -61928,7 +62948,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Sauce soja",
                 "baseQty": 15,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫘",
+                "detail": ""
             },
             {
                 "id": "miel",
@@ -61936,7 +62958,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Miel",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍯",
+                "detail": ""
             },
             {
                 "id": "vinaigre_balsamique",
@@ -61944,7 +62968,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Vinaigre",
                 "baseQty": 8,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "sauce_sriracha",
@@ -61952,7 +62978,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Sriracha",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🌶️",
+                "detail": ""
             },
             {
                 "id": "ail",
@@ -61960,7 +62988,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Ail",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧄",
+                "detail": ""
             },
             {
                 "id": "gingembre",
@@ -61968,7 +62998,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Gingembre",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫚",
+                "detail": ""
             },
             {
                 "id": "huile_sesame",
@@ -61976,7 +63008,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Huile de sésame",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫘",
+                "detail": ""
             }
         ],
         "steps": [
@@ -62010,13 +63044,14 @@ const RECIPES_DATA = [
             }
         ],
         "sliderMin": 70,
-        "sliderMax": 160
+        "sliderMax": 160,
+        "name": "Tofu Général Tao et Riz",
+        "emoji": "🍚",
+        "subtitle": "Recette équilibrée avec tofu ferme et riz (poids sec)"
     },
     {
         "id": "poke-bowl-thon-sesame-frais",
         "category": "dejeuner",
-        "title": "Poke Bowl au Thon Frais et Sésame",
-        "image": "poke-bowl-thon-sesame-frais",
         "time": 15,
         "difficulty": "Facile",
         "tags": [
@@ -62032,7 +63067,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Thon frais (qualité sashimi)",
                 "baseQty": 130,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🐟",
+                "detail": ""
             },
             {
                 "id": "riz",
@@ -62041,7 +63078,9 @@ const RECIPES_DATA = [
                 "rawRatio": 2.25,
                 "name": "Riz (poids sec)",
                 "baseQty": 65,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "avocat",
@@ -62049,7 +63088,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Avocat",
                 "baseQty": 40,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥑",
+                "detail": ""
             },
             {
                 "id": "concombre",
@@ -62057,7 +63098,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Concombre",
                 "baseQty": 60,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥒",
+                "detail": ""
             },
             {
                 "id": "edamame",
@@ -62065,7 +63108,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Edamame",
                 "baseQty": 40,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫛",
+                "detail": ""
             },
             {
                 "id": "carotte",
@@ -62073,7 +63118,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Carotte râpée",
                 "baseQty": 40,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥕",
+                "detail": ""
             },
             {
                 "id": "sauce_soja",
@@ -62081,7 +63128,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Sauce soja",
                 "baseQty": 12,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫘",
+                "detail": ""
             },
             {
                 "id": "huile_sesame",
@@ -62089,7 +63138,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Huile de sésame",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫘",
+                "detail": ""
             },
             {
                 "id": "citron_vert",
@@ -62097,7 +63148,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Jus de citron vert",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍋",
+                "detail": ""
             },
             {
                 "id": "gingembre",
@@ -62105,7 +63158,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Gingembre râpé",
                 "baseQty": 3,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫚",
+                "detail": ""
             }
         ],
         "steps": [
@@ -62139,13 +63194,14 @@ const RECIPES_DATA = [
             }
         ],
         "sliderMin": 70,
-        "sliderMax": 150
+        "sliderMax": 150,
+        "name": "Poke Bowl au Thon Frais et Sésame",
+        "emoji": "🐟",
+        "subtitle": "Recette équilibrée avec thon frais (qualité sashimi) et riz (poids sec)"
     },
     {
         "id": "chana-masala-pois-chiches",
         "category": "dejeuner",
-        "title": "Chana Masala aux Pois Chiches",
-        "image": "chana-masala-pois-chiches",
         "time": 30,
         "difficulty": "Facile",
         "tags": [
@@ -62161,7 +63217,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Pois chiches cuits",
                 "baseQty": 200,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "riz",
@@ -62170,7 +63228,9 @@ const RECIPES_DATA = [
                 "rawRatio": 2.25,
                 "name": "Riz (poids sec)",
                 "baseQty": 60,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "tomate",
@@ -62178,7 +63238,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Tomate concassée",
                 "baseQty": 150,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍅",
+                "detail": ""
             },
             {
                 "id": "oignon",
@@ -62186,7 +63248,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Oignon",
                 "baseQty": 60,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧅",
+                "detail": ""
             },
             {
                 "id": "ail",
@@ -62194,7 +63258,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Ail",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧄",
+                "detail": ""
             },
             {
                 "id": "gingembre",
@@ -62202,7 +63268,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Gingembre frais",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫚",
+                "detail": ""
             },
             {
                 "id": "pate_curry",
@@ -62210,7 +63278,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Pâte de curry",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -62218,7 +63288,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Huile d'olive",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫒",
+                "detail": ""
             },
             {
                 "id": "citron_jus",
@@ -62226,7 +63298,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Jus de citron",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍋",
+                "detail": ""
             },
             {
                 "id": "coriandre",
@@ -62234,7 +63308,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Coriandre fraîche",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🌿",
+                "detail": ""
             }
         ],
         "steps": [
@@ -62268,13 +63344,14 @@ const RECIPES_DATA = [
             }
         ],
         "sliderMin": 70,
-        "sliderMax": 160
+        "sliderMax": 160,
+        "name": "Chana Masala aux Pois Chiches",
+        "emoji": "🧆",
+        "subtitle": "Recette équilibrée avec pois chiches cuits et riz (poids sec)"
     },
     {
         "id": "pasta-pesto-poulet-tomates",
         "category": "dejeuner",
-        "title": "Pasta al Pesto, Poulet et Tomates Cerises",
-        "image": "pasta-pesto-poulet-tomates",
         "time": 20,
         "difficulty": "Facile",
         "tags": [
@@ -62290,7 +63367,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Poulet grillé",
                 "baseQty": 130,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "pates",
@@ -62299,7 +63378,9 @@ const RECIPES_DATA = [
                 "rawRatio": 2.5,
                 "name": "Pâtes (poids sec)",
                 "baseQty": 75,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍝",
+                "detail": ""
             },
             {
                 "id": "pesto",
@@ -62307,7 +63388,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Pesto",
                 "baseQty": 20,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "tomate",
@@ -62315,7 +63398,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Tomates cerises",
                 "baseQty": 80,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍅",
+                "detail": ""
             },
             {
                 "id": "epinards",
@@ -62323,7 +63408,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Pousses d'épinards",
                 "baseQty": 40,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "parmesan",
@@ -62331,7 +63418,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Parmesan râpé",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧀",
+                "detail": ""
             },
             {
                 "id": "ail",
@@ -62339,7 +63428,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Ail",
                 "baseQty": 3,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧄",
+                "detail": ""
             },
             {
                 "id": "citron_jus",
@@ -62347,7 +63438,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Jus de citron",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍋",
+                "detail": ""
             }
         ],
         "steps": [
@@ -62381,13 +63474,14 @@ const RECIPES_DATA = [
             }
         ],
         "sliderMin": 70,
-        "sliderMax": 150
+        "sliderMax": 150,
+        "name": "Pasta al Pesto, Poulet et Tomates Cerises",
+        "emoji": "🍗",
+        "subtitle": "Recette équilibrée avec poulet grillé et pâtes (poids sec)"
     },
     {
         "id": "boeuf-bourguignon-express",
         "category": "dejeuner",
-        "title": "Bœuf Bourguignon Express Light",
-        "image": "boeuf-bourguignon-express",
         "time": 50,
         "difficulty": "Avancé",
         "tags": [
@@ -62403,7 +63497,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Bœuf à braiser émincé fin",
                 "baseQty": 150,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "pomme_de_terre",
@@ -62412,7 +63508,9 @@ const RECIPES_DATA = [
                 "rawRatio": 1,
                 "name": "Pommes de terre",
                 "baseQty": 120,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "carotte",
@@ -62420,7 +63518,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Carottes",
                 "baseQty": 80,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥕",
+                "detail": ""
             },
             {
                 "id": "champignon",
@@ -62428,7 +63528,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Champignons de Paris",
                 "baseQty": 80,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍄",
+                "detail": ""
             },
             {
                 "id": "oignon",
@@ -62436,7 +63538,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Oignon",
                 "baseQty": 50,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧅",
+                "detail": ""
             },
             {
                 "id": "concentre_tomate",
@@ -62444,7 +63548,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Concentré de tomate",
                 "baseQty": 15,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍅",
+                "detail": ""
             },
             {
                 "id": "ail",
@@ -62452,7 +63558,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Ail",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧄",
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -62460,7 +63568,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Huile d'olive",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫒",
+                "detail": ""
             },
             {
                 "id": "moutarde",
@@ -62468,7 +63578,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Moutarde de Dijon",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🟡",
+                "detail": ""
             }
         ],
         "steps": [
@@ -62502,13 +63614,14 @@ const RECIPES_DATA = [
             }
         ],
         "sliderMin": 70,
-        "sliderMax": 150
+        "sliderMax": 150,
+        "name": "Bœuf Bourguignon Express Light",
+        "emoji": "🥩",
+        "subtitle": "Recette équilibrée avec bœuf à braiser émincé fin et pommes de terre"
     },
     {
         "id": "burrito-bowl-poulet-haricots",
         "category": "dejeuner",
-        "title": "Burrito Bowl Poulet et Haricots Noirs",
-        "image": "burrito-bowl-poulet-haricots",
         "time": 25,
         "difficulty": "Facile",
         "tags": [
@@ -62524,7 +63637,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Poulet grillé",
                 "baseQty": 120,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "riz",
@@ -62533,7 +63648,9 @@ const RECIPES_DATA = [
                 "rawRatio": 2.25,
                 "name": "Riz (poids sec)",
                 "baseQty": 60,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "haricots_noirs",
@@ -62541,7 +63658,9 @@ const RECIPES_DATA = [
                 "role": "carb",
                 "name": "Haricots noirs",
                 "baseQty": 60,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫘",
+                "detail": ""
             },
             {
                 "id": "poivron_rouge",
@@ -62549,7 +63668,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Poivron rouge",
                 "baseQty": 60,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫑",
+                "detail": ""
             },
             {
                 "id": "mais_conserve",
@@ -62557,7 +63678,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Maïs",
                 "baseQty": 40,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "tomate",
@@ -62565,7 +63688,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Tomate en dés",
                 "baseQty": 60,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍅",
+                "detail": ""
             },
             {
                 "id": "salade_verte",
@@ -62573,7 +63698,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Salade verte",
                 "baseQty": 30,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "avocat",
@@ -62581,7 +63708,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Avocat",
                 "baseQty": 30,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥑",
+                "detail": ""
             },
             {
                 "id": "citron_vert",
@@ -62589,7 +63718,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Citron vert",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍋",
+                "detail": ""
             },
             {
                 "id": "sauce_sriracha",
@@ -62597,7 +63728,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Sauce sriracha",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🌶️",
+                "detail": ""
             }
         ],
         "steps": [
@@ -62631,13 +63764,14 @@ const RECIPES_DATA = [
             }
         ],
         "sliderMin": 70,
-        "sliderMax": 160
+        "sliderMax": 160,
+        "name": "Burrito Bowl Poulet et Haricots Noirs",
+        "emoji": "🍗",
+        "subtitle": "Recette équilibrée avec poulet grillé et riz (poids sec)"
     },
     {
         "id": "chicken-parmesan-light",
         "category": "dejeuner",
-        "title": "Chicken Parmesan Light",
-        "image": "chicken-parmesan-light",
         "time": 35,
         "difficulty": "Moyen",
         "tags": [
@@ -62653,7 +63787,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Escalope de poulet",
                 "baseQty": 150,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍗",
+                "detail": ""
             },
             {
                 "id": "pates",
@@ -62662,7 +63798,9 @@ const RECIPES_DATA = [
                 "rawRatio": 2.5,
                 "name": "Pâtes (poids sec)",
                 "baseQty": 65,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍝",
+                "detail": ""
             },
             {
                 "id": "sauce_tomate",
@@ -62670,7 +63808,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Sauce tomate",
                 "baseQty": 80,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "mozzarella",
@@ -62678,7 +63818,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Mozzarella",
                 "baseQty": 30,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧀",
+                "detail": ""
             },
             {
                 "id": "parmesan",
@@ -62686,7 +63828,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Parmesan râpé",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧀",
+                "detail": ""
             },
             {
                 "id": "flocons_avoine",
@@ -62694,7 +63838,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Flocons d'avoine (panure)",
                 "baseQty": 15,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🌾",
+                "detail": ""
             },
             {
                 "id": "oeuf",
@@ -62702,7 +63848,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Œuf (pour panure)",
                 "baseQty": 1,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥚",
+                "detail": ""
             },
             {
                 "id": "ail",
@@ -62710,7 +63858,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Ail",
                 "baseQty": 3,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧄",
+                "detail": ""
             }
         ],
         "steps": [
@@ -62744,13 +63894,14 @@ const RECIPES_DATA = [
             }
         ],
         "sliderMin": 70,
-        "sliderMax": 150
+        "sliderMax": 150,
+        "name": "Chicken Parmesan Light",
+        "emoji": "🍽️",
+        "subtitle": "Recette équilibrée avec escalope de poulet et pâtes (poids sec)"
     },
     {
         "id": "crevettes-ail-spaghetti-citron",
         "category": "dejeuner",
-        "title": "Crevettes à l'Ail, Spaghetti et Citron",
-        "image": "crevettes-ail-spaghetti-citron",
         "time": 20,
         "difficulty": "Facile",
         "tags": [
@@ -62766,7 +63917,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Crevettes décortiquées",
                 "baseQty": 150,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "pates",
@@ -62775,7 +63928,9 @@ const RECIPES_DATA = [
                 "rawRatio": 2.5,
                 "name": "Spaghetti (poids sec)",
                 "baseQty": 75,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍝",
+                "detail": ""
             },
             {
                 "id": "courgette",
@@ -62783,7 +63938,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Courgette en rubans",
                 "baseQty": 80,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥒",
+                "detail": ""
             },
             {
                 "id": "tomate",
@@ -62791,7 +63948,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Tomates cerises",
                 "baseQty": 60,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍅",
+                "detail": ""
             },
             {
                 "id": "ail",
@@ -62799,7 +63958,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Ail",
                 "baseQty": 8,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧄",
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -62807,7 +63968,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Huile d'olive",
                 "baseQty": 8,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫒",
+                "detail": ""
             },
             {
                 "id": "citron_jus",
@@ -62815,7 +63978,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Jus de citron",
                 "baseQty": 15,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍋",
+                "detail": ""
             },
             {
                 "id": "pesto",
@@ -62823,7 +63988,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Pesto (optionnel)",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             }
         ],
         "steps": [
@@ -62857,13 +64024,14 @@ const RECIPES_DATA = [
             }
         ],
         "sliderMin": 70,
-        "sliderMax": 160
+        "sliderMax": 160,
+        "name": "Crevettes à l'Ail, Spaghetti et Citron",
+        "emoji": "🦐",
+        "subtitle": "Recette équilibrée avec crevettes décortiquées et spaghetti (poids sec)"
     },
     {
         "id": "fish-chips-cabillaud-light",
         "category": "dejeuner",
-        "title": "Fish and Chips Light au Cabillaud",
-        "image": "fish-chips-cabillaud-light",
         "time": 35,
         "difficulty": "Moyen",
         "tags": [
@@ -62879,7 +64047,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Filet de cabillaud",
                 "baseQty": 150,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🐟",
+                "detail": ""
             },
             {
                 "id": "pomme_de_terre",
@@ -62888,7 +64058,9 @@ const RECIPES_DATA = [
                 "rawRatio": 1,
                 "name": "Pommes de terre (frites maison)",
                 "baseQty": 150,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "flocons_avoine",
@@ -62896,7 +64068,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Flocons d'avoine (panure)",
                 "baseQty": 20,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🌾",
+                "detail": ""
             },
             {
                 "id": "oeuf",
@@ -62904,7 +64078,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Œuf (pour panure)",
                 "baseQty": 1,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥚",
+                "detail": ""
             },
             {
                 "id": "petits_pois",
@@ -62912,7 +64088,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Petits pois (mushy peas)",
                 "baseQty": 60,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "citron_jus",
@@ -62920,7 +64098,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Jus de citron",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍋",
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -62928,7 +64108,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Huile d'olive",
                 "baseQty": 8,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫒",
+                "detail": ""
             },
             {
                 "id": "moutarde",
@@ -62936,7 +64118,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Moutarde",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🟡",
+                "detail": ""
             }
         ],
         "steps": [
@@ -62970,13 +64154,14 @@ const RECIPES_DATA = [
             }
         ],
         "sliderMin": 70,
-        "sliderMax": 160
+        "sliderMax": 160,
+        "name": "Fish and Chips Light au Cabillaud",
+        "emoji": "🐟",
+        "subtitle": "Recette équilibrée avec filet de cabillaud et pommes de terre (frites maison)"
     },
     {
         "id": "nouilles-soba-froides-tofu-sesame",
         "category": "dejeuner",
-        "title": "Nouilles Soba Froides au Tofu et Sésame",
-        "image": "nouilles-soba-froides-tofu-sesame",
         "time": 15,
         "difficulty": "Facile",
         "tags": [
@@ -62992,7 +64177,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Tofu ferme",
                 "baseQty": 150,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫧",
+                "detail": ""
             },
             {
                 "id": "nouilles_soba_cuites",
@@ -63000,7 +64187,9 @@ const RECIPES_DATA = [
                 "role": "carb",
                 "name": "Nouilles soba cuites",
                 "baseQty": 160,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "concombre",
@@ -63008,7 +64197,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Concombre",
                 "baseQty": 60,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥒",
+                "detail": ""
             },
             {
                 "id": "carotte",
@@ -63016,7 +64207,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Carotte râpée",
                 "baseQty": 50,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥕",
+                "detail": ""
             },
             {
                 "id": "edamame",
@@ -63024,7 +64217,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Edamame",
                 "baseQty": 40,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫛",
+                "detail": ""
             },
             {
                 "id": "sauce_soja",
@@ -63032,7 +64227,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Sauce soja",
                 "baseQty": 15,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫘",
+                "detail": ""
             },
             {
                 "id": "sauce_tahini",
@@ -63040,7 +64237,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Sauce tahini",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "huile_sesame",
@@ -63048,7 +64247,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Huile de sésame",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫘",
+                "detail": ""
             },
             {
                 "id": "citron_vert",
@@ -63056,7 +64257,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Citron vert",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍋",
+                "detail": ""
             },
             {
                 "id": "gingembre",
@@ -63064,7 +64267,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Gingembre râpé",
                 "baseQty": 3,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫚",
+                "detail": ""
             }
         ],
         "steps": [
@@ -63098,13 +64303,14 @@ const RECIPES_DATA = [
             }
         ],
         "sliderMin": 70,
-        "sliderMax": 150
+        "sliderMax": 150,
+        "name": "Nouilles Soba Froides au Tofu et Sésame",
+        "emoji": "🍽️",
+        "subtitle": "Recette équilibrée avec tofu ferme et nouilles soba cuites"
     },
     {
         "id": "riz-poulet-one-pot-legumes",
         "category": "dejeuner",
-        "title": "Riz au Poulet One-Pot aux Légumes",
-        "image": "riz-poulet-one-pot-legumes",
         "time": 30,
         "difficulty": "Facile",
         "tags": [
@@ -63120,7 +64326,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Blancs de poulet",
                 "baseQty": 140,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍗",
+                "detail": ""
             },
             {
                 "id": "riz",
@@ -63129,7 +64337,9 @@ const RECIPES_DATA = [
                 "rawRatio": 2.25,
                 "name": "Riz (poids sec)",
                 "baseQty": 70,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "poivron_rouge",
@@ -63137,7 +64347,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Poivron rouge",
                 "baseQty": 60,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫑",
+                "detail": ""
             },
             {
                 "id": "courgette",
@@ -63145,7 +64357,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Courgette",
                 "baseQty": 80,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥒",
+                "detail": ""
             },
             {
                 "id": "petits_pois",
@@ -63153,7 +64367,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Petits pois",
                 "baseQty": 50,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "oignon",
@@ -63161,7 +64377,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Oignon",
                 "baseQty": 40,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧅",
+                "detail": ""
             },
             {
                 "id": "concentre_tomate",
@@ -63169,7 +64387,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Concentré de tomate",
                 "baseQty": 15,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍅",
+                "detail": ""
             },
             {
                 "id": "ail",
@@ -63177,7 +64397,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Ail",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧄",
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -63185,7 +64407,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Huile d'olive",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫒",
+                "detail": ""
             },
             {
                 "id": "citron_jus",
@@ -63193,7 +64417,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Jus de citron",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍋",
+                "detail": ""
             }
         ],
         "steps": [
@@ -63227,13 +64453,14 @@ const RECIPES_DATA = [
             }
         ],
         "sliderMin": 70,
-        "sliderMax": 160
+        "sliderMax": 160,
+        "name": "Riz au Poulet One-Pot aux Légumes",
+        "emoji": "🍗",
+        "subtitle": "Recette équilibrée avec blancs de poulet et riz (poids sec)"
     },
     {
         "id": "salade-cesar-poulet-parmesan",
         "category": "dejeuner",
-        "title": "Salade César Poulet et Parmesan",
-        "image": "salade-cesar-poulet-parmesan",
         "time": 20,
         "difficulty": "Facile",
         "tags": [
@@ -63249,7 +64476,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Poulet grillé",
                 "baseQty": 140,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "salade",
@@ -63257,7 +64486,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Laitue romaine",
                 "baseQty": 100,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥬",
+                "detail": ""
             },
             {
                 "id": "pain_complet",
@@ -63265,7 +64496,9 @@ const RECIPES_DATA = [
                 "role": "carb",
                 "name": "Pain complet (croûtons)",
                 "baseQty": 30,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍞",
+                "detail": ""
             },
             {
                 "id": "parmesan",
@@ -63273,7 +64506,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Parmesan en copeaux",
                 "baseQty": 15,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧀",
+                "detail": ""
             },
             {
                 "id": "yaourt_grec",
@@ -63281,7 +64516,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Yaourt grec (base sauce)",
                 "baseQty": 30,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥛",
+                "detail": ""
             },
             {
                 "id": "moutarde",
@@ -63289,7 +64526,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Moutarde de Dijon",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🟡",
+                "detail": ""
             },
             {
                 "id": "citron_jus",
@@ -63297,7 +64536,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Jus de citron",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍋",
+                "detail": ""
             },
             {
                 "id": "ail",
@@ -63305,7 +64546,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Ail",
                 "baseQty": 2,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧄",
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -63313,7 +64556,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Huile d'olive",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫒",
+                "detail": ""
             }
         ],
         "steps": [
@@ -63347,13 +64592,14 @@ const RECIPES_DATA = [
             }
         ],
         "sliderMin": 60,
-        "sliderMax": 150
+        "sliderMax": 150,
+        "name": "Salade César Poulet et Parmesan",
+        "emoji": "🍗",
+        "subtitle": "Recette équilibrée avec poulet grillé et laitue romaine"
     },
     {
         "id": "wrap-mediterraneen-houmous-poulet",
         "category": "dejeuner",
-        "title": "Wrap Méditerranéen Houmous et Poulet",
-        "image": "wrap-mediterraneen-houmous-poulet",
         "time": 15,
         "difficulty": "Facile",
         "tags": [
@@ -63369,7 +64615,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Poulet grillé",
                 "baseQty": 120,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "tortilla_ble",
@@ -63377,7 +64625,9 @@ const RECIPES_DATA = [
                 "role": "carb",
                 "name": "Tortilla de blé",
                 "baseQty": 1,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "pois_chiches_cuits",
@@ -63385,7 +64635,9 @@ const RECIPES_DATA = [
                 "role": "carb",
                 "name": "Houmous (pois chiches écrasés)",
                 "baseQty": 40,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "sauce_tahini",
@@ -63393,7 +64645,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Tahini",
                 "baseQty": 8,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "tomate",
@@ -63401,7 +64655,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Tomate",
                 "baseQty": 50,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍅",
+                "detail": ""
             },
             {
                 "id": "concombre",
@@ -63409,7 +64665,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Concombre",
                 "baseQty": 50,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥒",
+                "detail": ""
             },
             {
                 "id": "salade_verte",
@@ -63417,7 +64675,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Salade verte",
                 "baseQty": 20,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "oignon",
@@ -63425,7 +64685,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Oignon rouge",
                 "baseQty": 20,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧅",
+                "detail": ""
             },
             {
                 "id": "citron_jus",
@@ -63433,7 +64695,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Jus de citron",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍋",
+                "detail": ""
             },
             {
                 "id": "feta",
@@ -63441,7 +64705,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Feta émiettée",
                 "baseQty": 15,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧀",
+                "detail": ""
             }
         ],
         "steps": [
@@ -63475,7 +64741,10 @@ const RECIPES_DATA = [
             }
         ],
         "sliderMin": 70,
-        "sliderMax": 150
+        "sliderMax": 150,
+        "name": "Wrap Méditerranéen Houmous et Poulet",
+        "emoji": "🍗",
+        "subtitle": "Recette équilibrée avec poulet grillé et tortilla de blé"
     },
     {
         "id": "soupe-butternut-crevettes",
@@ -63498,7 +64767,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "protein",
                 "baseQty": 150,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "patate_douce_cuite",
@@ -63506,7 +64777,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "carb",
                 "baseQty": 200,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "lait_coco",
@@ -63514,7 +64787,9 @@ const RECIPES_DATA = [
                 "unit": "ml",
                 "role": "fat",
                 "baseQty": 50,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥥",
+                "detail": ""
             },
             {
                 "id": "oignon",
@@ -63522,7 +64797,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 50,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧅",
+                "detail": ""
             },
             {
                 "id": "gingembre",
@@ -63530,7 +64807,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫚",
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -63538,7 +64817,9 @@ const RECIPES_DATA = [
                 "unit": "ml",
                 "role": "fat",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫒",
+                "detail": ""
             }
         ],
         "options": [
@@ -63597,7 +64878,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "protein",
                 "baseQty": 150,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "couscous_cuit",
@@ -63606,7 +64889,9 @@ const RECIPES_DATA = [
                 "role": "carb",
                 "rawRatio": 2.5,
                 "baseQty": 150,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "courgette",
@@ -63614,7 +64899,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 100,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥒",
+                "detail": ""
             },
             {
                 "id": "carotte",
@@ -63622,7 +64909,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 80,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥕",
+                "detail": ""
             },
             {
                 "id": "tomate",
@@ -63630,7 +64919,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 100,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍅",
+                "detail": ""
             },
             {
                 "id": "oignon",
@@ -63638,7 +64929,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 50,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧅",
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -63646,7 +64939,9 @@ const RECIPES_DATA = [
                 "unit": "ml",
                 "role": "fat",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫒",
+                "detail": ""
             }
         ],
         "options": [
@@ -63705,7 +65000,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "protein",
                 "baseQty": 100,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧀",
+                "detail": ""
             },
             {
                 "id": "feuilles_lasagne",
@@ -63713,7 +65010,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "carb",
                 "baseQty": 80,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "courgette",
@@ -63721,7 +65020,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 120,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥒",
+                "detail": ""
             },
             {
                 "id": "aubergine",
@@ -63729,7 +65030,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 100,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍆",
+                "detail": ""
             },
             {
                 "id": "sauce_tomate",
@@ -63737,7 +65040,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 100,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "mozzarella",
@@ -63745,7 +65050,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "fat",
                 "baseQty": 40,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧀",
+                "detail": ""
             },
             {
                 "id": "epinards",
@@ -63753,7 +65060,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 50,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             }
         ],
         "options": [
@@ -63812,7 +65121,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "protein",
                 "baseQty": 160,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🐟",
+                "detail": ""
             },
             {
                 "id": "lentilles_cuites",
@@ -63821,7 +65132,9 @@ const RECIPES_DATA = [
                 "role": "carb",
                 "rawRatio": 2,
                 "baseQty": 150,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "carotte",
@@ -63829,7 +65142,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 60,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥕",
+                "detail": ""
             },
             {
                 "id": "oignon",
@@ -63837,7 +65152,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 40,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧅",
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -63845,7 +65162,9 @@ const RECIPES_DATA = [
                 "unit": "ml",
                 "role": "fat",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫒",
+                "detail": ""
             },
             {
                 "id": "moutarde",
@@ -63853,7 +65172,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🟡",
+                "detail": ""
             }
         ],
         "options": [
@@ -63912,7 +65233,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "protein",
                 "baseQty": 170,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🦃",
+                "detail": ""
             },
             {
                 "id": "epinards",
@@ -63920,7 +65243,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 80,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "feta",
@@ -63928,7 +65253,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "fat",
                 "baseQty": 30,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧀",
+                "detail": ""
             },
             {
                 "id": "riz_complet_cuit",
@@ -63937,7 +65264,9 @@ const RECIPES_DATA = [
                 "role": "carb",
                 "rawRatio": 2.25,
                 "baseQty": 150,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "tomate",
@@ -63945,7 +65274,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 80,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍅",
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -63953,7 +65284,9 @@ const RECIPES_DATA = [
                 "unit": "ml",
                 "role": "fat",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫒",
+                "detail": ""
             }
         ],
         "options": [
@@ -64012,7 +65345,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "protein",
                 "baseQty": 120,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "haricots_noirs",
@@ -64020,7 +65355,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "protein",
                 "baseQty": 80,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫘",
+                "detail": ""
             },
             {
                 "id": "riz_basmati_cuit",
@@ -64029,7 +65366,9 @@ const RECIPES_DATA = [
                 "role": "carb",
                 "rawRatio": 2.25,
                 "baseQty": 140,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "tomate",
@@ -64037,7 +65376,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 100,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍅",
+                "detail": ""
             },
             {
                 "id": "poivron_rouge",
@@ -64045,7 +65386,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 80,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫑",
+                "detail": ""
             },
             {
                 "id": "mais_conserve",
@@ -64053,7 +65396,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "carb",
                 "baseQty": 50,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "oignon",
@@ -64061,7 +65406,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 50,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧅",
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -64069,7 +65416,9 @@ const RECIPES_DATA = [
                 "unit": "ml",
                 "role": "fat",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫒",
+                "detail": ""
             }
         ],
         "options": [
@@ -64128,7 +65477,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "protein",
                 "baseQty": 160,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "nouilles_soba_cuites",
@@ -64137,7 +65488,9 @@ const RECIPES_DATA = [
                 "role": "carb",
                 "rawRatio": 1.8,
                 "baseQty": 150,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "miel",
@@ -64145,7 +65498,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍯",
+                "detail": ""
             },
             {
                 "id": "sauce_soja",
@@ -64153,7 +65508,9 @@ const RECIPES_DATA = [
                 "unit": "ml",
                 "role": "neutral",
                 "baseQty": 15,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫘",
+                "detail": ""
             },
             {
                 "id": "huile_sesame",
@@ -64161,7 +65518,9 @@ const RECIPES_DATA = [
                 "unit": "ml",
                 "role": "fat",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫘",
+                "detail": ""
             },
             {
                 "id": "brocoli",
@@ -64169,7 +65528,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 100,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥦",
+                "detail": ""
             },
             {
                 "id": "gingembre",
@@ -64177,7 +65538,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫚",
+                "detail": ""
             }
         ],
         "options": [
@@ -64236,7 +65599,9 @@ const RECIPES_DATA = [
                 "unit": "pièce(s)",
                 "role": "protein",
                 "baseQty": 3,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥚",
+                "detail": ""
             },
             {
                 "id": "blanc_oeuf",
@@ -64244,7 +65609,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "protein",
                 "baseQty": 60,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "champignon",
@@ -64252,7 +65619,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 120,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍄",
+                "detail": ""
             },
             {
                 "id": "fromage_rape",
@@ -64260,7 +65629,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "fat",
                 "baseQty": 20,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "pain_complet",
@@ -64268,7 +65639,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "carb",
                 "baseQty": 40,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍞",
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -64276,7 +65649,9 @@ const RECIPES_DATA = [
                 "unit": "ml",
                 "role": "fat",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫒",
+                "detail": ""
             },
             {
                 "id": "oignon",
@@ -64284,7 +65659,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 30,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧅",
+                "detail": ""
             }
         ],
         "options": [
@@ -64343,7 +65720,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "protein",
                 "baseQty": 140,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "riz_basmati_cuit",
@@ -64352,7 +65731,9 @@ const RECIPES_DATA = [
                 "role": "carb",
                 "rawRatio": 2.25,
                 "baseQty": 180,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "courgette",
@@ -64360,7 +65741,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 100,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥒",
+                "detail": ""
             },
             {
                 "id": "parmesan",
@@ -64368,7 +65751,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "fat",
                 "baseQty": 15,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧀",
+                "detail": ""
             },
             {
                 "id": "oignon",
@@ -64376,7 +65761,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 40,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧅",
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -64384,7 +65771,9 @@ const RECIPES_DATA = [
                 "unit": "ml",
                 "role": "fat",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫒",
+                "detail": ""
             },
             {
                 "id": "citron_jus",
@@ -64392,7 +65781,9 @@ const RECIPES_DATA = [
                 "unit": "ml",
                 "role": "neutral",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍋",
+                "detail": ""
             }
         ],
         "options": [
@@ -64451,7 +65842,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "protein",
                 "baseQty": 200,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫧",
+                "detail": ""
             },
             {
                 "id": "riz_basmati_cuit",
@@ -64460,7 +65853,9 @@ const RECIPES_DATA = [
                 "role": "carb",
                 "rawRatio": 2.25,
                 "baseQty": 160,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "sauce_soja",
@@ -64468,7 +65863,9 @@ const RECIPES_DATA = [
                 "unit": "ml",
                 "role": "neutral",
                 "baseQty": 15,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫘",
+                "detail": ""
             },
             {
                 "id": "miel",
@@ -64476,7 +65873,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍯",
+                "detail": ""
             },
             {
                 "id": "sauce_sriracha",
@@ -64484,7 +65883,9 @@ const RECIPES_DATA = [
                 "unit": "ml",
                 "role": "neutral",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🌶️",
+                "detail": ""
             },
             {
                 "id": "farine_complete",
@@ -64492,7 +65893,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "carb",
                 "baseQty": 15,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "brocoli",
@@ -64500,7 +65903,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 100,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥦",
+                "detail": ""
             },
             {
                 "id": "huile_sesame",
@@ -64508,7 +65913,9 @@ const RECIPES_DATA = [
                 "unit": "ml",
                 "role": "fat",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫘",
+                "detail": ""
             }
         ],
         "options": [
@@ -64567,7 +65974,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "protein",
                 "baseQty": 120,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🐟",
+                "detail": ""
             },
             {
                 "id": "boulgour_cuit",
@@ -64576,7 +65985,9 @@ const RECIPES_DATA = [
                 "role": "carb",
                 "rawRatio": 2.2,
                 "baseQty": 150,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "tomate",
@@ -64584,7 +65995,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 100,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍅",
+                "detail": ""
             },
             {
                 "id": "concombre",
@@ -64592,7 +66005,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 80,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥒",
+                "detail": ""
             },
             {
                 "id": "citron_jus",
@@ -64600,7 +66015,9 @@ const RECIPES_DATA = [
                 "unit": "ml",
                 "role": "neutral",
                 "baseQty": 15,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍋",
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -64608,7 +66025,9 @@ const RECIPES_DATA = [
                 "unit": "ml",
                 "role": "fat",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫒",
+                "detail": ""
             },
             {
                 "id": "oignon",
@@ -64616,7 +66035,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 30,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧅",
+                "detail": ""
             }
         ],
         "options": [
@@ -64675,7 +66096,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "protein",
                 "baseQty": 150,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫧",
+                "detail": ""
             },
             {
                 "id": "riz_complet_cuit",
@@ -64684,7 +66107,9 @@ const RECIPES_DATA = [
                 "role": "carb",
                 "rawRatio": 2.25,
                 "baseQty": 150,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "edamame",
@@ -64692,7 +66117,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "protein",
                 "baseQty": 60,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫛",
+                "detail": ""
             },
             {
                 "id": "sauce_soja",
@@ -64700,7 +66127,9 @@ const RECIPES_DATA = [
                 "unit": "ml",
                 "role": "neutral",
                 "baseQty": 15,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫘",
+                "detail": ""
             },
             {
                 "id": "miel",
@@ -64708,7 +66137,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 8,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍯",
+                "detail": ""
             },
             {
                 "id": "huile_sesame",
@@ -64716,7 +66147,9 @@ const RECIPES_DATA = [
                 "unit": "ml",
                 "role": "fat",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫘",
+                "detail": ""
             },
             {
                 "id": "gingembre",
@@ -64724,7 +66157,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫚",
+                "detail": ""
             }
         ],
         "options": [
@@ -64783,7 +66218,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 250,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥦",
+                "detail": ""
             },
             {
                 "id": "chevre_frais",
@@ -64791,7 +66228,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "fat",
                 "baseQty": 40,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "pomme_de_terre",
@@ -64800,7 +66239,9 @@ const RECIPES_DATA = [
                 "role": "carb",
                 "rawRatio": 1,
                 "baseQty": 100,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "oeuf",
@@ -64808,7 +66249,9 @@ const RECIPES_DATA = [
                 "unit": "pièce(s)",
                 "role": "protein",
                 "baseQty": 2,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥚",
+                "detail": ""
             },
             {
                 "id": "oignon",
@@ -64816,7 +66259,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 40,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧅",
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -64824,7 +66269,9 @@ const RECIPES_DATA = [
                 "unit": "ml",
                 "role": "fat",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫒",
+                "detail": ""
             }
         ],
         "options": [
@@ -64883,7 +66330,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "protein",
                 "baseQty": 160,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "quinoa_cuit",
@@ -64892,7 +66341,9 @@ const RECIPES_DATA = [
                 "role": "carb",
                 "rawRatio": 1.8,
                 "baseQty": 150,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "poivron_rouge",
@@ -64900,7 +66351,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 80,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫑",
+                "detail": ""
             },
             {
                 "id": "citron_jus",
@@ -64908,7 +66361,9 @@ const RECIPES_DATA = [
                 "unit": "ml",
                 "role": "neutral",
                 "baseQty": 15,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍋",
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -64916,7 +66371,9 @@ const RECIPES_DATA = [
                 "unit": "ml",
                 "role": "fat",
                 "baseQty": 8,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫒",
+                "detail": ""
             },
             {
                 "id": "ail",
@@ -64924,7 +66381,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧄",
+                "detail": ""
             }
         ],
         "options": [
@@ -64983,7 +66442,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "protein",
                 "baseQty": 160,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🦃",
+                "detail": ""
             },
             {
                 "id": "patate_douce_cuite",
@@ -64991,7 +66452,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "carb",
                 "baseQty": 180,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "haricots_verts",
@@ -64999,7 +66462,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 100,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫛",
+                "detail": ""
             },
             {
                 "id": "oignon",
@@ -65007,7 +66472,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 50,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧅",
+                "detail": ""
             },
             {
                 "id": "sauce_tomate",
@@ -65015,7 +66482,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 80,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -65023,7 +66492,9 @@ const RECIPES_DATA = [
                 "unit": "ml",
                 "role": "fat",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫒",
+                "detail": ""
             }
         ],
         "options": [
@@ -65082,7 +66553,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "protein",
                 "baseQty": 160,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🟤",
+                "detail": ""
             },
             {
                 "id": "pates_cuites",
@@ -65091,7 +66564,9 @@ const RECIPES_DATA = [
                 "role": "carb",
                 "rawRatio": 2.5,
                 "baseQty": 160,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "champignon",
@@ -65099,7 +66574,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 120,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍄",
+                "detail": ""
             },
             {
                 "id": "creme_fraiche_legere",
@@ -65107,7 +66584,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "fat",
                 "baseQty": 30,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "oignon",
@@ -65115,7 +66594,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 50,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧅",
+                "detail": ""
             },
             {
                 "id": "moutarde",
@@ -65123,7 +66604,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🟡",
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -65131,7 +66614,9 @@ const RECIPES_DATA = [
                 "unit": "ml",
                 "role": "fat",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫒",
+                "detail": ""
             }
         ],
         "options": [
@@ -65190,7 +66675,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "protein",
                 "baseQty": 160,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "amandes",
@@ -65198,7 +66685,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "fat",
                 "baseQty": 15,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "haricots_verts",
@@ -65206,7 +66695,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 150,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫛",
+                "detail": ""
             },
             {
                 "id": "pomme_de_terre",
@@ -65215,7 +66706,9 @@ const RECIPES_DATA = [
                 "role": "carb",
                 "rawRatio": 1,
                 "baseQty": 150,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "citron_jus",
@@ -65223,7 +66716,9 @@ const RECIPES_DATA = [
                 "unit": "ml",
                 "role": "neutral",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍋",
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -65231,7 +66726,9 @@ const RECIPES_DATA = [
                 "unit": "ml",
                 "role": "fat",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫒",
+                "detail": ""
             }
         ],
         "options": [
@@ -65290,7 +66787,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "protein",
                 "baseQty": 130,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "riz_basmati_cuit",
@@ -65299,7 +66798,9 @@ const RECIPES_DATA = [
                 "role": "carb",
                 "rawRatio": 2.25,
                 "baseQty": 160,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "mangue",
@@ -65307,7 +66808,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "carb",
                 "baseQty": 60,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥭",
+                "detail": ""
             },
             {
                 "id": "concombre",
@@ -65315,7 +66818,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 80,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥒",
+                "detail": ""
             },
             {
                 "id": "avocat",
@@ -65323,7 +66828,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "fat",
                 "baseQty": 40,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥑",
+                "detail": ""
             },
             {
                 "id": "sauce_soja",
@@ -65331,7 +66838,9 @@ const RECIPES_DATA = [
                 "unit": "ml",
                 "role": "neutral",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫘",
+                "detail": ""
             },
             {
                 "id": "huile_sesame",
@@ -65339,7 +66848,9 @@ const RECIPES_DATA = [
                 "unit": "ml",
                 "role": "fat",
                 "baseQty": 3,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫘",
+                "detail": ""
             }
         ],
         "options": [
@@ -65394,7 +66905,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "protein",
                 "baseQty": 250,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "riz_basmati_cuit",
@@ -65403,7 +66916,9 @@ const RECIPES_DATA = [
                 "role": "carb",
                 "rawRatio": 2.25,
                 "baseQty": 150,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "lait_coco",
@@ -65411,7 +66926,9 @@ const RECIPES_DATA = [
                 "unit": "ml",
                 "role": "fat",
                 "baseQty": 80,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥥",
+                "detail": ""
             },
             {
                 "id": "pate_curry",
@@ -65419,7 +66936,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "oignon",
@@ -65427,7 +66946,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 40,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧅",
+                "detail": ""
             },
             {
                 "id": "coriandre",
@@ -65435,7 +66956,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🌿",
+                "detail": ""
             },
             {
                 "id": "citron_vert",
@@ -65443,7 +66966,9 @@ const RECIPES_DATA = [
                 "unit": "ml",
                 "role": "neutral",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍋",
+                "detail": ""
             }
         ],
         "options": [
@@ -65502,7 +67027,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "protein",
                 "baseQty": 140,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "pomme_de_terre",
@@ -65511,7 +67038,9 @@ const RECIPES_DATA = [
                 "role": "carb",
                 "rawRatio": 1,
                 "baseQty": 180,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "orange",
@@ -65519,7 +67048,9 @@ const RECIPES_DATA = [
                 "unit": "ml",
                 "role": "neutral",
                 "baseQty": 80,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "haricots_verts",
@@ -65527,7 +67058,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 100,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫛",
+                "detail": ""
             },
             {
                 "id": "miel",
@@ -65535,7 +67068,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 8,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍯",
+                "detail": ""
             },
             {
                 "id": "lait_demi",
@@ -65543,7 +67078,9 @@ const RECIPES_DATA = [
                 "unit": "ml",
                 "role": "neutral",
                 "baseQty": 30,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             }
         ],
         "options": [
@@ -65602,7 +67139,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "protein",
                 "baseQty": 180,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "quinoa_cuit",
@@ -65611,7 +67150,9 @@ const RECIPES_DATA = [
                 "role": "carb",
                 "rawRatio": 1.8,
                 "baseQty": 140,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "harissa",
@@ -65619,7 +67160,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 8,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "courgette",
@@ -65627,7 +67170,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 100,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥒",
+                "detail": ""
             },
             {
                 "id": "sauce_tahini",
@@ -65635,7 +67180,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "fat",
                 "baseQty": 15,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "citron_jus",
@@ -65643,7 +67190,9 @@ const RECIPES_DATA = [
                 "unit": "ml",
                 "role": "neutral",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍋",
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -65651,7 +67200,9 @@ const RECIPES_DATA = [
                 "unit": "ml",
                 "role": "fat",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫒",
+                "detail": ""
             }
         ],
         "options": [
@@ -65710,7 +67261,9 @@ const RECIPES_DATA = [
                 "unit": "pièce(s)",
                 "role": "carb",
                 "baseQty": 2,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "oeuf",
@@ -65718,7 +67271,9 @@ const RECIPES_DATA = [
                 "unit": "pièce(s)",
                 "role": "protein",
                 "baseQty": 2,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥚",
+                "detail": ""
             },
             {
                 "id": "jambon_blanc",
@@ -65726,7 +67281,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "protein",
                 "baseQty": 60,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥓",
+                "detail": ""
             },
             {
                 "id": "fromage_rape",
@@ -65734,7 +67291,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "fat",
                 "baseQty": 25,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "champignon",
@@ -65742,7 +67301,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 80,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍄",
+                "detail": ""
             },
             {
                 "id": "epinards",
@@ -65750,7 +67311,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 50,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             }
         ],
         "options": [
@@ -65805,7 +67368,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "protein",
                 "baseQty": 140,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🐟",
+                "detail": ""
             },
             {
                 "id": "nouilles_soba_cuites",
@@ -65814,7 +67379,9 @@ const RECIPES_DATA = [
                 "role": "carb",
                 "rawRatio": 1.8,
                 "baseQty": 120,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "tofu",
@@ -65822,7 +67389,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "protein",
                 "baseQty": 50,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫧",
+                "detail": ""
             },
             {
                 "id": "champignon",
@@ -65830,7 +67399,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 60,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍄",
+                "detail": ""
             },
             {
                 "id": "epinards",
@@ -65838,7 +67409,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 40,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "sauce_soja",
@@ -65846,7 +67419,9 @@ const RECIPES_DATA = [
                 "unit": "ml",
                 "role": "neutral",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫘",
+                "detail": ""
             },
             {
                 "id": "gingembre",
@@ -65854,7 +67429,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫚",
+                "detail": ""
             }
         ],
         "options": [
@@ -65913,7 +67490,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "protein",
                 "baseQty": 140,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "pomme_de_terre",
@@ -65922,7 +67501,9 @@ const RECIPES_DATA = [
                 "role": "carb",
                 "rawRatio": 1,
                 "baseQty": 150,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "celeri_branche",
@@ -65930,7 +67511,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 80,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "oignon",
@@ -65938,7 +67521,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 40,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧅",
+                "detail": ""
             },
             {
                 "id": "fromage_rape",
@@ -65946,7 +67531,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "fat",
                 "baseQty": 20,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "lait_demi",
@@ -65954,7 +67541,9 @@ const RECIPES_DATA = [
                 "unit": "ml",
                 "role": "neutral",
                 "baseQty": 30,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             }
         ],
         "options": [
@@ -66013,7 +67602,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "protein",
                 "baseQty": 160,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "tortilla_ble",
@@ -66021,7 +67612,9 @@ const RECIPES_DATA = [
                 "unit": "pièce(s)",
                 "role": "carb",
                 "baseQty": 2,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "poivron_rouge",
@@ -66029,7 +67622,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 100,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫑",
+                "detail": ""
             },
             {
                 "id": "oignon",
@@ -66037,7 +67632,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 50,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧅",
+                "detail": ""
             },
             {
                 "id": "avocat",
@@ -66045,7 +67642,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "fat",
                 "baseQty": 40,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥑",
+                "detail": ""
             },
             {
                 "id": "citron_vert",
@@ -66053,7 +67652,9 @@ const RECIPES_DATA = [
                 "unit": "ml",
                 "role": "neutral",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍋",
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -66061,7 +67662,9 @@ const RECIPES_DATA = [
                 "unit": "ml",
                 "role": "fat",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫒",
+                "detail": ""
             }
         ],
         "options": [
@@ -66120,7 +67723,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "protein",
                 "baseQty": 140,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🐟",
+                "detail": ""
             },
             {
                 "id": "fenouil",
@@ -66128,7 +67733,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 200,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "pomme_de_terre",
@@ -66137,7 +67744,9 @@ const RECIPES_DATA = [
                 "role": "carb",
                 "rawRatio": 1,
                 "baseQty": 120,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "creme_fraiche_legere",
@@ -66145,7 +67754,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "fat",
                 "baseQty": 30,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "fromage_rape",
@@ -66153,7 +67764,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "fat",
                 "baseQty": 20,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "citron_jus",
@@ -66161,7 +67774,9 @@ const RECIPES_DATA = [
                 "unit": "ml",
                 "role": "neutral",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍋",
+                "detail": ""
             }
         ],
         "options": [
@@ -66221,7 +67836,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "rawRatio": 2,
                 "baseQty": 180,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "epinards",
@@ -66229,7 +67846,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 100,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "pain_pita",
@@ -66237,7 +67856,9 @@ const RECIPES_DATA = [
                 "unit": "pièce(s)",
                 "role": "carb",
                 "baseQty": 1,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫓",
+                "detail": ""
             },
             {
                 "id": "lait_coco",
@@ -66245,7 +67866,9 @@ const RECIPES_DATA = [
                 "unit": "ml",
                 "role": "fat",
                 "baseQty": 60,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥥",
+                "detail": ""
             },
             {
                 "id": "pate_curry",
@@ -66253,7 +67876,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "oignon",
@@ -66261,7 +67886,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 50,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧅",
+                "detail": ""
             },
             {
                 "id": "ail",
@@ -66269,7 +67896,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧄",
+                "detail": ""
             },
             {
                 "id": "gingembre",
@@ -66277,7 +67906,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫚",
+                "detail": ""
             }
         ],
         "options": [
@@ -66336,7 +67967,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "protein",
                 "baseQty": 160,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥩",
+                "detail": ""
             },
             {
                 "id": "riz_basmati_cuit",
@@ -66345,7 +67978,9 @@ const RECIPES_DATA = [
                 "role": "carb",
                 "rawRatio": 2.25,
                 "baseQty": 150,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "poivron_rouge",
@@ -66353,7 +67988,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 80,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫑",
+                "detail": ""
             },
             {
                 "id": "courgette",
@@ -66361,7 +67998,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 80,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥒",
+                "detail": ""
             },
             {
                 "id": "oignon",
@@ -66369,7 +68008,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 50,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧅",
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -66377,7 +68018,9 @@ const RECIPES_DATA = [
                 "unit": "ml",
                 "role": "fat",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫒",
+                "detail": ""
             },
             {
                 "id": "sauce_tomate",
@@ -66385,7 +68028,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 30,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             }
         ],
         "options": [
@@ -66444,7 +68089,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 200,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "oeuf",
@@ -66452,7 +68099,9 @@ const RECIPES_DATA = [
                 "unit": "pièce(s)",
                 "role": "protein",
                 "baseQty": 3,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥚",
+                "detail": ""
             },
             {
                 "id": "pain_complet",
@@ -66460,7 +68109,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "carb",
                 "baseQty": 60,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍞",
+                "detail": ""
             },
             {
                 "id": "jambon_blanc",
@@ -66468,7 +68119,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "protein",
                 "baseQty": 50,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥓",
+                "detail": ""
             },
             {
                 "id": "vinaigre_balsamique",
@@ -66476,7 +68129,9 @@ const RECIPES_DATA = [
                 "unit": "ml",
                 "role": "neutral",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "moutarde",
@@ -66484,7 +68139,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🟡",
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -66492,7 +68149,9 @@ const RECIPES_DATA = [
                 "unit": "ml",
                 "role": "fat",
                 "baseQty": 8,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫒",
+                "detail": ""
             }
         ],
         "options": [
@@ -66551,7 +68210,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "protein",
                 "baseQty": 150,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🐟",
+                "detail": ""
             },
             {
                 "id": "asperges",
@@ -66559,7 +68220,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 150,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "riz_complet_cuit",
@@ -66568,7 +68231,9 @@ const RECIPES_DATA = [
                 "role": "carb",
                 "rawRatio": 2.25,
                 "baseQty": 140,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "yaourt_grec",
@@ -66576,7 +68241,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 30,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥛",
+                "detail": ""
             },
             {
                 "id": "citron_jus",
@@ -66584,7 +68251,9 @@ const RECIPES_DATA = [
                 "unit": "ml",
                 "role": "neutral",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍋",
+                "detail": ""
             },
             {
                 "id": "moutarde",
@@ -66592,7 +68261,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🟡",
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -66600,7 +68271,9 @@ const RECIPES_DATA = [
                 "unit": "ml",
                 "role": "fat",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫒",
+                "detail": ""
             }
         ],
         "options": [
@@ -66659,7 +68332,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "protein",
                 "baseQty": 160,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🦃",
+                "detail": ""
             },
             {
                 "id": "riz_basmati_cuit",
@@ -66668,7 +68343,9 @@ const RECIPES_DATA = [
                 "role": "carb",
                 "rawRatio": 2.25,
                 "baseQty": 120,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "chou_kale",
@@ -66676,7 +68353,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 150,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "sauce_tomate",
@@ -66684,7 +68363,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 100,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "oignon",
@@ -66692,7 +68373,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 40,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧅",
+                "detail": ""
             },
             {
                 "id": "carotte",
@@ -66700,7 +68383,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 60,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥕",
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -66708,7 +68393,9 @@ const RECIPES_DATA = [
                 "unit": "ml",
                 "role": "fat",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫒",
+                "detail": ""
             }
         ],
         "options": [
@@ -66767,7 +68454,9 @@ const RECIPES_DATA = [
                 "unit": "pièce(s)",
                 "role": "protein",
                 "baseQty": 3,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥚",
+                "detail": ""
             },
             {
                 "id": "boeuf_hache_5",
@@ -66775,7 +68464,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "protein",
                 "baseQty": 80,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥩",
+                "detail": ""
             },
             {
                 "id": "pain_complet",
@@ -66783,7 +68474,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "carb",
                 "baseQty": 50,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍞",
+                "detail": ""
             },
             {
                 "id": "tomate",
@@ -66791,7 +68484,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 150,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍅",
+                "detail": ""
             },
             {
                 "id": "poivron_rouge",
@@ -66799,7 +68494,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 80,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫑",
+                "detail": ""
             },
             {
                 "id": "harissa",
@@ -66807,7 +68504,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "oignon",
@@ -66815,7 +68514,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 50,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧅",
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -66823,7 +68524,9 @@ const RECIPES_DATA = [
                 "unit": "ml",
                 "role": "fat",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫒",
+                "detail": ""
             }
         ],
         "options": [
@@ -66864,7 +68567,6 @@ const RECIPES_DATA = [
     {
         "id": "brownie-proteine-emporter",
         "category": "collation-emporter",
-        "title": "Brownie Protéiné",
         "subtitle": "Carrés fondants chocolat-whey à emporter",
         "tags": [
             "chocolat",
@@ -66874,7 +68576,6 @@ const RECIPES_DATA = [
         ],
         "time": 30,
         "difficulty": "Moyen",
-        "servings": 6,
         "ingredients": [
             {
                 "id": "whey_protein",
@@ -66882,7 +68583,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Whey chocolat",
                 "baseQty": 30,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "flocons_avoine",
@@ -66890,7 +68593,9 @@ const RECIPES_DATA = [
                 "role": "carb",
                 "name": "Flocons d'avoine",
                 "baseQty": 60,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🌾",
+                "detail": ""
             },
             {
                 "id": "cacao_poudre",
@@ -66898,7 +68603,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Cacao en poudre",
                 "baseQty": 15,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🟤",
+                "detail": ""
             },
             {
                 "id": "banane",
@@ -66906,7 +68613,9 @@ const RECIPES_DATA = [
                 "role": "carb",
                 "name": "Banane mûre",
                 "baseQty": 1,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍌",
+                "detail": ""
             },
             {
                 "id": "blanc_oeuf",
@@ -66914,7 +68623,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Blancs d'œufs",
                 "baseQty": 3,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "beurre_cacahuete",
@@ -66922,7 +68633,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Beurre de cacahuète",
                 "baseQty": 15,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥜",
+                "detail": ""
             },
             {
                 "id": "chocolat_noir_70",
@@ -66930,7 +68643,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Pépites de chocolat noir",
                 "baseQty": 15,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             }
         ],
         "steps": [
@@ -66962,12 +68677,15 @@ const RECIPES_DATA = [
                 "title": "Cuisson",
                 "text": "Ne pas surcuire : le centre doit rester légèrement fondant. Il durcira en refroidissant."
             }
-        ]
+        ],
+        "name": "Brownie Protéiné",
+        "emoji": "🥤",
+        "sliderMin": 50,
+        "sliderMax": 200
     },
     {
         "id": "mini-wraps-thon-emporter",
         "category": "collation-emporter",
-        "title": "Mini Wraps au Thon",
         "subtitle": "Roulés thon-crudités rapides et transportables",
         "tags": [
             "salé",
@@ -66978,7 +68696,6 @@ const RECIPES_DATA = [
         ],
         "time": 10,
         "difficulty": "Facile",
-        "servings": 2,
         "ingredients": [
             {
                 "id": "thon_conserve",
@@ -66986,7 +68703,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Thon en conserve égoutté",
                 "baseQty": 80,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "tortilla",
@@ -66994,7 +68713,9 @@ const RECIPES_DATA = [
                 "role": "carb",
                 "name": "Tortilla complète",
                 "baseQty": 1,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫓",
+                "detail": ""
             },
             {
                 "id": "fromage_blanc_0",
@@ -67002,7 +68723,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Fromage blanc 0%",
                 "baseQty": 30,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥛",
+                "detail": ""
             },
             {
                 "id": "concombre",
@@ -67010,7 +68733,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Concombre",
                 "baseQty": 50,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥒",
+                "detail": ""
             },
             {
                 "id": "carotte",
@@ -67018,7 +68743,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Carotte râpée",
                 "baseQty": 40,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥕",
+                "detail": ""
             },
             {
                 "id": "citron_jus",
@@ -67026,7 +68753,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Jus de citron",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍋",
+                "detail": ""
             },
             {
                 "id": "moutarde",
@@ -67034,7 +68763,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Moutarde",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🟡",
+                "detail": ""
             }
         ],
         "steps": [
@@ -67066,12 +68797,15 @@ const RECIPES_DATA = [
                 "title": "Éviter",
                 "text": "Ne pas ajouter de tomate qui rendrait le wrap humide pendant le transport."
             }
-        ]
+        ],
+        "name": "Mini Wraps au Thon",
+        "emoji": "🐟",
+        "sliderMin": 50,
+        "sliderMax": 200
     },
     {
         "id": "barre-granola-maison-emporter",
         "category": "collation-emporter",
-        "title": "Barre Granola Maison",
         "subtitle": "Barres croustillantes avoine, miel et amandes",
         "tags": [
             "granola",
@@ -67082,7 +68816,6 @@ const RECIPES_DATA = [
         ],
         "time": 25,
         "difficulty": "Facile",
-        "servings": 8,
         "ingredients": [
             {
                 "id": "flocons_avoine",
@@ -67090,7 +68823,9 @@ const RECIPES_DATA = [
                 "role": "carb",
                 "name": "Flocons d'avoine",
                 "baseQty": 100,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🌾",
+                "detail": ""
             },
             {
                 "id": "miel",
@@ -67098,7 +68833,9 @@ const RECIPES_DATA = [
                 "role": "carb",
                 "name": "Miel",
                 "baseQty": 30,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍯",
+                "detail": ""
             },
             {
                 "id": "beurre_cacahuete",
@@ -67106,7 +68843,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Beurre de cacahuète",
                 "baseQty": 40,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥜",
+                "detail": ""
             },
             {
                 "id": "amandes",
@@ -67114,7 +68853,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Amandes concassées",
                 "baseQty": 30,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "whey_protein",
@@ -67122,7 +68863,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Whey vanille",
                 "baseQty": 20,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "chocolat_noir_70",
@@ -67130,7 +68873,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Chocolat noir 70%",
                 "baseQty": 20,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "graines_chia",
@@ -67138,7 +68883,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Graines de chia",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🟤",
+                "detail": ""
             }
         ],
         "steps": [
@@ -67170,12 +68917,15 @@ const RECIPES_DATA = [
                 "title": "Attention",
                 "text": "Bien tasser le mélange dans le moule pour que les barres ne s'effritent pas à la découpe."
             }
-        ]
+        ],
+        "name": "Barre Granola Maison",
+        "emoji": "⚡",
+        "sliderMin": 50,
+        "sliderMax": 200
     },
     {
         "id": "boules-energie-matcha-emporter",
         "category": "collation-emporter",
-        "title": "Boules Énergie Matcha",
         "subtitle": "Energy balls matcha-coco sans cuisson",
         "tags": [
             "matcha",
@@ -67186,7 +68936,6 @@ const RECIPES_DATA = [
         ],
         "time": 15,
         "difficulty": "Facile",
-        "servings": 10,
         "ingredients": [
             {
                 "id": "flocons_avoine",
@@ -67194,7 +68943,9 @@ const RECIPES_DATA = [
                 "role": "carb",
                 "name": "Flocons d'avoine",
                 "baseQty": 80,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🌾",
+                "detail": ""
             },
             {
                 "id": "beurre_cacahuete",
@@ -67202,7 +68953,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Beurre de cacahuète",
                 "baseQty": 40,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥜",
+                "detail": ""
             },
             {
                 "id": "miel",
@@ -67210,7 +68963,9 @@ const RECIPES_DATA = [
                 "role": "carb",
                 "name": "Miel",
                 "baseQty": 20,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍯",
+                "detail": ""
             },
             {
                 "id": "whey_protein",
@@ -67218,7 +68973,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Whey vanille",
                 "baseQty": 20,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "noix_coco_rapee",
@@ -67226,7 +68983,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Noix de coco râpée",
                 "baseQty": 20,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "chocolat_noir_70",
@@ -67234,7 +68993,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Pépites de chocolat noir",
                 "baseQty": 15,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             }
         ],
         "steps": [
@@ -67266,12 +69027,15 @@ const RECIPES_DATA = [
                 "title": "Texture",
                 "text": "Si la pâte est trop sèche, ajouter une cuillère à café de lait. Si trop collante, ajouter des flocons d'avoine."
             }
-        ]
+        ],
+        "name": "Boules Énergie Matcha",
+        "emoji": "🥤",
+        "sliderMin": 50,
+        "sliderMax": 200
     },
     {
         "id": "crackers-fromage-emporter",
         "category": "collation-emporter",
-        "title": "Crackers Fromage Maison",
         "subtitle": "Crackers croustillants parmesan et graines",
         "tags": [
             "salé",
@@ -67282,7 +69046,6 @@ const RECIPES_DATA = [
         ],
         "time": 25,
         "difficulty": "Moyen",
-        "servings": 4,
         "ingredients": [
             {
                 "id": "farine_complete",
@@ -67290,7 +69053,9 @@ const RECIPES_DATA = [
                 "role": "carb",
                 "name": "Farine complète",
                 "baseQty": 60,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "parmesan",
@@ -67298,7 +69063,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Parmesan râpé",
                 "baseQty": 40,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧀",
+                "detail": ""
             },
             {
                 "id": "graines_chia",
@@ -67306,7 +69073,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Graines de chia",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🟤",
+                "detail": ""
             },
             {
                 "id": "graines_lin",
@@ -67314,7 +69083,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Graines de lin",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -67322,7 +69093,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Huile d'olive",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫒",
+                "detail": ""
             },
             {
                 "id": "fromage_blanc_0",
@@ -67330,7 +69103,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Fromage blanc 0%",
                 "baseQty": 20,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥛",
+                "detail": ""
             }
         ],
         "steps": [
@@ -67362,12 +69137,15 @@ const RECIPES_DATA = [
                 "title": "Cuisson",
                 "text": "Surveiller les dernières minutes : ils passent rapidement de dorés à brûlés. Mieux vaut sous-cuire légèrement."
             }
-        ]
+        ],
+        "name": "Crackers Fromage Maison",
+        "emoji": "🥤",
+        "sliderMin": 50,
+        "sliderMax": 200
     },
     {
         "id": "smoothie-bowl-pitaya-maison",
         "category": "collation-maison",
-        "title": "Smoothie Bowl Dragon Fruit",
         "subtitle": "Bowl glacé pitaya, banane et toppings croquants",
         "tags": [
             "smoothie bowl",
@@ -67378,7 +69156,6 @@ const RECIPES_DATA = [
         ],
         "time": 10,
         "difficulty": "Facile",
-        "servings": 1,
         "ingredients": [
             {
                 "id": "banane",
@@ -67386,7 +69163,9 @@ const RECIPES_DATA = [
                 "role": "carb",
                 "name": "Banane congelée",
                 "baseQty": 1,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍌",
+                "detail": ""
             },
             {
                 "id": "fruits_rouges",
@@ -67394,7 +69173,9 @@ const RECIPES_DATA = [
                 "role": "carb",
                 "name": "Fruits rouges surgelés",
                 "baseQty": 50,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍓",
+                "detail": ""
             },
             {
                 "id": "skyr_0",
@@ -67402,7 +69183,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Skyr 0%",
                 "baseQty": 100,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "lait_amande",
@@ -67410,7 +69193,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Lait d'amande",
                 "baseQty": 50,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥛",
+                "detail": ""
             },
             {
                 "id": "granola",
@@ -67418,7 +69203,9 @@ const RECIPES_DATA = [
                 "role": "carb",
                 "name": "Granola",
                 "baseQty": 20,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥣",
+                "detail": ""
             },
             {
                 "id": "noix_coco_rapee",
@@ -67426,7 +69213,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Noix de coco râpée",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "graines_chia",
@@ -67434,7 +69223,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Graines de chia",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🟤",
+                "detail": ""
             }
         ],
         "steps": [
@@ -67466,12 +69257,15 @@ const RECIPES_DATA = [
                 "title": "Banane",
                 "text": "La banane doit être bien congelée pour obtenir la bonne texture. Couper en rondelles avant de congeler."
             }
-        ]
+        ],
+        "name": "Smoothie Bowl Dragon Fruit",
+        "emoji": "🥗",
+        "sliderMin": 50,
+        "sliderMax": 200
     },
     {
         "id": "banana-ice-cream-cookies-maison",
         "category": "collation-maison",
-        "title": "Banana Ice Cream Cookies",
         "subtitle": "Nice cream servie sur cookies protéinés tièdes",
         "tags": [
             "dessert",
@@ -67482,7 +69276,6 @@ const RECIPES_DATA = [
         ],
         "time": 20,
         "difficulty": "Moyen",
-        "servings": 2,
         "ingredients": [
             {
                 "id": "banane",
@@ -67490,7 +69283,9 @@ const RECIPES_DATA = [
                 "role": "carb",
                 "name": "Bananes congelées",
                 "baseQty": 2,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍌",
+                "detail": ""
             },
             {
                 "id": "flocons_avoine",
@@ -67498,7 +69293,9 @@ const RECIPES_DATA = [
                 "role": "carb",
                 "name": "Flocons d'avoine",
                 "baseQty": 50,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🌾",
+                "detail": ""
             },
             {
                 "id": "whey_protein",
@@ -67506,7 +69303,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Whey vanille",
                 "baseQty": 20,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "beurre_cacahuete",
@@ -67514,7 +69313,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Beurre de cacahuète",
                 "baseQty": 15,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥜",
+                "detail": ""
             },
             {
                 "id": "oeuf",
@@ -67522,7 +69323,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Œuf",
                 "baseQty": 1,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥚",
+                "detail": ""
             },
             {
                 "id": "chocolat_noir_70",
@@ -67530,7 +69333,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Pépites de chocolat noir",
                 "baseQty": 15,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "cacao_poudre",
@@ -67538,7 +69343,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Cacao en poudre",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🟤",
+                "detail": ""
             }
         ],
         "steps": [
@@ -67570,12 +69377,15 @@ const RECIPES_DATA = [
                 "title": "Timing",
                 "text": "Servir immédiatement après assemblage car la nice cream fond rapidement au contact des cookies tièdes."
             }
-        ]
+        ],
+        "name": "Banana Ice Cream Cookies",
+        "emoji": "🧁",
+        "sliderMin": 50,
+        "sliderMax": 200
     },
     {
         "id": "bol-proteine-tiede-maison",
         "category": "collation-maison",
-        "title": "Bol Protéiné Tiède",
         "subtitle": "Porridge express aux flocons d'avoine et whey",
         "tags": [
             "tiède",
@@ -67586,7 +69396,6 @@ const RECIPES_DATA = [
         ],
         "time": 8,
         "difficulty": "Facile",
-        "servings": 1,
         "ingredients": [
             {
                 "id": "flocons_avoine",
@@ -67594,7 +69403,9 @@ const RECIPES_DATA = [
                 "role": "carb",
                 "name": "Flocons d'avoine",
                 "baseQty": 40,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🌾",
+                "detail": ""
             },
             {
                 "id": "lait_demi",
@@ -67602,7 +69413,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Lait demi-écrémé",
                 "baseQty": 150,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "whey_protein",
@@ -67610,7 +69423,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Whey vanille",
                 "baseQty": 25,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "banane",
@@ -67618,7 +69433,9 @@ const RECIPES_DATA = [
                 "role": "carb",
                 "name": "Banane",
                 "baseQty": 0.5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍌",
+                "detail": ""
             },
             {
                 "id": "beurre_cacahuete",
@@ -67626,7 +69443,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Beurre de cacahuète",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥜",
+                "detail": ""
             },
             {
                 "id": "myrtilles",
@@ -67634,7 +69453,9 @@ const RECIPES_DATA = [
                 "role": "carb",
                 "name": "Myrtilles",
                 "baseQty": 30,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             }
         ],
         "steps": [
@@ -67666,12 +69487,15 @@ const RECIPES_DATA = [
                 "title": "Température",
                 "text": "Ne pas ajouter la whey dans le lait bouillant, la protéine coagulerait et la texture serait granuleuse."
             }
-        ]
+        ],
+        "name": "Bol Protéiné Tiède",
+        "emoji": "🍪",
+        "sliderMin": 50,
+        "sliderMax": 200
     },
     {
         "id": "creme-brulee-proteinee-maison",
         "category": "collation-maison",
-        "title": "Crème Brûlée Protéinée",
         "subtitle": "Crème onctueuse vanille au skyr, façon brûlée",
         "tags": [
             "dessert",
@@ -67682,7 +69506,6 @@ const RECIPES_DATA = [
         ],
         "time": 15,
         "difficulty": "Moyen",
-        "servings": 2,
         "ingredients": [
             {
                 "id": "skyr_0",
@@ -67690,7 +69513,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Skyr 0%",
                 "baseQty": 200,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "whey_protein",
@@ -67698,7 +69523,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Whey vanille",
                 "baseQty": 20,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "oeuf",
@@ -67706,7 +69533,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Jaune d'œuf",
                 "baseQty": 1,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥚",
+                "detail": ""
             },
             {
                 "id": "lait_demi",
@@ -67714,7 +69543,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Lait demi-écrémé",
                 "baseQty": 50,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "miel",
@@ -67722,7 +69553,9 @@ const RECIPES_DATA = [
                 "role": "carb",
                 "name": "Miel",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍯",
+                "detail": ""
             }
         ],
         "steps": [
@@ -67754,12 +69587,15 @@ const RECIPES_DATA = [
                 "title": "Cuisson",
                 "text": "Ne pas surcuire sinon la crème sera granuleuse. Elle doit trembler légèrement au centre quand on secoue le ramequin."
             }
-        ]
+        ],
+        "name": "Crème Brûlée Protéinée",
+        "emoji": "🍪",
+        "sliderMin": 50,
+        "sliderMax": 200
     },
     {
         "id": "dip-guacamole-proteine-maison",
         "category": "collation-maison",
-        "title": "Dip Guacamole Protéiné",
         "subtitle": "Guacamole enrichi au cottage cheese avec crudités",
         "tags": [
             "salé",
@@ -67770,7 +69606,6 @@ const RECIPES_DATA = [
         ],
         "time": 10,
         "difficulty": "Facile",
-        "servings": 2,
         "ingredients": [
             {
                 "id": "avocat",
@@ -67778,7 +69613,9 @@ const RECIPES_DATA = [
                 "role": "fat",
                 "name": "Avocat mûr",
                 "baseQty": 1,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥑",
+                "detail": ""
             },
             {
                 "id": "cottage_cheese",
@@ -67786,7 +69623,9 @@ const RECIPES_DATA = [
                 "role": "protein",
                 "name": "Cottage cheese",
                 "baseQty": 80,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧀",
+                "detail": ""
             },
             {
                 "id": "citron_jus",
@@ -67794,7 +69633,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Jus de citron vert",
                 "baseQty": 15,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍋",
+                "detail": ""
             },
             {
                 "id": "tomate",
@@ -67802,7 +69643,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Tomate",
                 "baseQty": 1,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍅",
+                "detail": ""
             },
             {
                 "id": "oignon",
@@ -67810,7 +69653,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Oignon rouge",
                 "baseQty": 20,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧅",
+                "detail": ""
             },
             {
                 "id": "coriandre",
@@ -67818,7 +69663,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Coriandre fraîche",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🌿",
+                "detail": ""
             },
             {
                 "id": "concombre",
@@ -67826,7 +69673,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Concombre (pour dipper)",
                 "baseQty": 100,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥒",
+                "detail": ""
             },
             {
                 "id": "carotte",
@@ -67834,7 +69683,9 @@ const RECIPES_DATA = [
                 "role": "neutral",
                 "name": "Bâtonnets de carotte",
                 "baseQty": 80,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥕",
+                "detail": ""
             }
         ],
         "steps": [
@@ -67866,7 +69717,11 @@ const RECIPES_DATA = [
                 "title": "Conservation",
                 "text": "Consommer rapidement car l'avocat s'oxyde. Presser un filet de citron sur le dessus si vous devez attendre."
             }
-        ]
+        ],
+        "name": "Dip Guacamole Protéiné",
+        "emoji": "🥑",
+        "sliderMin": 50,
+        "sliderMax": 200
     },
     {
         "id": "gaufres-proteinees-cannelle",
@@ -67889,7 +69744,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "carb",
                 "baseQty": 50,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🌾",
+                "detail": ""
             },
             {
                 "id": "whey_protein",
@@ -67897,7 +69754,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "protein",
                 "baseQty": 30,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "blanc_oeuf",
@@ -67905,7 +69764,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "protein",
                 "baseQty": 100,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "lait_demi",
@@ -67913,7 +69774,9 @@ const RECIPES_DATA = [
                 "unit": "ml",
                 "role": "neutral",
                 "baseQty": 80,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "miel",
@@ -67921,7 +69784,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "carb",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍯",
+                "detail": ""
             }
         ],
         "options": [
@@ -67977,7 +69842,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "carb",
                 "baseQty": 60,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🌾",
+                "detail": ""
             },
             {
                 "id": "oeuf",
@@ -67985,7 +69852,9 @@ const RECIPES_DATA = [
                 "unit": "pièce",
                 "role": "protein",
                 "baseQty": 1,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥚",
+                "detail": ""
             },
             {
                 "id": "fromage_blanc_0",
@@ -67993,7 +69862,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "protein",
                 "baseQty": 80,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥛",
+                "detail": ""
             },
             {
                 "id": "pomme",
@@ -68001,7 +69872,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "carb",
                 "baseQty": 100,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍎",
+                "detail": ""
             },
             {
                 "id": "noix",
@@ -68009,7 +69882,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "fat",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥜",
+                "detail": ""
             },
             {
                 "id": "miel",
@@ -68017,7 +69892,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "carb",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍯",
+                "detail": ""
             }
         ],
         "options": [
@@ -68074,7 +69951,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "fat",
                 "baseQty": 30,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🟤",
+                "detail": ""
             },
             {
                 "id": "lait_coco",
@@ -68082,7 +69961,9 @@ const RECIPES_DATA = [
                 "unit": "ml",
                 "role": "fat",
                 "baseQty": 150,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥥",
+                "detail": ""
             },
             {
                 "id": "fruits_rouges",
@@ -68090,7 +69971,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "carb",
                 "baseQty": 80,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍓",
+                "detail": ""
             },
             {
                 "id": "skyr_0",
@@ -68098,7 +69981,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "protein",
                 "baseQty": 80,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "noix_coco_rapee",
@@ -68106,7 +69991,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "fat",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "sirop_erable",
@@ -68114,7 +70001,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "carb",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍁",
+                "detail": ""
             }
         ],
         "options": [
@@ -68171,7 +70060,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "protein",
                 "baseQty": 30,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "flocons_avoine",
@@ -68179,7 +70070,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "carb",
                 "baseQty": 30,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🌾",
+                "detail": ""
             },
             {
                 "id": "oeuf",
@@ -68187,7 +70080,9 @@ const RECIPES_DATA = [
                 "unit": "pièce",
                 "role": "protein",
                 "baseQty": 1,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥚",
+                "detail": ""
             },
             {
                 "id": "cacao_poudre",
@@ -68195,7 +70090,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🟤",
+                "detail": ""
             },
             {
                 "id": "lait_demi",
@@ -68203,7 +70100,9 @@ const RECIPES_DATA = [
                 "unit": "ml",
                 "role": "neutral",
                 "baseQty": 50,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "beurre_cacahuete",
@@ -68211,7 +70110,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "fat",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥜",
+                "detail": ""
             }
         ],
         "options": [
@@ -68267,7 +70168,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "carb",
                 "baseQty": 50,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🌾",
+                "detail": ""
             },
             {
                 "id": "yaourt_grec",
@@ -68275,7 +70178,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "protein",
                 "baseQty": 100,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥛",
+                "detail": ""
             },
             {
                 "id": "mangue",
@@ -68283,7 +70188,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "carb",
                 "baseQty": 80,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥭",
+                "detail": ""
             },
             {
                 "id": "lait_amande",
@@ -68291,7 +70198,9 @@ const RECIPES_DATA = [
                 "unit": "ml",
                 "role": "neutral",
                 "baseQty": 80,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥛",
+                "detail": ""
             },
             {
                 "id": "amandes",
@@ -68299,7 +70208,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "fat",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "graines_chia",
@@ -68307,7 +70218,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "fat",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🟤",
+                "detail": ""
             }
         ],
         "options": [
@@ -68363,7 +70276,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "carb",
                 "baseQty": 60,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍞",
+                "detail": ""
             },
             {
                 "id": "banane",
@@ -68371,7 +70286,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "carb",
                 "baseQty": 100,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍌",
+                "detail": ""
             },
             {
                 "id": "beurre_cacahuete",
@@ -68379,7 +70296,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "fat",
                 "baseQty": 20,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥜",
+                "detail": ""
             },
             {
                 "id": "graines_chia",
@@ -68387,7 +70306,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "fat",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🟤",
+                "detail": ""
             },
             {
                 "id": "miel",
@@ -68395,7 +70316,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "carb",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍯",
+                "detail": ""
             },
             {
                 "id": "cottage_cheese",
@@ -68403,7 +70326,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "protein",
                 "baseQty": 50,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧀",
+                "detail": ""
             }
         ],
         "options": [
@@ -68460,7 +70385,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "carb",
                 "baseQty": 50,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🌾",
+                "detail": ""
             },
             {
                 "id": "whey_protein",
@@ -68468,7 +70395,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "protein",
                 "baseQty": 25,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "beurre_cacahuete",
@@ -68476,7 +70405,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "fat",
                 "baseQty": 30,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥜",
+                "detail": ""
             },
             {
                 "id": "cacao_poudre",
@@ -68484,7 +70415,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🟤",
+                "detail": ""
             },
             {
                 "id": "miel",
@@ -68492,7 +70425,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "carb",
                 "baseQty": 15,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍯",
+                "detail": ""
             },
             {
                 "id": "lait_demi",
@@ -68500,7 +70435,9 @@ const RECIPES_DATA = [
                 "unit": "ml",
                 "role": "neutral",
                 "baseQty": 20,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             }
         ],
         "options": [
@@ -68556,7 +70493,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "protein",
                 "baseQty": 150,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "fraises",
@@ -68564,7 +70503,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "carb",
                 "baseQty": 100,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "granola",
@@ -68572,7 +70513,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "carb",
                 "baseQty": 30,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥣",
+                "detail": ""
             },
             {
                 "id": "amandes",
@@ -68580,7 +70523,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "fat",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "miel",
@@ -68588,7 +70533,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "carb",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍯",
+                "detail": ""
             }
         ],
         "options": [
@@ -68644,7 +70591,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "carb",
                 "baseQty": 60,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "oeuf",
@@ -68652,7 +70601,9 @@ const RECIPES_DATA = [
                 "unit": "pièce",
                 "role": "protein",
                 "baseQty": 1,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥚",
+                "detail": ""
             },
             {
                 "id": "blanc_oeuf",
@@ -68660,7 +70611,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "protein",
                 "baseQty": 50,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "lait_demi",
@@ -68668,7 +70621,9 @@ const RECIPES_DATA = [
                 "unit": "ml",
                 "role": "neutral",
                 "baseQty": 50,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "chocolat_noir_70",
@@ -68676,7 +70631,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "fat",
                 "baseQty": 15,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "fruits_rouges",
@@ -68684,7 +70641,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "carb",
                 "baseQty": 60,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍓",
+                "detail": ""
             }
         ],
         "options": [
@@ -68745,7 +70704,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "carb",
                 "baseQty": 100,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍌",
+                "detail": ""
             },
             {
                 "id": "whey_protein",
@@ -68753,7 +70714,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "protein",
                 "baseQty": 30,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "lait_demi",
@@ -68761,7 +70724,9 @@ const RECIPES_DATA = [
                 "unit": "ml",
                 "role": "neutral",
                 "baseQty": 200,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "cacao_poudre",
@@ -68769,7 +70734,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 8,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🟤",
+                "detail": ""
             },
             {
                 "id": "beurre_cacahuete",
@@ -68777,7 +70744,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "fat",
                 "baseQty": 15,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥜",
+                "detail": ""
             },
             {
                 "id": "flocons_avoine",
@@ -68785,7 +70754,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "carb",
                 "baseQty": 20,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🌾",
+                "detail": ""
             }
         ],
         "options": [
@@ -68841,7 +70812,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "carb",
                 "baseQty": 100,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "oeufs",
@@ -68849,7 +70822,9 @@ const RECIPES_DATA = [
                 "unit": "pièces",
                 "role": "protein",
                 "baseQty": 2,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "fromage_blanc_0",
@@ -68857,7 +70832,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "protein",
                 "baseQty": 100,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥛",
+                "detail": ""
             },
             {
                 "id": "farine_complete",
@@ -68865,7 +70842,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "carb",
                 "baseQty": 30,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "lait_demi",
@@ -68873,7 +70852,9 @@ const RECIPES_DATA = [
                 "unit": "ml",
                 "role": "neutral",
                 "baseQty": 80,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "sirop_erable",
@@ -68881,7 +70862,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "carb",
                 "baseQty": 15,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍁",
+                "detail": ""
             }
         ],
         "options": [
@@ -68941,7 +70924,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "carb",
                 "baseQty": 100,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "banane",
@@ -68949,7 +70934,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "carb",
                 "baseQty": 80,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍌",
+                "detail": ""
             },
             {
                 "id": "skyr_0",
@@ -68957,7 +70944,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "protein",
                 "baseQty": 100,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "granola",
@@ -68965,7 +70954,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "carb",
                 "baseQty": 25,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥣",
+                "detail": ""
             },
             {
                 "id": "noix_coco_rapee",
@@ -68973,7 +70964,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "fat",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "graines_chia",
@@ -68981,7 +70974,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "fat",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🟤",
+                "detail": ""
             }
         ],
         "options": [
@@ -69037,7 +71032,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "carb",
                 "baseQty": 150,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍎",
+                "detail": ""
             },
             {
                 "id": "flocons_avoine",
@@ -69045,7 +71042,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "carb",
                 "baseQty": 40,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🌾",
+                "detail": ""
             },
             {
                 "id": "whey_protein",
@@ -69053,7 +71052,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "protein",
                 "baseQty": 20,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "amandes",
@@ -69061,7 +71062,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "fat",
                 "baseQty": 15,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "yaourt_grec",
@@ -69069,7 +71072,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "protein",
                 "baseQty": 80,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥛",
+                "detail": ""
             },
             {
                 "id": "miel",
@@ -69077,7 +71082,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "carb",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍯",
+                "detail": ""
             }
         ],
         "options": [
@@ -69133,7 +71140,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "carb",
                 "baseQty": 60,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍞",
+                "detail": ""
             },
             {
                 "id": "oeufs",
@@ -69141,7 +71150,9 @@ const RECIPES_DATA = [
                 "unit": "pièces",
                 "role": "protein",
                 "baseQty": 2,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "banane",
@@ -69149,7 +71160,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "carb",
                 "baseQty": 80,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍌",
+                "detail": ""
             },
             {
                 "id": "lait_amande",
@@ -69157,7 +71170,9 @@ const RECIPES_DATA = [
                 "unit": "ml",
                 "role": "neutral",
                 "baseQty": 50,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥛",
+                "detail": ""
             },
             {
                 "id": "amandes",
@@ -69165,7 +71180,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "fat",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "sirop_erable",
@@ -69173,7 +71190,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "carb",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍁",
+                "detail": ""
             }
         ],
         "options": [
@@ -69230,7 +71249,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "protein",
                 "baseQty": 150,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥛",
+                "detail": ""
             },
             {
                 "id": "granola",
@@ -69238,7 +71259,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "carb",
                 "baseQty": 35,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥣",
+                "detail": ""
             },
             {
                 "id": "kiwi",
@@ -69246,7 +71269,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "carb",
                 "baseQty": 80,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "graines_lin",
@@ -69254,7 +71279,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "fat",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "sirop_erable",
@@ -69262,7 +71289,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "carb",
                 "baseQty": 10,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍁",
+                "detail": ""
             }
         ],
         "options": [
@@ -69319,7 +71348,9 @@ const RECIPES_DATA = [
                 "unit": "pièces",
                 "role": "protein",
                 "baseQty": 3,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "epinards",
@@ -69327,7 +71358,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 50,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "poivron_rouge",
@@ -69335,7 +71368,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 40,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫑",
+                "detail": ""
             },
             {
                 "id": "fromage_rape",
@@ -69343,7 +71378,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "fat",
                 "baseQty": 20,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "jambon_blanc",
@@ -69351,7 +71388,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "protein",
                 "baseQty": 40,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥓",
+                "detail": ""
             },
             {
                 "id": "champignon",
@@ -69359,7 +71398,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 40,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍄",
+                "detail": ""
             }
         ],
         "options": [
@@ -69419,7 +71460,9 @@ const RECIPES_DATA = [
                 "unit": "pièce",
                 "role": "carb",
                 "baseQty": 1,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "oeufs",
@@ -69427,7 +71470,9 @@ const RECIPES_DATA = [
                 "unit": "pièces",
                 "role": "protein",
                 "baseQty": 2,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "dinde",
@@ -69435,7 +71480,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "protein",
                 "baseQty": 60,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🦃",
+                "detail": ""
             },
             {
                 "id": "poivron_rouge",
@@ -69443,7 +71490,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 40,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫑",
+                "detail": ""
             },
             {
                 "id": "epinards",
@@ -69451,7 +71500,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 30,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "fromage_rape",
@@ -69459,7 +71510,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "fat",
                 "baseQty": 15,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             }
         ],
         "options": [
@@ -69520,7 +71573,9 @@ const RECIPES_DATA = [
                 "unit": "pièces",
                 "role": "protein",
                 "baseQty": 3,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🔹",
+                "detail": ""
             },
             {
                 "id": "courgette",
@@ -69528,7 +71583,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 100,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🥒",
+                "detail": ""
             },
             {
                 "id": "feta",
@@ -69536,7 +71593,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "fat",
                 "baseQty": 30,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧀",
+                "detail": ""
             },
             {
                 "id": "oignon",
@@ -69544,7 +71603,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 30,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🧅",
+                "detail": ""
             },
             {
                 "id": "tomate",
@@ -69552,7 +71613,9 @@ const RECIPES_DATA = [
                 "unit": "g",
                 "role": "neutral",
                 "baseQty": 60,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🍅",
+                "detail": ""
             },
             {
                 "id": "huile_olive",
@@ -69560,7 +71623,9 @@ const RECIPES_DATA = [
                 "unit": "ml",
                 "role": "fat",
                 "baseQty": 5,
-                "scalable": true
+                "scalable": true,
+                "emoji": "🫒",
+                "detail": ""
             }
         ],
         "options": [
